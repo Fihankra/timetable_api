@@ -1,5 +1,13 @@
-const mongoose = require('mongoose');
 
+const mongoose = require('mongoose');
+const MessageSchema = new mongoose.Schema({
+    schoolName: String,
+    tableDescription: String,
+    tableFooter: String,
+    year: String,
+    semester: String,
+    config: Map
+});
 const TableItemSchema = new mongoose.Schema({
     id: { type: String, required: true },
     vtpId: { type: String, required: true },
@@ -36,5 +44,6 @@ const TableItemSchema = new mongoose.Schema({
 });
 
 
-const TableItem = mongoose.model('TableItems', TableItemSchema);
-module.exports = TableItem;
+const Message = mongoose.model('Messages', MessageSchema);
+const TableItem = mongoose.model('Tables', TableItemSchema);
+module.exports = { Message, TableItem };
