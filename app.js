@@ -27,6 +27,9 @@ app.use('/api', classRoutes);
 app.use('/api', lecturerRoutes);
 app.use('/api', venueRoutes);
 app.use('/api', publishRoutes);
+app.use('/api/check', (req, res) => {
+    res.json({ status: true, message: "Server is up and running", data: [] });;
+});
 
 app.use('*', (req, res, next) => {
     res.send('Connected');

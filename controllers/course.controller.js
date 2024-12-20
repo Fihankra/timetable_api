@@ -4,7 +4,7 @@ const CourseService = require('../services/course.service');
 
 exports.create = async (req, res) => {
     try {
-        console.log(req.body);
+        //console.log(req.body);
         const data = req.body;
         if (!data) {
             res.json({ status: false, message: 'Course data is required' });
@@ -12,14 +12,14 @@ exports.create = async (req, res) => {
         }
         //check if course already exists
         const course = await CourseService.getCourseById(data.id);
-        console.log(course);
+        //console.log(course);
         if (course && course.length > 0) {
             res.json({ status: false, message: 'Course already exists' });
             return;
         }
         //create course
         const newCourse = await CourseService.createCourse(data);
-        console.log("New ==", newCourse);
+       // console.log("New ==", newCourse);
         res.json({ status: true, message: 'Course created successfully', data: newCourse });
     } catch (err) {
         res.json({ status: false, message: err.message });
