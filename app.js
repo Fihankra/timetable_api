@@ -9,7 +9,7 @@ const classRoutes = require('./routes/class.route');
 const lecturerRoutes = require('./routes/lecturer.route');
 const venueRoutes = require('./routes/venue.route');
 const publishRoutes = require('./routes/publish.route');
-
+const configRoutes = require('./routes/config.route');
 app.use(cors());
 app.use((req, res, next) => {
     res.header("Access-Control-Allow-Origin");
@@ -20,6 +20,7 @@ app.use((req, res, next) => {
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
+app.use('/api', configRoutes);
 app.use('/api', departmentRoutes);
 app.use('/api', programRoutes);
 app.use('/api', courseRoutes);
