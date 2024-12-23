@@ -17,7 +17,7 @@ exports.createConfig = async (req, res) => {
         }
         //create config
         const newConfig = await ConfigService.createConfig(data);
-         console.log("New ==", newCourse);
+        console.log("New ==", newConfig);
         res.json({ status: true, message: 'Config created successfully', data: newConfig });
     } catch (err) {
         res.json({ status: false, message: err.message });
