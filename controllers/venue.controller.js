@@ -1,7 +1,4 @@
 const VenueService = require('../services/venue.service');
-
-// Create and Save a new Venue
-
 exports.create = async (req, res) => {
     try {
         console.log(req.body);
@@ -19,8 +16,12 @@ exports.create = async (req, res) => {
         }
         //create venue
         const newVenue = await VenueService.createVenue(data);
-        console.log("New ==", newVenue);
-        res.json({ status: true, message: 'Venue created successfully', data: newVenue });
+        if (!newVenue) {
+            res.json({ status: false, message: 'Failed to  create Venue' });
+            return;
+        }
+        const venuesList = await VenueService.getVenues();
+        res.json({ status: true, message: 'Venue created successfully', data: venuesList });
     } catch (err) {
         res.json({ status: false, message: err.message });
     }
@@ -30,8 +31,8 @@ exports.create = async (req, res) => {
 // Retrieve and return all venue from the database.
 exports.findAll = async (req, res) => {
     try {
-        const venue = await VenueService.getVenues();
-        res.json({ status: true, message: "Data found", data: venue });
+        const venuesList = await VenueService.getVenues();
+        res.json({ status: true, message: "Data found", data: venuesList });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
@@ -57,8 +58,8 @@ exports.update = async (req, res) => {
             res.json({ status: false, message: `Cannot update Venue with id=${id}. Venue not found` });
             return;
         }
-        console.log(updatedVenue);
-        res.json({ status: true, message: 'Venue updated successfully', data: updatedVenue });
+        const venuesList = await VenueService.getVenues();
+        res.json({ status: true, message: 'Venue updated successfully', data: venuesList });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
@@ -81,7 +82,8 @@ exports.delete = async (req, res) => {
             res.json({ status: false, message: `Cannot delete Venue with ids=${ids}. Venue not found` });
             return;
         }
-        res.json({ status: true, message: 'Venue deleted successfully', data: data });
+        const venuesList = await VenueService.getVenues();
+        res.json({ status: true, message: 'Venue deleted successfully', data: venuesList });
     }
     catch (err) {
         res.json({ status: false, message: err.message });

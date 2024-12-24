@@ -17,8 +17,12 @@ exports.createConfig = async (req, res) => {
         }
         //create config
         const newConfig = await ConfigService.createConfig(data);
-        console.log("New ==", newConfig);
-        res.json({ status: true, message: 'Config created successfully', data: newConfig });
+        if(!newConfig){
+            res.json({ status: false, message: 'Failed to create config' });
+            return
+        }
+        const configs = await ConfigService.getConfigs();
+        res.json({ status: true, message: 'Config created successfully', data: configs });
     } catch (err) {
         res.json({ status: false, message: err.message });
     }
@@ -27,8 +31,8 @@ exports.createConfig = async (req, res) => {
 // Retrieve and return all configs from the database.
 exports.findAll = async (req, res) => {
     try {
-        const config = await ConfigService.getConfigs();
-        res.json({ status: true, message: "Data found", data: config });
+        const configs = await ConfigService.getConfigs();
+        res.json({ status: true, message: "Data found", data: configs });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
@@ -54,8 +58,8 @@ exports.update = async (req, res) => {
             res.json({ status: false, message: `Cannot update Config with id=${id}. Config not found` });
             return;
         }
-        console.log(updatedConfig);
-        res.json({ status: true, message: 'Config updated successfully', data: updatedConfig });
+        const configs = await ConfigService.getConfigs();
+        res.json({ status: true, message: 'Config updated successfully', data: configs });
     } catch (err) {
         res.json({ status: false, message: err.message });
     }

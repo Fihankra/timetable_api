@@ -6,7 +6,7 @@ const CourseSchema = new mongoose.Schema({
     courseCode: { type: String, required: true },
     creditHours: { type: Number, required: true },
     departmentId: { type: String, required: true },
-    studyMode: { type: String, required: true },
+    studyMode: { type: [String], required: true },
     programId: { type: String, required: true },
     level: { type: String, required: true },
     configId: { type: String, required: true },

@@ -19,8 +19,12 @@ exports.create = async (req, res) => {
         }
         //create course
         const newCourse = await CourseService.createCourse(data);
-       // console.log("New ==", newCourse);
-        res.json({ status: true, message: 'Course created successfully', data: newCourse });
+      if (!newCourse) {
+            res.json({ status: false, message: 'Failed to create Course' });
+            return
+        }
+        const coursesList = await CourseService.getCourses();
+        res.json({ status: true, message: 'Course created successfully', data: coursesList });
     } catch (err) {
         res.json({ status: false, message: err.message });
     }
@@ -30,8 +34,8 @@ exports.create = async (req, res) => {
 // Retrieve and return all course from the database.
 exports.findAll = async (req, res) => {
     try {
-        const course = await CourseService.getCourses();
-        res.json({ status: true, message: "Data found", data: course });
+        const coursesList = await CourseService.getCourses();
+        res.json({ status: true, message: "Data found", data: coursesList });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
@@ -57,8 +61,8 @@ exports.update = async (req, res) => {
             res.json({ status: false, message: `Cannot update Course with id=${id}. Course not found` });
             return;
         }
-        console.log(updatedCourse);
-        res.json({ status: true, message: 'Course updated successfully', data: updatedCourse });
+        const coursesList = await CourseService.getCourses();
+        res.json({ status: true, message: 'Course updated successfully', data: coursesList });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
@@ -81,7 +85,8 @@ exports.delete = async (req, res) => {
             res.json({ status: false, message: `Cannot delete Course with ids=${ids}. Course not found` });
             return;
         }
-        res.json({ status: true, message: 'Course deleted successfully', data: data });
+        const coursesList = await CourseService.getCourses();
+        res.json({ status: true, message: 'Course deleted successfully', data: coursesList });
     }
     catch (err) {
         res.json({ status: false, message: err.message });

@@ -19,8 +19,12 @@ exports.create = async (req, res) => {
         }
         //create department
         const newDepartment = await DepartmentService.createDepartment(data);
-        console.log("New ==",newDepartment);
-        res.json({ status: true, message: 'Department created successfully', data: newDepartment });
+        if(!newDepartment){
+            res.json({ status: false, message: 'Error creating department' });
+            return;
+        }
+        const departments = await DepartmentService.getDepartments();
+        res.json({ status: true, message: 'Department created successfully', data: departments });
     } catch (err) {
         res.json({ status: false, message: err.message });
     }
@@ -57,8 +61,8 @@ exports.update = async (req, res) => {
             res.json({ status: false, message: `Cannot update Department with id=${id}. Department not found` });
             return;
         }
-        console.log(updatedDepartment);
-        res.json({ status: true, message: 'Department updated successfully', data: updatedDepartment });
+        const departments = await DepartmentService.getDepartments();
+        res.json({ status: true, message: 'Department updated successfully', data: departments });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
@@ -74,14 +78,13 @@ exports.delete = async (req, res) => {
             res.json({ status: false, message: 'Department ids are required' });
             return;
         }
-        console.log(ids);
-        //delete departments
         const data = await DepartmentService.deleteDepartments(ids);
         if (!data) {
             res.json({ status: false, message: `Cannot delete Department with ids=${ids}. Department not found` });
             return;
         }
-        res.json({ status: true, message: 'Department deleted successfully', data: data });
+        const departments = await DepartmentService.getDepartments();
+        res.json({ status: true, message: 'Department deleted successfully', data: departments });
     }
     catch (err) {
         res.json({ status: false, message: err.message });

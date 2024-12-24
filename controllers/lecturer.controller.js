@@ -19,8 +19,12 @@ exports.create = async (req, res) => {
         }
         //create lecturer
         const newLecturer = await LecturerService.createLecturer(data);
-        console.log("New ==", newLecturer);
-        res.json({ status: true, message: 'Lecturer created successfully', data: newLecturer });
+        if (!newLecturer) {
+            res.json({ status: false, message: 'Failed to  create Lecturer' });
+            return;
+        }
+        const lecturersList = await LecturerService.getLecturers();
+        res.json({ status: true, message: 'Lecturer created successfully', data: lecturersList });
     } catch (err) {
         res.json({ status: false, message: err.message });
     }
@@ -30,8 +34,8 @@ exports.create = async (req, res) => {
 // Retrieve and return all lecturer from the database.
 exports.findAll = async (req, res) => {
     try {
-        const lecturer = await LecturerService.getLecturers();
-        res.json({ status: true, message: "Data found", data: lecturer });
+        const lecturersList = await LecturerService.getLecturers();
+        res.json({ status: true, message: "Data found", data: lecturersList });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
@@ -57,8 +61,8 @@ exports.update = async (req, res) => {
             res.json({ status: false, message: `Cannot update Lecturer with id=${id}. Lecturer not found` });
             return;
         }
-        console.log(updatedLecturer);
-        res.json({ status: true, message: 'Lecturer updated successfully', data: updatedLecturer });
+        const lecturersList = await LecturerService.getLecturers();
+        res.json({ status: true, message: 'Lecturer updated successfully', data: lecturersList });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
@@ -74,14 +78,14 @@ exports.delete = async (req, res) => {
             res.json({ status: false, message: 'Lecturer ids are required' });
             return;
         }
-        console.log(ids);
-        //delete lecturer
+       
         const data = await LecturerService.deleteLecturers(ids);
         if (!data) {
             res.json({ status: false, message: `Cannot delete Lecturer with ids=${ids}. Lecturer not found` });
             return;
         }
-        res.json({ status: true, message: 'Lecturer deleted successfully', data: data });
+        const lecturersList = await LecturerService.getLecturers();
+        res.json({ status: true, message: 'Lecturer deleted successfully', data: lecturersList });
     }
     catch (err) {
         res.json({ status: false, message: err.message });

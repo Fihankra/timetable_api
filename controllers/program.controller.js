@@ -5,23 +5,25 @@ const ProgramService = require('../services/program.service');
 
 exports.create = async (req, res) => {
     try {
-        console.log(req.body);
+        
         const data = req.body;
         if (!data) {
             res.json({ status: false, message: 'Program data is required' });
             return;
         }
-        //check if Program already exists
         const program = await ProgramService.getProgramById(data.id);
-        console.log(program);
         if (program && program.length > 0) {
             res.json({ status: false, message: 'Program already exists' });
             return;
         }
         //create Program
         const newProgram = await ProgramService.createProgram(data);
-        console.log("New ==", newProgram);
-        res.json({ status: true, message: 'Program created successfully', data: newProgram });
+        if (!newProgram) {
+            res.json({ status: false, message: 'Failed to  create Program' });
+            return;
+        }
+        const programsList = await ProgramService.getPrograms();
+        res.json({ status: true, message: 'Program created successfully', data: programsList });
     } catch (err) {
         res.json({ status: false, message: err.message });
     }
@@ -31,8 +33,8 @@ exports.create = async (req, res) => {
 // Retrieve and return all Programs from the database.
 exports.findAll = async (req, res) => {
     try {
-        const programs = await ProgramService.getPrograms();
-        res.json({ status: true, message: "Data found", data: programs });
+        const programsList = await ProgramService.getPrograms();
+        res.json({ status: true, message: "Data found", data: programsList });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
@@ -58,8 +60,8 @@ exports.update = async (req, res) => {
             res.json({ status: false, message: `Cannot update Program with id=${id}. Program not found` });
             return;
         }
-        console.log(updatedProgram);
-        res.json({ status: true, message: 'Program updated', data: updatedProgram });
+        const programsList = await ProgramService.getPrograms();
+        res.json({ status: true, message: 'Program updated', data: programsList });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
@@ -75,14 +77,13 @@ exports.delete = async (req, res) => {
             res.json({ status: false, message: 'Program ids are required' });
             return;
         }
-        console.log(ids);
-        //delete Programs
         const data = await ProgramService.deletePrograms(ids);
         if (!data) {
             res.json({ status: false, message: `Cannot delete Program with ids=${ids}. Program not found` });
             return;
         }
-        res.json({ status: true, message: 'Program deleted successfully', data: data });
+        const programsList = await ProgramService.getPrograms();
+        res.json({ status: true, message: 'Program deleted successfully', data: programsList });
     }
     catch (err) {
         res.json({ status: false, message: err.message });

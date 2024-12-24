@@ -19,8 +19,12 @@ exports.create = async (req, res) => {
         }
         //create classes
         const newClass = await ClassService.createClass(data);
-        console.log("New ==", newClass);
-        res.json({ status: true, message: 'Class created successfully', data: newClass });
+        if(!newClass){
+            res.json({ status: false, message: 'Failed to create class' });
+            return;
+        }
+        const classesList = await ClassService.getClasses();
+        res.json({ status: true, message: 'Class created successfully', data: classesList });
     } catch (err) {
         res.json({ status: false, message: err.message });
     }
@@ -57,8 +61,8 @@ exports.update = async (req, res) => {
             res.json({ status: false, message: `Cannot update Class with id=${id}. Class not found` });
             return;
         }
-        console.log(updatedClass);
-        res.json({ status: true, message: 'Class updated successfully', data: updatedClass });
+        const classesList = await ClassService.getClasses();
+        res.json({ status: true, message: 'Class updated successfully', data: classesList });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
@@ -81,7 +85,8 @@ exports.delete = async (req, res) => {
             res.json({ status: false, message: `Cannot delete Class with ids=${ids}. Class not found` });
             return;
         }
-        res.json({ status: true, message: 'Class deleted successfully', data: data });
+        const classesList = await ClassService.getClasses();
+        res.json({ status: true, message: 'Class deleted successfully', data: classesList });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
