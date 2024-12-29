@@ -19,7 +19,6 @@ exports.findAllTables = async (req, res) => {
        
         const year = req.query.year;
         const semester = req.query.semester;
-        console.log(year, semester);
         if(!year || !semester){
             res.json({ status: false, message: "Year and semester are required" });
             return;

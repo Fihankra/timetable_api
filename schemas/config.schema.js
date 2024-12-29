@@ -16,7 +16,8 @@ const ConfigSchema = new mongoose.Schema({
     postInternshipPeriod: { type: Object, required: false },
     breakTime: { type: Object, required: false },
     regLibPeriod: { type: Object, required: false },
-    isCurrent: { type: Boolean, required: true }
+    isCurrent: { type: Boolean, required: true },
+    studyMode: { type: String, required: true },
 });
 
 module.exports = mongoose.model('Config', ConfigSchema);

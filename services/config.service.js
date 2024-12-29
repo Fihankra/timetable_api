@@ -19,7 +19,7 @@ exports.updateConfig = async (id, config) => {
         }, config, { new: true });
 }
 
-exports.getConfigByYearAndSemester = async (year, semester) => {
-    return await Config.find({ year: year, semester: semester });
+exports.getConfigByYearAndSemester = async (year, semester,studyMode) => {
+    return await Config.find({ year: year, semester: semester, studyMode: studyMode });
 };
 

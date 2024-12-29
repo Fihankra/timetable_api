@@ -12,9 +12,8 @@ exports.create = async (req, res) => {
         }
         //check if course already exists
         const course = await CourseService.getCourseById(data.id);
-        //console.log(course);
         if (course && course.length > 0) {
-            res.json({ status: false, message: 'Course already exists' });
+            res.json({ status: false, message: 'Course with the same details already exists' });
             return;
         }
         //create course
@@ -78,8 +77,6 @@ exports.delete = async (req, res) => {
             res.json({ status: false, message: 'Course ids are required' });
             return;
         }
-        console.log(ids);
-        //delete course
         const data = await CourseService.deleteCourses(ids);
         if (!data) {
             res.json({ status: false, message: `Cannot delete Course with ids=${ids}. Course not found` });

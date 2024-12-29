@@ -13,7 +13,7 @@ exports.create = async (req, res) => {
         }
         const program = await ProgramService.getProgramById(data.id);
         if (program && program.length > 0) {
-            res.json({ status: false, message: 'Program already exists' });
+            res.json({ status: false, message: 'Program with the same details already exists' });
             return;
         }
         //create Program

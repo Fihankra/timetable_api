@@ -12,9 +12,8 @@ exports.create = async (req, res) => {
         }
         //check if classes already exists
         const classes = await ClassService.getClassById(data.id);
-        console.log(classes);
         if (classes && classes.length > 0) {
-            res.json({ status: false, message: 'Class already exists' });
+            res.json({ status: false, message: 'Class with the same details already exists' });
             return;
         }
         //create classes
@@ -78,8 +77,6 @@ exports.delete = async (req, res) => {
             res.json({ status: false, message: 'Class ids are required' });
             return;
         }
-        console.log(ids);
-        //delete classes
         const data = await ClassService.deleteClasses(ids);
         if (!data) {
             res.json({ status: false, message: `Cannot delete Class with ids=${ids}. Class not found` });

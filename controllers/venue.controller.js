@@ -11,7 +11,7 @@ exports.create = async (req, res) => {
         const venue = await VenueService.getVenueById(data.id);
         console.log(venue);
         if (venue && venue.length > 0) {
-            res.json({ status: false, message: 'Venue already exists' });
+            res.json({ status: false, message: 'Venue with the same details already exists' });
             return;
         }
         //create venue
@@ -75,8 +75,6 @@ exports.delete = async (req, res) => {
             res.json({ status: false, message: 'Venue ids are required' });
             return;
         }
-        console.log(ids);
-        //delete venue
         const data = await VenueService.deleteVenues(ids);
         if (!data) {
             res.json({ status: false, message: `Cannot delete Venue with ids=${ids}. Venue not found` });

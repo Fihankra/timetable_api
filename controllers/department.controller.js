@@ -14,7 +14,7 @@ exports.create = async (req, res) => {
         const department = await DepartmentService.getDepartmentById(data.id);
         console.log(department);
         if (department&& department.length>0) {
-            res.json({ status: false, message: 'Department already exists' });
+            res.json({ status: false, message: 'Department with the same details already exists' });
             return;
         }
         //create department

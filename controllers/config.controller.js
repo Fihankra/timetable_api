@@ -9,10 +9,9 @@ exports.createConfig = async (req, res) => {
             return;
         }
         //check if config already exists
-        const config = await ConfigService.getConfigByYearAndSemester(data.year, data.semester);
-        console.log(config);
+        const config = await ConfigService.getConfigByYearAndSemester(data.year, data.semester, data.studyMode);
         if (config && config.length > 0) {
-            res.json({ status: false, message: 'Config with same year and semester already exist' });
+            res.json({ status: false, message: 'Config with same year, semester and study mode already exist' });
             return;
         }
         //create config

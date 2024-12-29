@@ -14,7 +14,7 @@ exports.create = async (req, res) => {
         const lecturer = await LecturerService.getLecturerById(data.id);
         console.log(lecturer);
         if (lecturer && lecturer.length > 0) {
-            res.json({ status: false, message: 'Lecturer already exists' });
+            res.json({ status: false, message: 'Lecturer with the same details already exists' });
             return;
         }
         //create lecturer
