@@ -12,6 +12,8 @@ exports.getMessages = async () => {
 
 
 exports.saveTable = async (tables) => {
+    //delete all tables with same configId
+    await TableItem.deleteMany({ configId: tables[0].configId });
     return await TableItem.insertMany(tables);
 }
 
