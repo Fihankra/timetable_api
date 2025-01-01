@@ -9,8 +9,6 @@ const ClassSchema = new mongoose.Schema({
     classSize: { type: Number, required: true },
     hasDisability: { type: Boolean, required: true },
     studyMode: { type: String, required: true },
-    confidId: { type: String, required: true }
-
 });
 
 module.exports = mongoose.model('Classes', ClassSchema);

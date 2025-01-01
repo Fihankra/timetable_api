@@ -7,7 +7,6 @@ const LecturerSchema = new mongoose.Schema({
     email: { type: String, required: true },
     freeday: { type: String, required: false },
     coursesAndClasses: { type: [Map], required: true },
-    configId: { type: String, required: true }
 });
 
 module.exports = mongoose.model('Lecturers', LecturerSchema);

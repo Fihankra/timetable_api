@@ -9,7 +9,6 @@ const CourseSchema = new mongoose.Schema({
     studyMode: { type: [String], required: true },
     programId: { type: String, required: true },
     level: { type: String, required: true },
-    configId: { type: String, required: true },
     lecturers: { type: [String], required: true },
     courseType: { type: String, required: true },
     venueType: { type: String, required: true }

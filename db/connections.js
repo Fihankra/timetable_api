@@ -8,8 +8,8 @@ const uri = "mongodb://localhost:27017/AAMUSTED_TIMETABLE";
 
 // Connect to MongoDB
 mongoose.connect(uri, {
-    useNewUrlParser: true,
-    useUnifiedTopology: true
+    // useNewUrlParser: true,
+    // useUnifiedTopology: true
 });
 
 // Create a connection to the database
