@@ -9,10 +9,11 @@ const MessageSchema = new mongoose.Schema({
     semester: String,
     config: Map
 });
+   
 const TableItemSchema = new mongoose.Schema({
     id: { type: String, required: true },
     vtpId: { type: String, required: true },
-    llpCclpId: { type: [String], required: true },
+    llpCclpId: { type: [String], required: false },
     year: { type: String, required: true },
     semester: { type: String, required: true },
     configId: { type: String, required: true },
@@ -20,29 +21,34 @@ const TableItemSchema = new mongoose.Schema({
     venue: { type: String, required: true },
     venueType: { type: String, required: true },
     venueCapacity: { type: Number, required: true },
-    courseId: { type: String, required: true },
-    courseCode: { type: String, required: true },
-    courseType: { type: String, required: true },
-    courseTitle: { type: String, required: true },
-    studyMode: { type: String, required: true },
-    classIds: { type: [String], required: true },
-    classNames: { type: [String], required: true },
+    courseId: String,
+    courseCode: String,
+    courseTitle: String,
+    courseType: String,
+    studyMode: String,
+    classIds:  [String],
+    classNames:  [String],
     level: { type: String, required: true },
     totalClassSize: { type: Number, required: true },
-    programId: { type: String, required: true },
-    programName: { type: String, required: true },
-    departmentId: { type: String, required: true },
-    departmentName: { type: String, required: true },
+    programId: String,
+    programName: String,
+    departmentId: String,
+    departmentName: String,
     day: { type: String, required: true },
     period: { type: String, required: true },
     periodPosition: { type: Number, required: true },
     periodStartTime: { type: String, required: true },
     periodEndTime: { type: String, required: true },
-    lecturerId: { type: String, required: true },
-    lecturerName: { type: String, required: true },
-    lecturerEmail: { type: String, required: true },
-    lecturerFreeDay: { type: String } // Optional field
-});
+    lecturerId: String,
+    lecturerName: String,
+    lecturerEmail: String,
+    lecturerFreeDay: String,
+    creditHours: { type: Number,default: 3 },
+    isForced: { type: Boolean,default: false },
+
+
+
+                                                                                                                                });
 
 
 const Message = mongoose.model('Messages', MessageSchema);
