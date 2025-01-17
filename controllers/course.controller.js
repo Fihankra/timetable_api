@@ -18,6 +18,7 @@ exports.create = async (req, res) => {
         }
         //create course
         const newCourse = await CourseService.createCourse(data);
+        
       if (!newCourse) {
             res.json({ status: false, message: 'Failed to create Course' });
             return
