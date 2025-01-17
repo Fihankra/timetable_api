@@ -10,6 +10,7 @@ const lecturerRoutes = require('./routes/lecturer.route');
 const venueRoutes = require('./routes/venue.route');
 const publishRoutes = require('./routes/publish.route');
 const configRoutes = require('./routes/config.route');
+const electivesRoutes = require('./routes/electives.route');
 app.use(cors());
 app.use((req, res, next) => {
     res.header("Access-Control-Allow-Origin");
@@ -17,14 +18,15 @@ app.use((req, res, next) => {
     res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
     next();
 });
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
+app.use(express.json({ limit: '400mb' }));
+app.use(express.urlencoded({ limit: '400mb', extended: false }));
 
 app.use('/api', configRoutes);
 app.use('/api', departmentRoutes);
 app.use('/api', programRoutes);
 app.use('/api', courseRoutes);
 app.use('/api', classRoutes);
+app.use('/api', electivesRoutes);
 app.use('/api', lecturerRoutes);
 app.use('/api', venueRoutes);
 app.use('/api', publishRoutes);
