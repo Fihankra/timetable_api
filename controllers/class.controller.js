@@ -4,7 +4,7 @@ const ClassService = require('../services/class.service');
 
 exports.create = async (req, res) => {
     try {
-        console.log(req.body);
+       
         const data = req.body;
         if (!data) {
             res.json({ status: false, message: 'Class data is required' });
