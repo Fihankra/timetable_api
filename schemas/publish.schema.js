@@ -5,11 +5,12 @@ const MessageSchema = new mongoose.Schema({
     schoolName: String,
     tableDescription: String,
     tableFooter: String,
-    year: String,
-    semester: String,
-    config: Map
+    year: {type: String, required: true },
+    semester: { type: String, required: true},
+    config: Map,
+    studyMode: { type:  String, required: true },
 });
-   
+
 const TableItemSchema = new mongoose.Schema({
     id: { type: String, required: true },
     vtpId: { type: String, required: true },
@@ -26,8 +27,8 @@ const TableItemSchema = new mongoose.Schema({
     courseTitle: String,
     courseType: String,
     studyMode: String,
-    classIds:  [String],
-    classNames:  [String],
+    classIds: [String],
+    classNames: [String],
     level: { type: String, required: true },
     totalClassSize: { type: Number, required: true },
     programId: String,
@@ -43,12 +44,12 @@ const TableItemSchema = new mongoose.Schema({
     lecturerName: String,
     lecturerEmail: String,
     lecturerFreeDay: String,
-    creditHours: { type: Number,default: 3 },
-    isForced: { type: Boolean,default: false },
+    creditHours: { type: Number, default: 3 },
+    isForced: { type: Boolean, default: false },
 
 
 
-                                                                                                                                });
+});
 
 
 const Message = mongoose.model('Messages', MessageSchema);
