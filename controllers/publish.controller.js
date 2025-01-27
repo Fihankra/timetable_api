@@ -1,7 +1,5 @@
 const PublishService = require('../services/publish.service');
 
-
-
         //create message
         exports.createMessageTable = async (req, res) => {
             try {
@@ -51,34 +49,6 @@ const PublishService = require('../services/publish.service');
                 res.json({ status: false, message: err.message });
             }
         }
-
-        //get all tables by year and semester
-
-        // exports.findAllTables = async (req, res) => {
-        //     try {
-
-
-        //         const configId = req.query.configId;
-        //         if (!configId) {
-        //             res.json({ status: false, message: "Config Id is required" });
-        //             return;
-        //         }
-
-
-        //         const configId = req.query.configId;
-        //         if(!configId){
-        //             res.json({ status: false, message: "Config Id is required" });
-        //             return;
-        //         }
-
-
-        //         const tables = await PublishService.getTables(configId);
-        //         res.json({ status: true, message: "Data found", data: tables });
-        //     }
-        //     catch (err) {
-        //         res.json({ status: false, message: err.message });
-        //     }
-        // }
 
         //find table and message 
         exports.findMessageAndTable = async (req, res) => {
