@@ -65,7 +65,7 @@ const PublishService = require('../services/publish.service');
                     res.json({ status: false, message: `Message not found` });
                     return;
                 }
-                const tables = (await PublishService.getTables(data.year, data.semester)).filter(table => table.studyMode.toLowerCase().includes(data.studyMode.toLowerCase()) || data.studyMode.toLowerCase().includes(table.studyMode.toLowerCase()));
+                const tables = await PublishService.getTables(data.year, data.semester);
                 console.log("tables length", tables.length);
                 if (!tables) {
                     res.json({ status: false, message: `Tables not found` });

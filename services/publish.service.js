@@ -25,21 +25,12 @@ exports.saveTable = async (tables) => {
 
 
 exports.getTables = async (year,semester) => {
-    return await TableItem.find({ year: year, semester: semester });
+    var data = await TableItem.find({ year: year, semester: semester });
+    console.log("data length", data.length);
+    return data;
 }
 
 exports.findMessage = async (year, semester,studyMode) => {
     return await Message.findOne({ year: year, semester: semester,studyMode:studyMode });
 }
 
-
-exports.findByLecturer = async (configId, lecturer) => {
-    return await TableItem.find({ configId: configId, lecturerName: lecturer });
-}
-
-exports.findByClass = async (configId, className) => {
-    return await TableItem.find({ configId: configId, classNames:{"$in":className} });
-}
-exports.getTables = async (configId) => {
-    return await TableItem.find({ configId: configId});
-}

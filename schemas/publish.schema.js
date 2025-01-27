@@ -51,10 +51,6 @@ const TableItemSchema = new mongoose.Schema({
     lecturerFreeDay: String,
     creditHours: { type: Number, default: 3 },
     isForced: { type: Boolean, default: false },
-
-    creditHours: { type: Number, default: 3 },
-    isForced: { type: Boolean, default: false },
-
 });
   
 
