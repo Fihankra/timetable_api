@@ -11,6 +11,7 @@ const MessageSchema = new mongoose.Schema({
     studyMode: { type:  String, required: true },
 });
 
+
 const TableItemSchema = new mongoose.Schema({
     id: { type: String, required: true },
     vtpId: { type: String, required: true },
@@ -29,6 +30,10 @@ const TableItemSchema = new mongoose.Schema({
     studyMode: String,
     classIds: [String],
     classNames: [String],
+
+    classIds:  [String],
+    classNames:  [String],
+
     level: { type: String, required: true },
     totalClassSize: { type: Number, required: true },
     programId: String,
@@ -50,6 +55,8 @@ const TableItemSchema = new mongoose.Schema({
 
 
 });
+    creditHours: { type: Number,default: 3 },
+    isForced: { type: Boolean,default: false },
 
 
 const Message = mongoose.model('Messages', MessageSchema);
