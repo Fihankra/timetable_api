@@ -5,6 +5,8 @@ const CourseSchema = new mongoose.Schema({
     courseTitle: { type: String, required: true },
     courseCode: { type: String, required: true },
     creditHours: { type: Number, required: true },
+
+    courseProgram: { type: [Map], required: true },
     departmentId: { type: String, required: true },
     studyMode: { type: [String], required: true },
     programId: { type: String, required: true },
