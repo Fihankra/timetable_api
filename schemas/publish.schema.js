@@ -52,11 +52,11 @@ const TableItemSchema = new mongoose.Schema({
     creditHours: { type: Number, default: 3 },
     isForced: { type: Boolean, default: false },
 
-
+    creditHours: { type: Number, default: 3 },
+    isForced: { type: Boolean, default: false },
 
 });
-    creditHours: { type: Number,default: 3 },
-    isForced: { type: Boolean,default: false },
+  
 
 
 const Message = mongoose.model('Messages', MessageSchema);
