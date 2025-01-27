@@ -1,4 +1,10 @@
-const {Message, TableItem} = require('../schemas/publish.schema');
+const { Message, TableItem } = require('../schemas/publish.schema');
+
+exports.saveMessage = async (message) => {
+    //replace existing message with same id
+    await Message.deleteOne({ id: message.id });
+    return await Message.create(message);
+}
 
 exports.saveMessage = async (message) => {
     //replace existing message with same id
@@ -17,6 +23,23 @@ exports.saveTable = async (tables) => {
     return await TableItem.insertMany(tables);
 }
 
+
+exports.getTables = async (year,semester) => {
+    return await TableItem.find({ year: year, semester: semester });
+}
+
+exports.findMessage = async (year, semester,studyMode) => {
+    return await Message.findOne({ year: year, semester: semester,studyMode:studyMode });
+}
+
+
+exports.findByLecturer = async (configId, lecturer) => {
+    return await TableItem.find({ configId: configId, lecturerName: lecturer });
+}
+
+exports.findByClass = async (configId, className) => {
+    return await TableItem.find({ configId: configId, classNames:{"$in":className} });
+}
 exports.getTables = async (configId) => {
     return await TableItem.find({ configId: configId});
 }
