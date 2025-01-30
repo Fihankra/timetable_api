@@ -1,4 +1,4 @@
-const ElectivesSchema = require('../schemas/electives.schema');
+const ElectivesSchema = require('../../schemas/courses/electives.course.schema');
 
 
 exports.createElective = async (elective) => {
