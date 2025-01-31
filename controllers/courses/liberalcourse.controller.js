@@ -80,7 +80,12 @@ exports.delete = async (req, res) => {
             res.json({ status: false, message: `Cannot delete Course with ids=${ids}. Course not found` });
             return;
         }
-        const coursesList = await LiberalCourseService.deleteLibCourse();
+        const deleteData = await LiberalCourseService.deleteLibCourse();
+        if (!deleteData) {
+            res.json({ status: false, message: `Cannot delete Course with ids=${ids}. Course not found` });
+            return;
+        }
+        const coursesList =await LiberalCourseService.getLibCourse();
         res.json({ status: true, message: 'Liberal/African Study Course deleted successfully', data: coursesList });
     }
     catch (err) {

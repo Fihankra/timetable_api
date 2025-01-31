@@ -14,7 +14,7 @@ exports.createElectives = async (req, res) => {
             res.json({ status: false, message: 'Elective with the same details already exists' });
             return;
         }
-       
+
         const newElective = await ElectiveCourseService.createElective(data);
         if (!newElective) {
             res.json({ status: false, message: 'Failed to create elective' });
@@ -56,7 +56,7 @@ exports.updateElectives = async (req, res) => {
             res.json({ status: false, message: `Cannot update Elective with id=${id}. Elective not found` });
             return;
         }
-        
+
         //update electives
         const updatedElective = await ElectiveCourseService.updateElective(id, data);
         if (!updatedElective) {
@@ -77,7 +77,6 @@ exports.deleteElectives = async (req, res) => {
             res.json({ status: false, message: 'Elective ids are required' });
             return;
         }
-       
         //delete electives
         const deletedElectives = await ElectiveCourseService.deleteElectives(ids);
         if (!deletedElectives) {
@@ -85,8 +84,7 @@ exports.deleteElectives = async (req, res) => {
             return;
         }
         const electivesList = await ElectiveCourseService.getElectives();
-        const coursesList = await courseService.getCourses();
-        res.json({ status: true, message: 'Elective deleted successfully', data: electivesList, courses: coursesList });
+        res.json({ status: true, message: 'Elective deleted successfully', data: electivesList });
     } catch (error) {
         res.json({ status: false, message: error.message });
     }
