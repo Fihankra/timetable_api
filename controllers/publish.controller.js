@@ -1,5 +1,6 @@
 const PublishService = require('../services/publish.service');
-
+const DepartmentService = require('../services/department.service')
+const ProgramsService = require('../services/program.service')
         //create message
         exports.createMessageTable = async (req, res) => {
             try {
@@ -53,28 +54,46 @@ const PublishService = require('../services/publish.service');
         //find table and message 
         exports.findMessageAndTable = async (req, res) => {
             var data = req.query;
-            console.log("data", data);
             if (!data) {
                 res.json({ status: false, message: 'Provide Your Data' });
                 return;
             }
             try {
                 const message = await PublishService.findMessage(data.year, data.semester, data.studyMode);
-                console.log("year", data.year, "semester", data.semester, "studyMode", data.studyMode);
+              
                 if (!message) {
                     res.json({ status: false, message: `Message not found` });
                     return;
                 }
                 const tables = await PublishService.getTables(data.year, data.semester);
-                console.log("tables length", tables.length);
+        
                 if (!tables) {
                     res.json({ status: false, message: `Tables not found` });
                     return;
                 }
+                // const departments = await DepartmentService.getDepartments();
+                // const programs = await ProgramsService.getPrograms();
+                // console.log("Tables", tables.length);
+                // console.log("Programs", programs.length);
+                // console.log("Departments", departments.length);
+                //  tables.forEach(async (table) => {
+                //     const programId = table.programId;
+                //     const program = programs.find(program => program.id == programId);
+                //     console.log("Program", program);
+                //     if (program) {
+                //         const department = departments.find(department => department.id == program.departmentId);
+                //         table.programName = program.name;
+                //         table.programId = program.id;
+                //         table.departmentName = department.name;
+                //         table.departmentId = department.id;
+                //         //save the table
+                //         await PublishService.updateTable(table);
+                //         console.log("Percentage", tables.indexOf(table) / tables.length * 100);
+                //     }
+                // });
+                //llop through the tables get program id and get the program name
                 if (data.query == "Lecturer") {
                     const lectTables = tables.filter(table => table.lecturerName.toLowerCase().includes(data.name.toLowerCase())&&data.studyMode.toLowerCase().includes(table.studyMode.toLowerCase()));
-
-                    console.log("name", data.name);
 
                     if (!lectTables) {
                         res.json({ status: false, message: `No tables found for ${data.name} ` });
@@ -89,8 +108,20 @@ const PublishService = require('../services/publish.service');
                     }
                     res.json({ status: true, message: "Data found", data: message, courses: classTables });
                 } else if (data.query == "Department") {
-                    const depTables = tables.filter(table => (table.departmentName.toLowerCase().includes(data.name.toLowerCase()) || data.name.toLowerCase().includes(table.departmentName.toLowerCase()))&&data.studyMode.toLowerCase().includes(table.studyMode.toLowerCase()));
-                    console.log("dep data length", depTables.length);
+                    const departments =await DepartmentService.getDepartments();
+                  
+                    if (!departments){
+                        res.json({ status: false, message: `Tables not found for department` });
+                        return; 
+                    }
+                    const department = departments.filter(depart => depart.name.toLowerCase().includes(data.name.toLowerCase()));
+                    if (!department) {
+                        res.json({ status: false, message: `Department not found` });
+                        return;
+                    }
+                    const dipId = department[0].id
+                    const depTables = tables.filter(table => (table.departmentId.includes(dipId) || table.departmentName.toLowerCase().includes(data.name.toLowerCase()))&&data.studyMode.toLowerCase().includes(table.studyMode.toLowerCase()));
+                    console.log("Department", depTables.length);
                     if (!depTables) {
                         res.json({ status: false, message: `Tables not found for department` });
                         return;

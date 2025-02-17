@@ -7,7 +7,7 @@ exports.createDepartment = async (department) => {
 };
 
 exports.getDepartments = async () => {
-    return await Department.find();
+    return await Department.find({});
 };
 
 exports.getDepartmentById = async (id) => {
