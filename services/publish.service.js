@@ -24,8 +24,8 @@ exports.saveTable = async (tables) => {
 }
 
 
-exports.getTables = async (year,semester,studyMode) => {
-    var data = await TableItem.find({ year: year, semester: semester, studyMode: studyMode });
+exports.getTables = async (year,semester) => {
+    var data = await TableItem.find({ year: year, semester: semester });
     console.log("data length", data.length);
     return data;
 }
