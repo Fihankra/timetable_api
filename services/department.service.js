@@ -19,6 +19,6 @@ exports.updateDepartment = async (id, department) => {
     return results;
 };
 
-exports.deleteDepartments = async (ids) => {
-return await Department.deleteMany({ id: { $in: ids } });
+exports.deleteDepartment = async (deleteDepartment) => {
+return await Department.findOneAndDelete({ id: deleteDepartment.id });
 }

@@ -1,0 +1,229 @@
+[{
+  "_id": {
+    "$oid": "679fccbf536e272d8a6980c0"
+  },
+  "id": "946677282",
+  "programId": "200338975",
+  "level": "300",
+  "studyMode": "Regular",
+  "courses": [
+    {
+      "id": "8642a654-8841-42cb-973c-0183ac83c057",
+      "courseTitle": "Creative Writing",
+      "courseCode": "ENGL 357",
+      "creditHours": 3,
+      "departmentId": "",
+      "studyMode": "",
+      "programId": "",
+      "level": "",
+      "lecturers": [
+        "706118717"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Lecture Hall"
+    },
+    {
+      "id": "74538742-acb5-491c-b12e-472692099bed",
+      "courseTitle": "African- American Literature",
+      "courseCode": "ENGL 358",
+      "creditHours": 3,
+      "departmentId": "",
+      "studyMode": "",
+      "programId": "",
+      "level": "",
+      "lecturers": [
+        "906503547"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Lecture Hall"
+    },
+    {
+      "id": "8659413b-f24d-432a-8e19-10ab7f118243",
+      "courseTitle": "Literature and Gender",
+      "courseCode": "ENGL 356",
+      "creditHours": 3,
+      "departmentId": "",
+      "studyMode": "",
+      "programId": "",
+      "level": "",
+      "lecturers": [
+        "919923555"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Lecture Hall"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fcddb536e272d8a6980c4"
+  },
+  "id": "467597227",
+  "programId": "370170229",
+  "level": "800",
+  "studyMode": "Regular",
+  "courses": [
+    {
+      "id": "78228612-6c1e-48c7-bb24-02940b4940d4",
+      "courseTitle": "Women and Literature",
+      "courseCode": "LIT 714",
+      "creditHours": 3,
+      "departmentId": "",
+      "studyMode": "",
+      "programId": "",
+      "level": "",
+      "lecturers": [
+        "1060290251"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Lecture Hall"
+    },
+    {
+      "id": "7c6bfe5b-8cf7-4ecb-8eda-d133f85c6cd9",
+      "courseTitle": "West African Poetry: Voices, Cultures and Pespective",
+      "courseCode": "LIT 715",
+      "creditHours": 3,
+      "departmentId": "",
+      "studyMode": "",
+      "programId": "",
+      "level": "",
+      "lecturers": [
+        "706118717"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Lecture Hall"
+    },
+    {
+      "id": "90e38781-c07d-401d-a205-e8f610759fb6",
+      "courseTitle": "Science Fiction",
+      "courseCode": "LIT 716",
+      "creditHours": 3,
+      "departmentId": "",
+      "studyMode": "",
+      "programId": "",
+      "level": "",
+      "lecturers": [
+        "706118717"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Lecture Hall"
+    },
+    {
+      "id": "753a1bf1-803c-4740-a24d-e90744930814",
+      "courseTitle": "Litearture and the Environment",
+      "courseCode": "LIT 717",
+      "creditHours": 3,
+      "departmentId": "",
+      "studyMode": "",
+      "programId": "",
+      "level": "",
+      "lecturers": [
+        "906503547"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Lecture Hall"
+    },
+    {
+      "id": "75a1be84-1d57-49a6-bb17-b10167a76f25",
+      "courseTitle": "Cultural Studies",
+      "courseCode": "LIT 718",
+      "creditHours": 3,
+      "departmentId": "",
+      "studyMode": "",
+      "programId": "",
+      "level": "",
+      "lecturers": [
+        "706118717"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Lecture Hall"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fcfd1536e272d8a6980c8"
+  },
+  "id": "592792956",
+  "programId": "160284158",
+  "level": "300",
+  "studyMode": "Regular",
+  "courses": [
+    {
+      "id": "68df1176-44e2-4ba0-831d-c4548121418b",
+      "courseTitle": "Power System Analysis",
+      "courseCode": "EEE 357",
+      "creditHours": 3,
+      "departmentId": "",
+      "studyMode": "",
+      "programId": "",
+      "level": "",
+      "lecturers": [
+        "146173016"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Lecture Hall"
+    },
+    {
+      "id": "c762133b-a73b-4112-a173-771092cc5551",
+      "courseTitle": "RF Circuit Design",
+      "courseCode": "EEE 358A",
+      "creditHours": 3,
+      "departmentId": "",
+      "studyMode": "",
+      "programId": "",
+      "level": "",
+      "lecturers": [
+        "455303511"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Lecture Hall"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fd063536e272d8a6980cc"
+  },
+  "id": "556743685",
+  "programId": "912273498",
+  "level": "300",
+  "studyMode": "Regular",
+  "courses": [
+    {
+      "id": "b9667c74-4849-495f-b7ee-c559ad89c4e9",
+      "courseTitle": "Construction Procurement Management",
+      "courseCode": "CTM 356M",
+      "creditHours": 3,
+      "departmentId": "",
+      "studyMode": "",
+      "programId": "",
+      "level": "",
+      "lecturers": [
+        "879572828"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Lecture Hall"
+    },
+    {
+      "id": "83d5b4da-9606-42cc-8799-2f53b85bd769",
+      "courseTitle": "Construction Materials Testing",
+      "courseCode": "CTM 357T",
+      "creditHours": 3,
+      "departmentId": "",
+      "studyMode": "",
+      "programId": "",
+      "level": "",
+      "lecturers": [
+        "510514274",
+        "122707987"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Lecture Hall"
+    }
+  ],
+  "__v": 0
+}]
