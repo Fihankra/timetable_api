@@ -4,12 +4,14 @@ exports.createLecturer = async (lecturer) => {
     return await Lecturer.create(lecturer);
 }
 
-exports.getLecturers = async () => {
-    return await Lecturer.find();
+exports.getLecturers = async (lecturerData) => {
+    return await Lecturer.find({
+        year: lecturerData.year,
+        semester: lecturerData.semester
+    });
 }
 
-exports.getLecturerById = async (id
-) => {
+exports.getLecturerById = async (id) => {
     return await Lecturer.find({ id: id });
 }
 

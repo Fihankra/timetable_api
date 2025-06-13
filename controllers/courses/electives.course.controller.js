@@ -20,8 +20,7 @@ exports.createElectives = async (req, res) => {
             res.json({ status: false, message: 'Failed to create elective' });
             return;
         }
-        const electivesList = await ElectiveCourseService.getElectives();
-        res.json({ status: true, message: 'Elective created successfully', data: electivesList });
+        res.json({ status: true, message: 'Elective created successfully', data: data });
     } catch (error) {
         res.json({ status: false, message: error.message });
     }
@@ -30,7 +29,19 @@ exports.createElectives = async (req, res) => {
 
 exports.findAllElectives = async (req, res) => {
     try {
-        const electives = await ElectiveCourseService.getElectives();
+        const { year, semester } = req.query;
+        //check if year and semester are provided
+        if (!year || !semester) {
+          res.json({
+            status: false,
+            message: "Year and semester are required",
+          });
+          return;
+        }
+        const electives = await ElectiveCourseService.getElectives({
+          year,
+          semester,
+        });
         res.json({ status: true, message: "Data found", data: electives });
     }
     catch (err) {
@@ -63,8 +74,8 @@ exports.updateElectives = async (req, res) => {
             res.json({ status: false, message: `Cannot update Elective with id=${id}. Elective not found` });
             return;
         }
-        const electivesList = await ElectiveCourseService.getElectives();
-        res.json({ status: true, message: 'Elective updated successfully', data: electivesList });
+        
+        res.json({ status: true, message: 'Elective updated successfully', data: data });
     } catch (error) {
         res.json({ status: false, message: error.message });
     }
@@ -72,19 +83,23 @@ exports.updateElectives = async (req, res) => {
 
 exports.deleteElectives = async (req, res) => {
     try {
-        const ids = req.body;
-        if (!ids) {
+        const electives = req.body;
+        if (!electives) {
             res.json({ status: false, message: 'Elective ids are required' });
             return;
         }
         //delete electives
+        const ids = electives.map((elective) => elective.id);
         const deletedElectives = await ElectiveCourseService.deleteElectives(ids);
         if (!deletedElectives) {
             res.json({ status: false, message: `Cannot delete Elective with ids=${ids}. Elective not found` });
             return;
         }
-        const electivesList = await ElectiveCourseService.getElectives();
-        res.json({ status: true, message: 'Elective deleted successfully', data: electivesList });
+        res.json({
+          status: true,
+          message: "Elective deleted successfully",
+          data: electives,
+        });
     } catch (error) {
         res.json({ status: false, message: error.message });
     }

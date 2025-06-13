@@ -33,8 +33,18 @@ exports.create = async (req, res) => {
 
 // Retrieve and return all lecturer from the database.
 exports.findAll = async (req, res) => {
+   
     try {
-        const lecturersList = await LecturerService.getLecturers();
+        const { year, semester } = req.query;
+        //check if year and semester are provided
+        if (!year || !semester) {
+            res.json({ status: false, message: 'Year and semester are required' });
+            return;
+        }
+        const lecturersList = await LecturerService.getLecturers({
+            year,
+            semester
+        });
         res.json({ status: true, message: "Data found", data: lecturersList });
     }
     catch (err) {

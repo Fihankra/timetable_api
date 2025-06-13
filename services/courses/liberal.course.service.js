@@ -5,8 +5,11 @@ exports.createLibCourse = async (libCourse) => {
     return await LiberalCourses.create(libCourse);
 };
 
-exports.getLibCourse = async () => {
-    return await LiberalCourses.find();
+exports.getLibCourse = async (libData) => {
+    return await LiberalCourses.find({
+        year: libData.year,
+        semester: libData.semester
+    });
 }
 
 exports.getLibCourseById = async (id) => {

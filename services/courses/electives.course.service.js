@@ -5,9 +5,12 @@ exports.createElective = async (elective) => {
    return await ElectivesSchema.create(elective);
 };
 
-exports.getElectives = async () => {
-    return await ElectivesSchema.find();
-    };
+exports.getElectives = async (electiveData) => {
+    return await ElectivesSchema.find({
+        year: electiveData.year,
+        semester: electiveData.semester
+    });
+};
 
 exports.getElectiveById = async (id ) => {
     return await ElectivesSchema.find({ id: id });

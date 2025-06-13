@@ -21,8 +21,7 @@ exports.create = async (req, res) => {
                 res.json({ status: false, message: 'Failed to liberal/African Study create Course' });
                 return
             }
-            const coursesList = await LiberalCourseService.getLibCourse();
-            res.json({ status: true, message: 'Liberal/African Study Course created successfully', data: coursesList });
+            res.json({ status: true, message: 'Liberal/African Study Course created successfully', data: newCourse });
         } catch (err) {
             res.json({ status: false, message: err.message });
         }
@@ -31,7 +30,16 @@ exports.create = async (req, res) => {
 // Retrieve and return all course from the database.
 exports.findAll = async (req, res) => {
     try {
-        const coursesList = await LiberalCourseService.getLibCourse();
+        const { year, semester } = req.query;
+
+        //check if year and semester are provided
+        if (!year || !semester) {
+            res.json({ status: false, message: 'Year and semester are required' });
+            return;
+        }   
+        const coursesList = await LiberalCourseService.getLibCourse(
+            { year, semester }
+        );
         res.json({ status: true, message: "Data found", data: coursesList });
     }
     catch (err) {
@@ -58,8 +66,7 @@ exports.update = async (req, res) => {
             res.json({ status: false, message: `Cannot update Course with id=${id}. Course not found` });
             return;
         }
-        const coursesList = await LiberalCourseService.getLibCourse();
-        res.json({ status: true, message: 'Liberal/African Study Course updated successfully', data: coursesList });
+        res.json({ status: true, message: 'Liberal/African Study Course updated successfully', data: data });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
@@ -70,11 +77,13 @@ exports.update = async (req, res) => {
 
 exports.delete = async (req, res) => {
     try {
-        const ids = req.body;
-        if (!ids) {
+        const libs = req.body;
+        if (!libs) {
             res.json({ status: false, message: 'Liberal/African Study Course ids are required' });
             return;
         }
+
+        const ids = libs.map((lib) => lib.id);
         const data = await LiberalCourseService.deleteLibCourse(ids);
         if (!data) {
             res.json({ status: false, message: `Cannot delete Course with ids=${ids}. Course not found` });
@@ -85,8 +94,7 @@ exports.delete = async (req, res) => {
             res.json({ status: false, message: `Cannot delete Course with ids=${ids}. Course not found` });
             return;
         }
-        const coursesList =await LiberalCourseService.getLibCourse();
-        res.json({ status: true, message: 'Liberal/African Study Course deleted successfully', data: coursesList });
+        res.json({ status: true, message: 'Liberal/African Study Course deleted successfully', data: libs });
     }
     catch (err) {
         res.json({ status: false, message: err.message });

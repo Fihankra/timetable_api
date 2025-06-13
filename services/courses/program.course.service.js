@@ -6,8 +6,11 @@ exports.createCourse = async (course) => {
     return await ProgramCourse.create(course);
 };
 
-exports.getCourses = async () => {
-    return await ProgramCourse.find();
+exports.getCourses = async (courseData) => {
+    return await ProgramCourse.find({
+        year: courseData.year,
+        semester: courseData.semester
+    });
 }
 
 exports.getCourseById = async (id) => {

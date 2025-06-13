@@ -77,18 +77,32 @@ exports.update = async (req, res) => {
 
 exports.delete = async (req, res) => {
     try {
-        const ids = req.body;
-        if (!ids) {
+        const classes = req.body;
+        if (!classes) {
             res.json({ status: false, message: 'Class ids are required' });
             return;
         }
-        const data = await ClassService.deleteClasses(ids);
-        if (!data) {
-            res.json({ status: false, message: `Cannot delete Class with ids=${ids}. Class not found` });
+       
+        //get all class ids from the request body
+        var classIds = [];
+        classes.forEach((cls) => {
+            classIds.push(cls.id);
+        });
+        if(!classIds || classIds.length === 0) {
+            res.json({ status: false, message: 'Class ids are required' });
             return;
         }
-        const classesList = await ClassService.getClasses();
-        res.json({ status: true, message: 'Class deleted successfully', data: classesList });
+        
+        const data = await ClassService.deleteClasses(classIds);
+        if (!data) {
+            res.json({ status: false, message: `Cannot delete Class with ids=${classIds}. Class not found` });
+            return;
+        }
+        res.json({
+          status: true,
+          message: "Class deleted successfully",
+          data: classes,
+        });
     }
     catch (err) {
         res.json({ status: false, message: err.message });

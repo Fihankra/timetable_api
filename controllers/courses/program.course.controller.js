@@ -23,8 +23,7 @@ exports.create = async (req, res) => {
             res.json({ status: false, message: 'Failed to create Course' });
             return
         }
-        const coursesList = await ProgramCourseService.getCourses();
-        res.json({ status: true, message: 'Course created successfully', data: coursesList });
+        res.json({ status: true, message: 'Course created successfully', data: data });
     } catch (err) {
         res.json({ status: false, message: err.message });
     }
@@ -33,8 +32,17 @@ exports.create = async (req, res) => {
 
 // Retrieve and return all course from the database.
 exports.findAll = async (req, res) => {
+
     try {
-        const coursesList = await ProgramCourseService.getCourses();
+        const { year, semester } = req.query;
+        //check if year and semester are provided
+        if (!year || !semester) {
+            res.json({ status: false, message: 'Year and semester are required' });
+            return;
+        }
+        const coursesList = await ProgramCourseService.getCourses(
+            { year, semester }
+        );
         res.json({ status: true, message: "Data found", data: coursesList });
     }
     catch (err) {
@@ -61,8 +69,8 @@ exports.update = async (req, res) => {
             res.json({ status: false, message: `Cannot update Course with id=${id}. Course not found` });
             return;
         }
-        const coursesList = await ProgramCourseService.getCourses();
-        res.json({ status: true, message: 'Course updated successfully', data: coursesList });
+       
+        res.json({ status: true, message: 'Course updated successfully', data: data });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
@@ -73,18 +81,20 @@ exports.update = async (req, res) => {
 
 exports.delete = async (req, res) => {
     try {
-        const ids = req.body;
-        if (!ids) {
+        
+        const courses = req.body;
+        if (!courses) {
             res.json({ status: false, message: 'Course ids are required' });
             return;
         }
+        //delete courses
+        const ids = courses.map((course) => course.id);
         const data = await ProgramCourseService.deleteCourses(ids);
         if (!data) {
             res.json({ status: false, message: `Cannot delete Course with ids=${ids}. Course not found` });
             return;
         }
-        const coursesList = await ProgramCourseService.getCourses();
-        res.json({ status: true, message: 'Course deleted successfully', data: coursesList });
+        res.json({ status: true, message: 'Course deleted successfully', data: courses });
     }
     catch (err) {
         res.json({ status: false, message: err.message });
