@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "677685000e7b46c7b61343c1"
+  },
+  "id": "559538465",
+  "name": "Management Studies Education",
+  "email": "management@aamusted.edu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776853c0e7b46c7b61343c5"
+  },
+  "id": "930513539",
+  "name": "Human Resource And Business Strategy",
+  "email": "hrm@aamusted.edu.gh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776856a0e7b46c7b61343c9"
+  },
+  "id": "678904014",
+  "name": "Mechanical And Automotive Technology Education",
+  "email": "mec@aamusted.edu.gh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677685800e7b46c7b61343cd"
+  },
+  "id": "765281128",
+  "name": "Mathematics Education",
+  "email": "math@aamusted.edu.gh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677685a10e7b46c7b61343d1"
+  },
+  "id": "449025685",
+  "name": "Information Technology Education",
+  "email": "infotec@aamusted.edu.gh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677685bf0e7b46c7b61343d5"
+  },
+  "id": "534083713",
+  "name": "Department Of Languages",
+  "email": "lang@aamusted.edu.gh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677685f00e7b46c7b61343d9"
+  },
+  "id": "454298456",
+  "name": "Catering And Hospitality Education",
+  "email": "cat@aamusted.edu.gh",
+  "__v": 0,
+  "password": null
+},
+{
+  "_id": {
+    "$oid": "677686260e7b46c7b61343dd"
+  },
+  "id": "903354885",
+  "name": "Fashion Design And Textiles Education",
+  "email": "fashion@aamusted.edu.gh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677686490e7b46c7b61343e1"
+  },
+  "id": "750159235",
+  "name": "Department Of Educational Leadership",
+  "email": "leadership@aamusted.edu.gh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677686930e7b46c7b61343e5"
+  },
+  "id": "561106956",
+  "name": "Dep. Of Interdisciplinary Studies",
+  "email": "interdisciplinary@aamusted.edu.gh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677686b50e7b46c7b61343e9"
+  },
+  "id": "307505219",
+  "name": "Wood Science And Technology Education",
+  "email": "woodscience@aamusted.edu.gh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677687050e7b46c7b61343f1"
+  },
+  "id": "183851483",
+  "name": "Electrical And Electronics Engineering Education",
+  "email": "electrical@aamusted.edu.gh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677687280e7b46c7b61343f5"
+  },
+  "id": "439364417",
+  "name": "Department Of Economics Education",
+  "email": "econs@aamusted.edu.gh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677687510e7b46c7b61343f9"
+  },
+  "id": "680270541",
+  "name": "Construction Technology And Management Education",
+  "email": "consa@aamusted.edu.gh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776877a0e7b46c7b61343fd"
+  },
+  "id": "3070559",
+  "name": "Department Of Accounting Studies Education",
+  "email": "acc@aamusted.edu.gh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bb63309829da44c628669"
+  },
+  "id": "535650465",
+  "name": "Testing Department 2335",
+  "email": "test@email.com",
+  "password": "123456",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bb6b009829da44c62867f"
+  },
+  "id": "586727943",
+  "name": "New Department",
+  "email": "testDep@email.com",
+  "password": "123456",
+  "__v": 0
+}]

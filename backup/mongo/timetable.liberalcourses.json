@@ -1,0 +1,364 @@
+[{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1a3"
+  },
+  "id": "736962560",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Human Right in Ghana",
+  "courseCode": "GPDR 231AH",
+  "studyMode": "Regular ",
+  "message": "Bsc. Accounting A&B",
+  "lecturer": "742017276",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1a6"
+  },
+  "id": "958713954",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Effective Parenting",
+  "courseCode": "GPDR 231BC",
+  "studyMode": "Regular ",
+  "message": "B.A English A. B & C",
+  "lecturer": "958727482",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1aa"
+  },
+  "id": "388836170",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Consumer Education and Economics",
+  "courseCode": "GPD 231DC",
+  "studyMode": "Regular ",
+  "message": "Bsc Mathematics Education A&B",
+  "lecturer": "740673462",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1ae"
+  },
+  "id": "357259894",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Introduction to Creative Art Therapy",
+  "courseCode": "GPD 231CC",
+  "studyMode": "Regular ",
+  "message": "All French Students",
+  "lecturer": "403258782",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1b1"
+  },
+  "id": "37643056",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Colonialism and Nationalism in Ghana",
+  "courseCode": "GPD 231AB",
+  "studyMode": "Regular ",
+  "message": "Bsc. Fashion A&B",
+  "lecturer": "273450472",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1b4"
+  },
+  "id": "433779363",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Courtship and Marraige",
+  "courseCode": "GPDR 231CA",
+  "studyMode": "Regular ",
+  "message": "Bsc ITE A,B & I",
+  "lecturer": "198383083",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1b8"
+  },
+  "id": "31293424",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Courtship and Marraige",
+  "courseCode": "GPD 231BJ",
+  "studyMode": "Regular ",
+  "message": "Bsc ITE E & F",
+  "lecturer": "46857220",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1bc"
+  },
+  "id": "585486831",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Career Skills",
+  "courseCode": "GPDR 231DB",
+  "studyMode": "Regular ",
+  "message": "Bsc Economics",
+  "lecturer": "250211994",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1bf"
+  },
+  "id": "1005650027",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Public Speaking",
+  "courseCode": "GPD 231BB",
+  "studyMode": "Regular ",
+  "message": "BBA, HRM Classes",
+  "lecturer": "906503547",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1c2"
+  },
+  "id": "426247766",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Early Childhood care and Education",
+  "courseCode": "GPD 231BI",
+  "studyMode": "Regular ",
+  "message": "BSc. Catering A&B",
+  "lecturer": "489926895",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1c6"
+  },
+  "id": "285001315",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Leadership Development",
+  "courseCode": "GPDR 231BG",
+  "studyMode": "Regular ",
+  "message": "BA Social with Economics A,B & C",
+  "lecturer": "1013694778",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1ca"
+  },
+  "id": "632795836",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Man and the Environment",
+  "courseCode": "GPD 231EC",
+  "studyMode": "Regular ",
+  "message": "Bsc Construction ",
+  "lecturer": "261225128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1cd"
+  },
+  "id": "2759808",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "The Middle- East Question and the Growth of Islamic Fundamentalism",
+  "courseCode": "GPD 231AF",
+  "studyMode": "Regular ",
+  "message": "BA Arabic",
+  "lecturer": "720321248",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1d0"
+  },
+  "id": "444495009",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Stress and Stress Management",
+  "courseCode": "GPDR 231B",
+  "studyMode": "Regular ",
+  "message": "BSc Cybersecurity",
+  "lecturer": "274244713",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1d3"
+  },
+  "id": "55541688",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "The People and Cultures of Ghana",
+  "courseCode": "CPD 231CB",
+  "studyMode": "Regular ",
+  "message": "B.A Economics with Social Studies",
+  "lecturer": "491905612",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1d6"
+  },
+  "id": "91551993",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Corperate Governance",
+  "courseCode": "GPD 231DC",
+  "studyMode": "Regular ",
+  "message": "Bsc. Procurement",
+  "lecturer": "149054179",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1d9"
+  },
+  "id": "515261185",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Technology and Society",
+  "courseCode": "GPD 231EB",
+  "studyMode": "Regular ",
+  "message": "Bsc. Mechanical, Civil Eng, Wood Class ",
+  "lecturer": "161499142",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1dc"
+  },
+  "id": "903279248",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Basic Health & Fitness Education",
+  "courseCode": "GPD 231 EE",
+  "studyMode": "Regular ",
+  "message": "Bsc. WEAM, Diploma Students",
+  "lecturer": "348667387",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1df"
+  },
+  "id": "86429126",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Energy Technology",
+  "courseCode": "GPD 231ED",
+  "studyMode": "Regular ",
+  "message": "BSc. Eletricals, Plumbing, Gas and Auto",
+  "lecturer": "415731287",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1e2"
+  },
+  "id": "988878577",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "HIV/AIDS and other STIs",
+  "courseCode": "GPDR 231EA",
+  "studyMode": "Regular ",
+  "message": "Diploma Program in Business and Economics",
+  "lecturer": "1046684583",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1e5"
+  },
+  "id": "656622081",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Social Problems",
+  "courseCode": "GPD 231AC",
+  "studyMode": "Regular ",
+  "message": "Diploma in Fashion and Catering Classes",
+  "lecturer": "1011542295",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1e8"
+  },
+  "id": "301371033",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Colonialism and Nationalism in Ghana",
+  "courseCode": "GPD 231AB",
+  "studyMode": "Evening",
+  "message": "All Business Students",
+  "lecturer": "273450472",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1eb"
+  },
+  "id": "363089582",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Social Probleams",
+  "courseCode": "GPDR 231EA",
+  "studyMode": "Evening",
+  "message": "All IT and Mathematics Students",
+  "lecturer": "1011542295",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1ee"
+  },
+  "id": "491531471",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "HIV/AIDS and other STIs",
+  "courseCode": "GPDR 231BD",
+  "studyMode": "Weekend",
+  "message": "ITE and Mathematics Students",
+  "lecturer": "1046684583",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bf4f7ff8db602c425e1f1"
+  },
+  "id": "270385953",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Colonialism and Nationalism in Ghana",
+  "courseCode": "GPDR 231EA",
+  "studyMode": "Weekend",
+  "message": "All Business Students",
+  "lecturer": "273450472",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfe77ff8db602c425e2ce"
+  },
+  "id": "788582754",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courseTitle": "Testing",
+  "courseCode": "NEW 3434",
+  "studyMode": "Regular",
+  "message": "Testing",
+  "lecturer": "154087212",
+  "__v": 0
+}]

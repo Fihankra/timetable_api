@@ -1,0 +1,5194 @@
+[{
+  "_id": {
+    "$oid": "6776b9136512fb0d083de72a"
+  },
+  "id": "309112813",
+  "name": "ED- ELECT 1A",
+  "departmentId": "183851483",
+  "programId": "160284158",
+  "level": "100",
+  "classSize": 67,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776b9506512fb0d083de72e"
+  },
+  "id": "626332124",
+  "name": "ELECT 2ED",
+  "departmentId": "183851483",
+  "programId": "160284158",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776b96b6512fb0d083de732"
+  },
+  "id": "801081929",
+  "name": "ELECT 3ED",
+  "departmentId": "183851483",
+  "programId": "160284158",
+  "level": "300",
+  "classSize": 65,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776baa66512fb0d083de736"
+  },
+  "id": "778868440",
+  "name": "ELECT DIP 1",
+  "departmentId": "183851483",
+  "programId": "146099859",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776badc6512fb0d083de73a"
+  },
+  "id": "66463421",
+  "name": "ELECT DIP 2",
+  "departmentId": "183851483",
+  "programId": "146099859",
+  "level": "200",
+  "classSize": 65,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bb7e6512fb0d083de744"
+  },
+  "id": "688408073",
+  "name": "ELECT 1",
+  "departmentId": "183851483",
+  "programId": "183080599",
+  "level": "100",
+  "classSize": 65,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bb976512fb0d083de748"
+  },
+  "id": "186699290",
+  "name": "ELECT 2",
+  "departmentId": "183851483",
+  "programId": "183080599",
+  "level": "200",
+  "classSize": 55,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bc136512fb0d083de74c"
+  },
+  "id": "748849215",
+  "name": "ECO 1A",
+  "departmentId": "3070559",
+  "programId": "770839335",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bc246512fb0d083de750"
+  },
+  "id": "837952418",
+  "name": "ECO 2",
+  "departmentId": "3070559",
+  "programId": "770839335",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bc4a6512fb0d083de754"
+  },
+  "id": "885811653",
+  "name": "ECO 3",
+  "departmentId": "3070559",
+  "programId": "770839335",
+  "level": "300",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bc916512fb0d083de758"
+  },
+  "id": "780701737",
+  "name": "ECO-SOC 1A",
+  "departmentId": "3070559",
+  "programId": "321143363",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bcbe6512fb0d083de75c"
+  },
+  "id": "804399379",
+  "name": "ECO-SOC 1B",
+  "departmentId": "3070559",
+  "programId": "321143363",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bce06512fb0d083de760"
+  },
+  "id": "1009079364",
+  "name": "ECO-SOC 2A",
+  "departmentId": "3070559",
+  "programId": "321143363",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bcf56512fb0d083de764"
+  },
+  "id": "816597483",
+  "name": "ECO-SOC 2B",
+  "departmentId": "3070559",
+  "programId": "321143363",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bd476512fb0d083de768"
+  },
+  "id": "471685919",
+  "name": "ECO-SOC 3A",
+  "departmentId": "3070559",
+  "programId": "321143363",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bd5a6512fb0d083de76c"
+  },
+  "id": "411856496",
+  "name": "ECO-SOC 3B",
+  "departmentId": "3070559",
+  "programId": "321143363",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bdbd6512fb0d083de770"
+  },
+  "id": "796536299",
+  "name": "CONST DIP 1",
+  "departmentId": "680270541",
+  "programId": "941349324",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bde76512fb0d083de774"
+  },
+  "id": "692947409",
+  "name": "CONST DIP 2",
+  "departmentId": "680270541",
+  "programId": "941349324",
+  "level": "200",
+  "classSize": 28,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776be456512fb0d083de778"
+  },
+  "id": "149920632",
+  "name": "CONST 1A",
+  "departmentId": "680270541",
+  "programId": "912273498",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776be576512fb0d083de77c"
+  },
+  "id": "868291302",
+  "name": "CONST 1B",
+  "departmentId": "680270541",
+  "programId": "912273498",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776be8d6512fb0d083de780"
+  },
+  "id": "58211018",
+  "name": "CONST 2A",
+  "departmentId": "680270541",
+  "programId": "912273498",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bea66512fb0d083de784"
+  },
+  "id": "147230190",
+  "name": "CONST 2B",
+  "departmentId": "680270541",
+  "programId": "912273498",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bee86512fb0d083de788"
+  },
+  "id": "289391802",
+  "name": "CONST 3A",
+  "departmentId": "680270541",
+  "programId": "912273498",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776befb6512fb0d083de78c"
+  },
+  "id": "663302769",
+  "name": "CONST 3B",
+  "departmentId": "680270541",
+  "programId": "912273498",
+  "level": "300",
+  "classSize": 70,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bf756512fb0d083de790"
+  },
+  "id": "213317496",
+  "name": "MP- CONST MGT",
+  "departmentId": "680270541",
+  "programId": "997199584",
+  "level": "800",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bf966512fb0d083de794"
+  },
+  "id": "1028985832",
+  "name": "CONST 8 TECH",
+  "departmentId": "680270541",
+  "programId": "85361477",
+  "level": "800",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776bfbb6512fb0d083de798"
+  },
+  "id": "16555066",
+  "name": "CONST 9",
+  "departmentId": "680270541",
+  "programId": "468243411",
+  "level": "900",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c04b6512fb0d083de79c"
+  },
+  "id": "984072778",
+  "name": "UPE 1",
+  "departmentId": "561106956",
+  "programId": "233468047",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c05c6512fb0d083de7a0"
+  },
+  "id": "43158721",
+  "name": "UPE 2",
+  "departmentId": "561106956",
+  "programId": "233468047",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c0766512fb0d083de7a4"
+  },
+  "id": "594382193",
+  "name": "JHE 1",
+  "departmentId": "561106956",
+  "programId": "778381209",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c0876512fb0d083de7a8"
+  },
+  "id": "667752715",
+  "name": "JHE 2",
+  "departmentId": "561106956",
+  "programId": "778381209",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c0f26512fb0d083de7ac"
+  },
+  "id": "539016251",
+  "name": "MPTL 1",
+  "departmentId": "561106956",
+  "programId": "815580415",
+  "level": "800",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c10a6512fb0d083de7b0"
+  },
+  "id": "891063451",
+  "name": "MPTL 2",
+  "departmentId": "561106956",
+  "programId": "815580415",
+  "level": "800",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c17b6512fb0d083de7b4"
+  },
+  "id": "438409541",
+  "name": "SOC-ECON 1A",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c1916512fb0d083de7b8"
+  },
+  "id": "27223376",
+  "name": "SOC-ECON 1B",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c1a16512fb0d083de7bc"
+  },
+  "id": "780651470",
+  "name": "SOC-ECON 1C",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c1b06512fb0d083de7c0"
+  },
+  "id": "706533097",
+  "name": "SOC-ECON 1D",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c1c16512fb0d083de7c4"
+  },
+  "id": "721363783",
+  "name": "SOC-ECON 1E",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c1f16512fb0d083de7c8"
+  },
+  "id": "268207920",
+  "name": "SOC-ECON 1F",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c2026512fb0d083de7cc"
+  },
+  "id": "748317559",
+  "name": "SOC-ECON 2A",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c2106512fb0d083de7d0"
+  },
+  "id": "979282731",
+  "name": "SOC-ECON 2B",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c21f6512fb0d083de7d4"
+  },
+  "id": "66264477",
+  "name": "SOC-ECON 2C",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c22e6512fb0d083de7d8"
+  },
+  "id": "734090282",
+  "name": "SOC-ECON 2D",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c24d6512fb0d083de7dc"
+  },
+  "id": "1023965463",
+  "name": "SOC-ECON 2E",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c26a6512fb0d083de7e0"
+  },
+  "id": "1006205867",
+  "name": "SOC-ECON 3A",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c2806512fb0d083de7e4"
+  },
+  "id": "327402724",
+  "name": "SOC-ECON 3B",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c2916512fb0d083de7e8"
+  },
+  "id": "352134877",
+  "name": "SOC-ECON 3C",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c29f6512fb0d083de7ec"
+  },
+  "id": "630228153",
+  "name": "SOC-ECON 3D",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c2d86512fb0d083de7f0"
+  },
+  "id": "348534961",
+  "name": "EGE 1",
+  "departmentId": "561106956",
+  "programId": "155092716",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c2fc6512fb0d083de7f6"
+  },
+  "id": "568557372",
+  "name": "EGE 2",
+  "departmentId": "561106956",
+  "programId": "155092716",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776c30a6512fb0d083de7fa"
+  },
+  "id": "873090298",
+  "name": "EGE 3",
+  "departmentId": "561106956",
+  "programId": "155092716",
+  "level": "300",
+  "classSize": 30,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bbf128c7966c4bd4125a5"
+  },
+  "id": "891569158",
+  "name": "CVE 1",
+  "departmentId": "307505219",
+  "programId": "747358316",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bbf288c7966c4bd4125a9"
+  },
+  "id": "459246690",
+  "name": "CVE 2",
+  "departmentId": "307505219",
+  "programId": "747358316",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bbf3b8c7966c4bd4125ad"
+  },
+  "id": "198981616",
+  "name": "CVE 3",
+  "departmentId": "307505219",
+  "programId": "747358316",
+  "level": "300",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bbf708c7966c4bd4125b1"
+  },
+  "id": "83637337",
+  "name": "WTE 1",
+  "departmentId": "307505219",
+  "programId": "302453439",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bbf928c7966c4bd4125b5"
+  },
+  "id": "377849768",
+  "name": "WTE 3",
+  "departmentId": "307505219",
+  "programId": "302453439",
+  "level": "300",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bbfc28c7966c4bd4125bb"
+  },
+  "id": "643865239",
+  "name": "WTE 2",
+  "departmentId": "307505219",
+  "programId": "302453439",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bbfeb8c7966c4bd4125bf"
+  },
+  "id": "889049941",
+  "name": "DIP- WTE 1",
+  "departmentId": "307505219",
+  "programId": "1037304206",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc05b8c7966c4bd4125c3"
+  },
+  "id": "94495985",
+  "name": "MAT 1A",
+  "departmentId": "765281128",
+  "programId": "248625245",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc06f8c7966c4bd4125c7"
+  },
+  "id": "757662207",
+  "name": "MAT 1B",
+  "departmentId": "765281128",
+  "programId": "248625245",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc0808c7966c4bd4125cb"
+  },
+  "id": "61542311",
+  "name": "MAT 1C",
+  "departmentId": "765281128",
+  "programId": "248625245",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc08f8c7966c4bd4125cf"
+  },
+  "id": "28796558",
+  "name": "MAT 2A",
+  "departmentId": "765281128",
+  "programId": "248625245",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc0a78c7966c4bd4125d3"
+  },
+  "id": "78315922",
+  "name": "MAT 2B",
+  "departmentId": "765281128",
+  "programId": "248625245",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc0b68c7966c4bd4125d7"
+  },
+  "id": "896917278",
+  "name": "MAT 2C",
+  "departmentId": "765281128",
+  "programId": "248625245",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc0f38c7966c4bd4125db"
+  },
+  "id": "381265543",
+  "name": "MAT 3A",
+  "departmentId": "765281128",
+  "programId": "248625245",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc1218c7966c4bd4125df"
+  },
+  "id": "910779976",
+  "name": "MAT 3B",
+  "departmentId": "765281128",
+  "programId": "248625245",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc1368c7966c4bd4125e3"
+  },
+  "id": "147085885",
+  "name": "MAT 3C",
+  "departmentId": "765281128",
+  "programId": "248625245",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc1c98c7966c4bd4125eb"
+  },
+  "id": "874744718",
+  "name": "MAT PHD",
+  "departmentId": "765281128",
+  "programId": "749715843",
+  "level": "900",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc22f8c7966c4bd4125ef"
+  },
+  "id": "304907107",
+  "name": "MAT 1W",
+  "departmentId": "765281128",
+  "programId": "248625245",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc2458c7966c4bd4125f3"
+  },
+  "id": "384801046",
+  "name": "MAT 2W",
+  "departmentId": "765281128",
+  "programId": "248625245",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc25a8c7966c4bd4125f7"
+  },
+  "id": "96190052",
+  "name": "MAT 3W",
+  "departmentId": "765281128",
+  "programId": "248625245",
+  "level": "300",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc2b88c7966c4bd4125fb"
+  },
+  "id": "1018192694",
+  "name": "MAT 3T",
+  "departmentId": "765281128",
+  "programId": "484534676",
+  "level": "300",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc2d98c7966c4bd4125ff"
+  },
+  "id": "761224403",
+  "name": "MAT 4T",
+  "departmentId": "765281128",
+  "programId": "484534676",
+  "level": "400",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc3228c7966c4bd412605"
+  },
+  "id": "906257858",
+  "name": "MP- MAT 8T",
+  "departmentId": "765281128",
+  "programId": "1001403798",
+  "level": "800",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc37c8c7966c4bd412609"
+  },
+  "id": "35398928",
+  "name": "MP- MAT 8A-W",
+  "departmentId": "765281128",
+  "programId": "714128894",
+  "level": "800",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc4798c7966c4bd41260d"
+  },
+  "id": "1049119618",
+  "name": "EGL 1A",
+  "departmentId": "534083713",
+  "programId": "200338975",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc48c8c7966c4bd412611"
+  },
+  "id": "735698018",
+  "name": "EGL 1B",
+  "departmentId": "534083713",
+  "programId": "200338975",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc4af8c7966c4bd412615"
+  },
+  "id": "160073758",
+  "name": "EGL 1C",
+  "departmentId": "534083713",
+  "programId": "200338975",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc4be8c7966c4bd412619"
+  },
+  "id": "811476923",
+  "name": "EGL 2A",
+  "departmentId": "534083713",
+  "programId": "200338975",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc4d08c7966c4bd41261d"
+  },
+  "id": "481610259",
+  "name": "EGL 2B",
+  "departmentId": "534083713",
+  "programId": "200338975",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc4e08c7966c4bd412621"
+  },
+  "id": "224803113",
+  "name": "EGL 2C",
+  "departmentId": "534083713",
+  "programId": "200338975",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc4f18c7966c4bd412625"
+  },
+  "id": "31047951",
+  "name": "EGL 3A",
+  "departmentId": "534083713",
+  "programId": "200338975",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc5048c7966c4bd412629"
+  },
+  "id": "72642677",
+  "name": "EGL 3B",
+  "departmentId": "534083713",
+  "programId": "200338975",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc5398c7966c4bd41262d"
+  },
+  "id": "989849724",
+  "name": "EGL 3C",
+  "departmentId": "534083713",
+  "programId": "200338975",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc5858c7966c4bd412635"
+  },
+  "id": "998459589",
+  "name": "ARB 1",
+  "departmentId": "534083713",
+  "programId": "768071452",
+  "level": "100",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc5938c7966c4bd412639"
+  },
+  "id": "41790978",
+  "name": "ARB 2",
+  "departmentId": "534083713",
+  "programId": "768071452",
+  "level": "200",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc5a58c7966c4bd41263d"
+  },
+  "id": "75455526",
+  "name": "ARB 3",
+  "departmentId": "534083713",
+  "programId": "768071452",
+  "level": "300",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc5c38c7966c4bd412641"
+  },
+  "id": "756436345",
+  "name": "FRE 1",
+  "departmentId": "534083713",
+  "programId": "948470021",
+  "level": "100",
+  "classSize": 70,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc5e98c7966c4bd412645"
+  },
+  "id": "401221672",
+  "name": "FRE 2",
+  "departmentId": "534083713",
+  "programId": "948470021",
+  "level": "200",
+  "classSize": 68,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc60f8c7966c4bd41264b"
+  },
+  "id": "728777353",
+  "name": "FRE 3",
+  "departmentId": "534083713",
+  "programId": "948470021",
+  "level": "300",
+  "classSize": 65,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc6ca8c7966c4bd41264f"
+  },
+  "id": "525243622",
+  "name": "DIT 1A ",
+  "departmentId": "449025685",
+  "programId": "103903043",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc6e48c7966c4bd412653"
+  },
+  "id": "737388326",
+  "name": "DIT 2",
+  "departmentId": "449025685",
+  "programId": "103903043",
+  "level": "200",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc7aa8c7966c4bd412657"
+  },
+  "id": "796833632",
+  "name": "DCDF 1",
+  "departmentId": "449025685",
+  "programId": "437607707",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc7c58c7966c4bd41265b"
+  },
+  "id": "712147284",
+  "name": "DCDF 2",
+  "departmentId": "449025685",
+  "programId": "437607707",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc8018c7966c4bd41265f"
+  },
+  "id": "705951369",
+  "name": "ITE 1A",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc80f8c7966c4bd412663"
+  },
+  "id": "812576305",
+  "name": "ITE 1B",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc81e8c7966c4bd412667"
+  },
+  "id": "1054469461",
+  "name": "ITE 1C",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc82c8c7966c4bd41266b"
+  },
+  "id": "53516729",
+  "name": "ITE 1D",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc8438c7966c4bd41266f"
+  },
+  "id": "605959408",
+  "name": "ITE 1E",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc8518c7966c4bd412673"
+  },
+  "id": "345358138",
+  "name": "ITE 1F",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc8618c7966c4bd412677"
+  },
+  "id": "447758142",
+  "name": "ITE 1G",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc86f8c7966c4bd41267b"
+  },
+  "id": "854743382",
+  "name": "ITE 1H",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc8988c7966c4bd41267f"
+  },
+  "id": "976685963",
+  "name": "ITE 1I",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc8a78c7966c4bd412683"
+  },
+  "id": "590094791",
+  "name": "ITE 1J",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc9638c7966c4bd412687"
+  },
+  "id": "135727045",
+  "name": "ITE 2A",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc9738c7966c4bd41268b"
+  },
+  "id": "141408043",
+  "name": "ITE 2B",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc9888c7966c4bd41268f"
+  },
+  "id": "487450615",
+  "name": "ITE 2C",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc9988c7966c4bd412693"
+  },
+  "id": "79942317",
+  "name": "ITE 2D",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc9b68c7966c4bd412697"
+  },
+  "id": "688898576",
+  "name": "ITE 2E",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc9c88c7966c4bd41269b"
+  },
+  "id": "53824779",
+  "name": "ITE 2F",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc9d68c7966c4bd41269f"
+  },
+  "id": "149273507",
+  "name": "ITE 2G",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bc9e68c7966c4bd4126a3"
+  },
+  "id": "219607493",
+  "name": "ITE 2H",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bca008c7966c4bd4126a7"
+  },
+  "id": "917197048",
+  "name": "ITE 2I",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bca228c7966c4bd4126ab"
+  },
+  "id": "58343431",
+  "name": "ITE 2J",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bca318c7966c4bd4126af"
+  },
+  "id": "62528462",
+  "name": "ITE 2K",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bca3f8c7966c4bd4126b3"
+  },
+  "id": "675253870",
+  "name": "ITE 2L",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcabf8c7966c4bd4126bb"
+  },
+  "id": "502585846",
+  "name": "ITE 3A",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcacc8c7966c4bd4126bf"
+  },
+  "id": "867728944",
+  "name": "ITE 3B",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcad98c7966c4bd4126c3"
+  },
+  "id": "888465866",
+  "name": "ITE 3C",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcae78c7966c4bd4126c7"
+  },
+  "id": "134769812",
+  "name": "ITE 3D",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcaf58c7966c4bd4126cb"
+  },
+  "id": "765351196",
+  "name": "ITE 3E",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcb058c7966c4bd4126cf"
+  },
+  "id": "839743171",
+  "name": "ITE 3F",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcb348c7966c4bd4126d3"
+  },
+  "id": "561431701",
+  "name": "ITE 3G",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcb438c7966c4bd4126d7"
+  },
+  "id": "953272022",
+  "name": "ITE 3H",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcb5e8c7966c4bd4126db"
+  },
+  "id": "50815706",
+  "name": "ITE 3I",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcb828c7966c4bd4126df"
+  },
+  "id": "1041503151",
+  "name": "CDF 1A",
+  "departmentId": "449025685",
+  "programId": "352047437",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcb948c7966c4bd4126e3"
+  },
+  "id": "960713429",
+  "name": "CDF 1B",
+  "departmentId": "449025685",
+  "programId": "352047437",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcbaf8c7966c4bd4126e7"
+  },
+  "id": "1043811351",
+  "name": "CDF 2A",
+  "departmentId": "449025685",
+  "programId": "352047437",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcbc08c7966c4bd4126eb"
+  },
+  "id": "944251473",
+  "name": "CDF 2B",
+  "departmentId": "449025685",
+  "programId": "352047437",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcc198c7966c4bd4126ef"
+  },
+  "id": "339443705",
+  "name": "MP -IT",
+  "departmentId": "449025685",
+  "programId": "663519360",
+  "level": "800",
+  "classSize": 18,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcc478c7966c4bd4126f3"
+  },
+  "id": "78830508",
+  "name": "E-IT 1",
+  "departmentId": "449025685",
+  "programId": "9156575",
+  "level": "100",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcc728c7966c4bd4126f9"
+  },
+  "id": "455996827",
+  "name": "E-IT 2",
+  "departmentId": "449025685",
+  "programId": "9156575",
+  "level": "200",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcca48c7966c4bd4126ff"
+  },
+  "id": "928323184",
+  "name": "E-IT 3",
+  "departmentId": "449025685",
+  "programId": "9156575",
+  "level": "300",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bccb88c7966c4bd412703"
+  },
+  "id": "1033381393",
+  "name": "E-IT 4",
+  "departmentId": "449025685",
+  "programId": "9156575",
+  "level": "400",
+  "classSize": 30,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bccf28c7966c4bd412707"
+  },
+  "id": "945394062",
+  "name": "W-ITE 1A",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcd0a8c7966c4bd41270b"
+  },
+  "id": "107180552",
+  "name": "W-ITE 1B",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcd248c7966c4bd41270f"
+  },
+  "id": "339547956",
+  "name": "W-ITE 2A",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcd368c7966c4bd412713"
+  },
+  "id": "187742564",
+  "name": "W-ITE 2B",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcd538c7966c4bd412717"
+  },
+  "id": "73492882",
+  "name": "W-ITE 3A",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcd628c7966c4bd41271b"
+  },
+  "id": "150212238",
+  "name": "W-ITE 3B",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcd938c7966c4bd41271f"
+  },
+  "id": "160271593",
+  "name": "MSC-ITE",
+  "departmentId": "449025685",
+  "programId": "616103061",
+  "level": "700",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcee28c7966c4bd412725"
+  },
+  "id": "146311850",
+  "name": "MP-IT -W",
+  "departmentId": "449025685",
+  "programId": "663519360",
+  "level": "800",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcf698c7966c4bd412729"
+  },
+  "id": "51041093",
+  "name": "CAT 1A",
+  "departmentId": "454298456",
+  "programId": "205357732",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcf7c8c7966c4bd41272d"
+  },
+  "id": "465883018",
+  "name": "CAT 1B",
+  "departmentId": "454298456",
+  "programId": "205357732",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcf8b8c7966c4bd412731"
+  },
+  "id": "293230372",
+  "name": "CAT 3A",
+  "departmentId": "454298456",
+  "programId": "205357732",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcfec8c7966c4bd412741"
+  },
+  "id": "823316351",
+  "name": "CAT 2A",
+  "departmentId": "454298456",
+  "programId": "205357732",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bcffa8c7966c4bd412745"
+  },
+  "id": "932497603",
+  "name": "CAT 2B",
+  "departmentId": "454298456",
+  "programId": "205357732",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd0078c7966c4bd412749"
+  },
+  "id": "949121881",
+  "name": "CAT 2C",
+  "departmentId": "454298456",
+  "programId": "205357732",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd01c8c7966c4bd41274d"
+  },
+  "id": "228059941",
+  "name": "CAT 2D",
+  "departmentId": "454298456",
+  "programId": "205357732",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd02b8c7966c4bd412751"
+  },
+  "id": "87986339",
+  "name": "CAT 3B",
+  "departmentId": "454298456",
+  "programId": "205357732",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd0398c7966c4bd412755"
+  },
+  "id": "991814141",
+  "name": "CAT 3C",
+  "departmentId": "454298456",
+  "programId": "205357732",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd1828c7966c4bd412769"
+  },
+  "id": "704794820",
+  "name": "DCAT 1A",
+  "departmentId": "454298456",
+  "programId": "774345127",
+  "level": "100",
+  "classSize": 65,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd19b8c7966c4bd41276d"
+  },
+  "id": "329789830",
+  "name": "DCAT 2",
+  "departmentId": "454298456",
+  "programId": "774345127",
+  "level": "200",
+  "classSize": 65,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd1ee8c7966c4bd412771"
+  },
+  "id": "624612430",
+  "name": "MP-HOS-T",
+  "departmentId": "454298456",
+  "programId": "187939791",
+  "level": "800",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd2378c7966c4bd412777"
+  },
+  "id": "449193658",
+  "name": "MP- HOS",
+  "departmentId": "454298456",
+  "programId": "169237251",
+  "level": "800",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd2898c7966c4bd41277b"
+  },
+  "id": "1050368419",
+  "name": "FASH 1A",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd2ef8c7966c4bd41277f"
+  },
+  "id": "76867825",
+  "name": "FASH 1B",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd3038c7966c4bd412783"
+  },
+  "id": "551044220",
+  "name": "FASH 2A",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd3328c7966c4bd412787"
+  },
+  "id": "957411553",
+  "name": "FASH 2B",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd3bf8c7966c4bd41278b"
+  },
+  "id": "736306204",
+  "name": "FASH 2C",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd5568c7966c4bd4127af"
+  },
+  "id": "694250767",
+  "name": "FASH 3A",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd57e8c7966c4bd4127b3"
+  },
+  "id": "112175552",
+  "name": "FASH 3B",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd5c28c7966c4bd4127b7"
+  },
+  "id": "121916152",
+  "name": "MP-FASH",
+  "departmentId": "903354885",
+  "programId": "383874694",
+  "level": "800",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd5f28c7966c4bd4127bd"
+  },
+  "id": "223593867",
+  "name": "MP-FASH-T",
+  "departmentId": "903354885",
+  "programId": "436795716",
+  "level": "800",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd6378c7966c4bd4127c1"
+  },
+  "id": "941516901",
+  "name": "DFASH 1A",
+  "departmentId": "903354885",
+  "programId": "593584838",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd6728c7966c4bd4127c5"
+  },
+  "id": "360018801",
+  "name": "DFASH 2",
+  "departmentId": "903354885",
+  "programId": "593584838",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd70d8c7966c4bd4127c9"
+  },
+  "id": "800400053",
+  "name": "PHD-EL",
+  "departmentId": "750159235",
+  "programId": "705303988",
+  "level": "900",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd7298c7966c4bd4127cd"
+  },
+  "id": "148397338",
+  "name": "MP-EL",
+  "departmentId": "750159235",
+  "programId": "844827900",
+  "level": "800",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd79e8c7966c4bd4127d1"
+  },
+  "id": "836933786",
+  "name": "MECH 1",
+  "departmentId": "678904014",
+  "programId": "432166318",
+  "level": "100",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd7bb8c7966c4bd4127d5"
+  },
+  "id": "187279889",
+  "name": "MECH 2",
+  "departmentId": "678904014",
+  "programId": "432166318",
+  "level": "200",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd7cc8c7966c4bd4127d9"
+  },
+  "id": "616730776",
+  "name": "MECH 3",
+  "departmentId": "678904014",
+  "programId": "432166318",
+  "level": "300",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd7f78c7966c4bd4127dd"
+  },
+  "id": "1058798237",
+  "name": "AUTO 1",
+  "departmentId": "678904014",
+  "programId": "367172587",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd81a8c7966c4bd4127e1"
+  },
+  "id": "233278326",
+  "name": "AUTO 2",
+  "departmentId": "678904014",
+  "programId": "367172587",
+  "level": "200",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd82c8c7966c4bd4127e5"
+  },
+  "id": "763771437",
+  "name": "AUTO 3",
+  "departmentId": "678904014",
+  "programId": "367172587",
+  "level": "300",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd84b8c7966c4bd4127e9"
+  },
+  "id": "525767550",
+  "name": "WET 1",
+  "departmentId": "678904014",
+  "programId": "1023331327",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd8c08c7966c4bd4127ed"
+  },
+  "id": "846758371",
+  "name": "WET 2",
+  "departmentId": "678904014",
+  "programId": "1023331327",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd8e68c7966c4bd4127f3"
+  },
+  "id": "262226374",
+  "name": "WET 3",
+  "departmentId": "678904014",
+  "programId": "1023331327",
+  "level": "300",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd9718c7966c4bd412803"
+  },
+  "id": "312261009",
+  "name": "MP-MECH",
+  "departmentId": "678904014",
+  "programId": "375157146",
+  "level": "800",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd9858c7966c4bd412807"
+  },
+  "id": "999400842",
+  "name": "MP-AUTO",
+  "departmentId": "678904014",
+  "programId": "112514306",
+  "level": "800",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd9a78c7966c4bd41280b"
+  },
+  "id": "924254761",
+  "name": "MP-MECH-T",
+  "departmentId": "678904014",
+  "programId": "426565063",
+  "level": "800",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bda518c7966c4bd412817"
+  },
+  "id": "1050653095",
+  "name": "D-MECH 1",
+  "departmentId": "678904014",
+  "programId": "333020154",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bda708c7966c4bd41281b"
+  },
+  "id": "560960351",
+  "name": "D-AUTO 1",
+  "departmentId": "678904014",
+  "programId": "629850726",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bda858c7966c4bd41281f"
+  },
+  "id": "1052243417",
+  "name": "D-WET 1",
+  "departmentId": "678904014",
+  "programId": "103593477",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdab18c7966c4bd412825"
+  },
+  "id": "50129750",
+  "name": "D-MECH 2",
+  "departmentId": "678904014",
+  "programId": "333020154",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdac78c7966c4bd412829"
+  },
+  "id": "14196237",
+  "name": "D-AUTO 2",
+  "departmentId": "678904014",
+  "programId": "629850726",
+  "level": "200",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdaee8c7966c4bd412831"
+  },
+  "id": "263645794",
+  "name": "D-WET 2",
+  "departmentId": "678904014",
+  "programId": "103593477",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdb4c8c7966c4bd412835"
+  },
+  "id": "777325552",
+  "name": "MGT 1A",
+  "departmentId": "559538465",
+  "programId": "914182993",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdb5a8c7966c4bd412839"
+  },
+  "id": "83758976",
+  "name": "MGT 1B",
+  "departmentId": "559538465",
+  "programId": "914182993",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdb698c7966c4bd41283d"
+  },
+  "id": "1008098596",
+  "name": "MGT 1C",
+  "departmentId": "559538465",
+  "programId": "914182993",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdb798c7966c4bd412841"
+  },
+  "id": "990322650",
+  "name": "MGT 1D",
+  "departmentId": "559538465",
+  "programId": "914182993",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdbc18c7966c4bd412847"
+  },
+  "id": "107032305",
+  "name": "MGT 2A",
+  "departmentId": "559538465",
+  "programId": "914182993",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdbf18c7966c4bd41284d"
+  },
+  "id": "613495524",
+  "name": "MGT 2B",
+  "departmentId": "559538465",
+  "programId": "914182993",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdc018c7966c4bd412851"
+  },
+  "id": "241748509",
+  "name": "MGT 2C",
+  "departmentId": "559538465",
+  "programId": "914182993",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdc0f8c7966c4bd412855"
+  },
+  "id": "135555571",
+  "name": "MGT 2D",
+  "departmentId": "559538465",
+  "programId": "914182993",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdc1e8c7966c4bd412859"
+  },
+  "id": "166556851",
+  "name": "MGT 3A",
+  "departmentId": "559538465",
+  "programId": "914182993",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdc2b8c7966c4bd41285d"
+  },
+  "id": "494327548",
+  "name": "MGT 3B",
+  "departmentId": "559538465",
+  "programId": "914182993",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdc398c7966c4bd412861"
+  },
+  "id": "832245389",
+  "name": "MGT 3C",
+  "departmentId": "559538465",
+  "programId": "914182993",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdc4a8c7966c4bd412865"
+  },
+  "id": "867799680",
+  "name": "MGT 3D",
+  "departmentId": "559538465",
+  "programId": "914182993",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdc6e8c7966c4bd412869"
+  },
+  "id": "725966234",
+  "name": "BBA SEC 2",
+  "departmentId": "559538465",
+  "programId": "1003324722",
+  "level": "200",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdca18c7966c4bd41286d"
+  },
+  "id": "552923337",
+  "name": "BBA SEC 3",
+  "departmentId": "559538465",
+  "programId": "1003324722",
+  "level": "300",
+  "classSize": 45,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bde168c7966c4bd412871"
+  },
+  "id": "326678873",
+  "name": "BBA MGT 1",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "100",
+  "classSize": 70,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bde378c7966c4bd412875"
+  },
+  "id": "280897896",
+  "name": "BBA MGT 2",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "200",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bde748c7966c4bd412879"
+  },
+  "id": "131933217",
+  "name": "BBA MGT 3",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "300",
+  "classSize": 82,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bde948c7966c4bd41287d"
+  },
+  "id": "511740542",
+  "name": "BBA MGT 4",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "400",
+  "classSize": 91,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdec68c7966c4bd412881"
+  },
+  "id": "98435488",
+  "name": "MKTE 1",
+  "departmentId": "559538465",
+  "programId": "1001443489",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdee08c7966c4bd412885"
+  },
+  "id": "887154651",
+  "name": "MKTE 2",
+  "departmentId": "559538465",
+  "programId": "1001443489",
+  "level": "200",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdf118c7966c4bd41288b"
+  },
+  "id": "941655437",
+  "name": "MKTE 3",
+  "departmentId": "559538465",
+  "programId": "1001443489",
+  "level": "300",
+  "classSize": 12,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdf2a8c7966c4bd41288f"
+  },
+  "id": "922218063",
+  "name": "MKTE 4",
+  "departmentId": "559538465",
+  "programId": "1001443489",
+  "level": "400",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdf4e8c7966c4bd412893"
+  },
+  "id": "795212525",
+  "name": "MKT 1",
+  "departmentId": "559538465",
+  "programId": "488783351",
+  "level": "100",
+  "classSize": 30,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdfae8c7966c4bd41289d"
+  },
+  "id": "846610983",
+  "name": "MKT 2",
+  "departmentId": "559538465",
+  "programId": "488783351",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdffc8c7966c4bd4128a3"
+  },
+  "id": "584978074",
+  "name": "MKT 3",
+  "departmentId": "559538465",
+  "programId": "488783351",
+  "level": "300",
+  "classSize": 12,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be04e8c7966c4bd4128a7"
+  },
+  "id": "477727202",
+  "name": "DBM 1A",
+  "departmentId": "559538465",
+  "programId": "801074927",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be06c8c7966c4bd4128ab"
+  },
+  "id": "669773317",
+  "name": "DBM 1B",
+  "departmentId": "559538465",
+  "programId": "801074927",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be08f8c7966c4bd4128af"
+  },
+  "id": "51746039",
+  "name": "DBM 1C",
+  "departmentId": "559538465",
+  "programId": "801074927",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be10e8c7966c4bd4128bb"
+  },
+  "id": "505280641",
+  "name": "D- SCA 1",
+  "departmentId": "559538465",
+  "programId": "337696824",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be1338c7966c4bd4128bf"
+  },
+  "id": "146571402",
+  "name": "D- SCA 2",
+  "departmentId": "559538465",
+  "programId": "337696824",
+  "level": "200",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be1868c7966c4bd4128c3"
+  },
+  "id": "674476093",
+  "name": "MP-BMGT 1",
+  "departmentId": "559538465",
+  "programId": "626074328",
+  "level": "800",
+  "classSize": 17,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be1c78c7966c4bd4128c7"
+  },
+  "id": "827119859",
+  "name": "MP-BMGT 2",
+  "departmentId": "559538465",
+  "programId": "968641308",
+  "level": "800",
+  "classSize": 12,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be2208c7966c4bd4128cd"
+  },
+  "id": "446104572",
+  "name": "BBA MGT-E 1",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "100",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be2528c7966c4bd4128d1"
+  },
+  "id": "406719770",
+  "name": "BBA MGT-E 2",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "200",
+  "classSize": 36,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be2868c7966c4bd4128d7"
+  },
+  "id": "736911141",
+  "name": "BBA MGT-E 3",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "300",
+  "classSize": 42,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be2ab8c7966c4bd4128db"
+  },
+  "id": "873275568",
+  "name": "BBA MGT-E 4A",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be2bd8c7966c4bd4128df"
+  },
+  "id": "242676096",
+  "name": "BBA MGT-E 4B",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be30c8c7966c4bd4128e7"
+  },
+  "id": "684701294",
+  "name": "BBA EOA 2",
+  "departmentId": "559538465",
+  "programId": "63599228",
+  "level": "200",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be3238c7966c4bd4128eb"
+  },
+  "id": "472046928",
+  "name": "BBA EOA 3",
+  "departmentId": "559538465",
+  "programId": "63599228",
+  "level": "300",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be33a8c7966c4bd4128ef"
+  },
+  "id": "170340074",
+  "name": "BBA EOA 4",
+  "departmentId": "559538465",
+  "programId": "63599228",
+  "level": "400",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be3608c7966c4bd4128f3"
+  },
+  "id": "374890221",
+  "name": "BBA MGT-W 1A",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be3758c7966c4bd4128f7"
+  },
+  "id": "537140827",
+  "name": "BBA MGT-W 1B",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "100",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be3b08c7966c4bd4128fb"
+  },
+  "id": "961785044",
+  "name": "BBA MGT-W 2A",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be3c88c7966c4bd4128ff"
+  },
+  "id": "42193203",
+  "name": "BBA MGT-W 3A",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be3dd8c7966c4bd412903"
+  },
+  "id": "500443201",
+  "name": "BBA MGT-W 4A",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be4028c7966c4bd412907"
+  },
+  "id": "1003716259",
+  "name": "BBA MGT-W 4B",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "400",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be43c8c7966c4bd41290b"
+  },
+  "id": "795421015",
+  "name": "MKTE-W1",
+  "departmentId": "559538465",
+  "programId": "1001443489",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be44f8c7966c4bd41290f"
+  },
+  "id": "28727633",
+  "name": "MKTE-W2",
+  "departmentId": "559538465",
+  "programId": "1001443489",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be4628c7966c4bd412913"
+  },
+  "id": "866996354",
+  "name": "MKT-W1",
+  "departmentId": "559538465",
+  "programId": "488783351",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be4b78c7966c4bd41291b"
+  },
+  "id": "394491200",
+  "name": "MKT-W2",
+  "departmentId": "559538465",
+  "programId": "488783351",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be4d88c7966c4bd41291f"
+  },
+  "id": "1060353872",
+  "name": "MKT-W3",
+  "departmentId": "559538465",
+  "programId": "488783351",
+  "level": "300",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be5478c7966c4bd412923"
+  },
+  "id": "381425242",
+  "name": "DP- BAM- 1W",
+  "departmentId": "559538465",
+  "programId": "630958769",
+  "level": "100",
+  "classSize": 21,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be55f8c7966c4bd412927"
+  },
+  "id": "1036463233",
+  "name": "DP- BAM- 2W",
+  "departmentId": "559538465",
+  "programId": "630958769",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be5a28c7966c4bd41292b"
+  },
+  "id": "710452130",
+  "name": "MBA-MKT- W1",
+  "departmentId": "559538465",
+  "programId": "417867478",
+  "level": "700",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be5b98c7966c4bd41292f"
+  },
+  "id": "542939719",
+  "name": "MBA-MKT- W2",
+  "departmentId": "559538465",
+  "programId": "1052210349",
+  "level": "700",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be61c8c7966c4bd412933"
+  },
+  "id": "352622665",
+  "name": "MP- BMGT-W1",
+  "departmentId": "559538465",
+  "programId": "626074328",
+  "level": "800",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be6398c7966c4bd412937"
+  },
+  "id": "489419118",
+  "name": "MP- BMGT-W2",
+  "departmentId": "559538465",
+  "programId": "968641308",
+  "level": "800",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be6608c7966c4bd41293b"
+  },
+  "id": "180399001",
+  "name": "MP- BMGT-WTOP",
+  "departmentId": "559538465",
+  "programId": "978995276",
+  "level": "800",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be6c58c7966c4bd41293f"
+  },
+  "id": "725460791",
+  "name": "BBA HRM 1A",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be6d98c7966c4bd412943"
+  },
+  "id": "251752786",
+  "name": "BBA HRM 1B",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be6ec8c7966c4bd412947"
+  },
+  "id": "577604838",
+  "name": "BBA HRM 2A",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be6f88c7966c4bd41294b"
+  },
+  "id": "582440557",
+  "name": "BBA HRM 2B",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be70c8c7966c4bd41294f"
+  },
+  "id": "755021510",
+  "name": "BBA HRM 3A",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be71f8c7966c4bd412953"
+  },
+  "id": "936883960",
+  "name": "BBA HRM 3B",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "300",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be7398c7966c4bd412957"
+  },
+  "id": "524504813",
+  "name": "BBA HRM 4A",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "400",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be7798c7966c4bd41295b"
+  },
+  "id": "59714991",
+  "name": "DHRM 1A",
+  "departmentId": "559538465",
+  "programId": "1046450096",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be78c8c7966c4bd41295f"
+  },
+  "id": "388042443",
+  "name": "DHRM 1A",
+  "departmentId": "559538465",
+  "programId": "1046450096",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be7c08c7966c4bd412963"
+  },
+  "id": "162111463",
+  "name": "BBA HRM-E 1",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "100",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be7d68c7966c4bd412967"
+  },
+  "id": "864889258",
+  "name": "BBA HRM-E 2",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be7e88c7966c4bd41296b"
+  },
+  "id": "606626710",
+  "name": "BBA HRM-E 3",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "300",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be8138c7966c4bd41296f"
+  },
+  "id": "689541400",
+  "name": "BBA HRM-E 4",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "400",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be8318c7966c4bd412973"
+  },
+  "id": "46145154",
+  "name": "BBA HRM-W 1A",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be8438c7966c4bd412977"
+  },
+  "id": "795554943",
+  "name": "BBA HRM-W 1B",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "100",
+  "classSize": 80,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be9338c7966c4bd41298b"
+  },
+  "id": "417351890",
+  "name": "MBA HROB-W",
+  "departmentId": "930513539",
+  "programId": "543586423",
+  "level": "700",
+  "classSize": 56,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be8628c7966c4bd41297b"
+  },
+  "id": "510300603",
+  "name": "BBA HRM-W 2A",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be8728c7966c4bd41297f"
+  },
+  "id": "425996298",
+  "name": "BBA HRM-W 3A",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be8868c7966c4bd412983"
+  },
+  "id": "209372297",
+  "name": "BBA HRM-W 4A",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677fe9bb60ae70dc890b38c3"
+  },
+  "id": "438615271",
+  "name": "ENT 1",
+  "departmentId": "559538465",
+  "programId": "619076062",
+  "level": "100",
+  "classSize": 30,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67826cf4a750bb608644575b"
+  },
+  "id": "121077205",
+  "name": "MKTE W3",
+  "departmentId": "559538465",
+  "programId": "1001443489",
+  "level": "300",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67826d2da750bb608644575f"
+  },
+  "id": "597312518",
+  "name": "MKTE W4",
+  "departmentId": "559538465",
+  "programId": "1001443489",
+  "level": "400",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6784e7a5c831daff802dc8cb"
+  },
+  "id": "244492262",
+  "name": "DHRM 2",
+  "departmentId": "559538465",
+  "programId": "1046450096",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6787e31c860c8e66d0ab96fe"
+  },
+  "id": "957952775",
+  "name": "ACC 1A",
+  "departmentId": "3070559",
+  "programId": "159613970",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6787e33e860c8e66d0ab9702"
+  },
+  "id": "1045414470",
+  "name": "ACC 1B",
+  "departmentId": "3070559",
+  "programId": "159613970",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6787e386860c8e66d0ab9706"
+  },
+  "id": "466726510",
+  "name": "ACC 2A",
+  "departmentId": "3070559",
+  "programId": "159613970",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6787e3b1860c8e66d0ab970a"
+  },
+  "id": "701660058",
+  "name": "ACC 2B",
+  "departmentId": "3070559",
+  "programId": "159613970",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6787e3d7860c8e66d0ab970e"
+  },
+  "id": "346438003",
+  "name": "ACC 3A",
+  "departmentId": "3070559",
+  "programId": "159613970",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6787e3f5860c8e66d0ab9712"
+  },
+  "id": "198119910",
+  "name": "ACC 3B",
+  "departmentId": "3070559",
+  "programId": "159613970",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6789244854158baa42860dca"
+  },
+  "id": "367158554",
+  "name": "ADMIN- ACC 3",
+  "departmentId": "3070559",
+  "programId": "575726823",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6789248154158baa42860dce"
+  },
+  "id": "482429566",
+  "name": "ADMIN- ACC 4",
+  "departmentId": "3070559",
+  "programId": "575726823",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6789361e4cfc207b240e5484"
+  },
+  "id": "664444302",
+  "name": "ADMIN- BF 1",
+  "departmentId": "3070559",
+  "programId": "328931560",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6789363f4cfc207b240e5488"
+  },
+  "id": "382672363",
+  "name": "ADMIN- BF 2",
+  "departmentId": "3070559",
+  "programId": "328931560",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678936644cfc207b240e548c"
+  },
+  "id": "810582817",
+  "name": "ADMIN- BF 3",
+  "departmentId": "3070559",
+  "programId": "328931560",
+  "level": "300",
+  "classSize": 40,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6789368a4cfc207b240e5490"
+  },
+  "id": "767343572",
+  "name": "ADMIN- BF 4",
+  "departmentId": "3070559",
+  "programId": "328931560",
+  "level": "400",
+  "classSize": 30,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67893fd44cfc207b240e5530"
+  },
+  "id": "792831380",
+  "name": "PSCM 1",
+  "departmentId": "3070559",
+  "programId": "397240728",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67893ff04cfc207b240e5534"
+  },
+  "id": "974661309",
+  "name": "PSCM 2",
+  "departmentId": "3070559",
+  "programId": "397240728",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6789400b4cfc207b240e5538"
+  },
+  "id": "834180326",
+  "name": "PSCM 3",
+  "departmentId": "3070559",
+  "programId": "397240728",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678940364cfc207b240e553c"
+  },
+  "id": "476647306",
+  "name": "PSCM 4",
+  "departmentId": "3070559",
+  "programId": "397240728",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678a7fe581381093aeb3b3ac"
+  },
+  "id": "491221612",
+  "name": "BIS 3",
+  "departmentId": "3070559",
+  "programId": "400427695",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678a800981381093aeb3b3b0"
+  },
+  "id": "733441461",
+  "name": "BIS 4",
+  "departmentId": "3070559",
+  "programId": "400427695",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678ba5392e4eaafdf42ac3a1"
+  },
+  "id": "824150009",
+  "name": "MPHIL ACC 1",
+  "departmentId": "3070559",
+  "programId": "500910018",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678ba5592e4eaafdf42ac3a5"
+  },
+  "id": "994105121",
+  "name": "MPHIL ACC 2",
+  "departmentId": "3070559",
+  "programId": "399567442",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678ba5a22e4eaafdf42ac3a9"
+  },
+  "id": "401254257",
+  "name": "MPHIL ACC 1 ",
+  "departmentId": "3070559",
+  "programId": "711509456",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678ba60f2e4eaafdf42ac3ad"
+  },
+  "id": "893134039",
+  "name": "MPHIL ACC 1",
+  "departmentId": "3070559",
+  "programId": "711509456",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678ba6432e4eaafdf42ac3b1"
+  },
+  "id": "583792014",
+  "name": "MBA ACC 1",
+  "departmentId": "3070559",
+  "programId": "799385472",
+  "level": "700",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678ba6652e4eaafdf42ac3b5"
+  },
+  "id": "909476352",
+  "name": "MBA ACC 2",
+  "departmentId": "3070559",
+  "programId": "618042040",
+  "level": "700",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678ba69c2e4eaafdf42ac3b9"
+  },
+  "id": "155161494",
+  "name": "MBA FIN 1",
+  "departmentId": "3070559",
+  "programId": "243627653",
+  "level": "700",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678ba6bb2e4eaafdf42ac3bd"
+  },
+  "id": "875848899",
+  "name": "MBA FIN 2",
+  "departmentId": "3070559",
+  "programId": "965633897",
+  "level": "700",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678bb10d2e4eaafdf42ac43f"
+  },
+  "id": "865596767",
+  "name": "MHIL ACC 1 W",
+  "departmentId": "3070559",
+  "programId": "500910018",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678bb5752e4eaafdf42ac481"
+  },
+  "id": "989789308",
+  "name": "MPHIL ACC 2 W",
+  "departmentId": "3070559",
+  "programId": "399567442",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678bdc2a2e4eaafdf42ac683"
+  },
+  "id": "423666211",
+  "name": "MP- MAT 8",
+  "departmentId": "765281128",
+  "programId": "714128894",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678bddca2e4eaafdf42ac695"
+  },
+  "id": "851561391",
+  "name": "MP- MAT 8B-W",
+  "departmentId": "765281128",
+  "programId": "714128894",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678e299ed8d42d4a3e7d54de"
+  },
+  "id": "993302688",
+  "name": "PGS 1",
+  "departmentId": "680270541",
+  "programId": "647938381",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678e29b8d8d42d4a3e7d54e2"
+  },
+  "id": "177885869",
+  "name": "PGS 2",
+  "departmentId": "680270541",
+  "programId": "647938381",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678e29ddd8d42d4a3e7d54e6"
+  },
+  "id": "597421134",
+  "name": "PGS 3",
+  "departmentId": "680270541",
+  "programId": "647938381",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678e2a17d8d42d4a3e7d54ea"
+  },
+  "id": "20676706",
+  "name": "ARC 1",
+  "departmentId": "680270541",
+  "programId": "619242975",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678e2a41d8d42d4a3e7d54ee"
+  },
+  "id": "843473244",
+  "name": "ARC 2",
+  "departmentId": "680270541",
+  "programId": "619242975",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678e7bf8acd3f6f9b08bae3b"
+  },
+  "id": "559865284",
+  "name": "DIP- WTE 2",
+  "departmentId": "307505219",
+  "programId": "1037304206",
+  "level": "200",
+  "classSize": 45,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678e7fa1acd3f6f9b08bae65"
+  },
+  "id": "1005747136",
+  "name": "MP- WTE",
+  "departmentId": "307505219",
+  "programId": "210614828",
+  "level": "800",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678e844dacd3f6f9b08baeb7"
+  },
+  "id": "896288207",
+  "name": "MPHIL EL 1",
+  "departmentId": "750159235",
+  "programId": "844827900",
+  "level": "700",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678f7907577c7aca6f7c3a4d"
+  },
+  "id": "989568154",
+  "name": "CAT 1C",
+  "departmentId": "454298456",
+  "programId": "205357732",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678f7927577c7aca6f7c3a51"
+  },
+  "id": "702167184",
+  "name": "CAT 1D",
+  "departmentId": "454298456",
+  "programId": "205357732",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678fdecf815555d9bd58d484"
+  },
+  "id": "1042934694",
+  "name": "MPHIL FASH 1(TP)",
+  "departmentId": "903354885",
+  "programId": "436795716",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6790d51efb2d4aadd047e452"
+  },
+  "id": "418409963",
+  "name": "DP- ECONS W1",
+  "departmentId": "439364417",
+  "programId": "885244728",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6790d53afb2d4aadd047e456"
+  },
+  "id": "962952943",
+  "name": "DP- ECONS W2",
+  "departmentId": "439364417",
+  "programId": "885244728",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67938d20ab6d2b1637368be2"
+  },
+  "id": "819878812",
+  "name": "MP- AUTO- T",
+  "departmentId": "678904014",
+  "programId": "752613870",
+  "level": "800",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6793ef26fc7e7cb050b25e6d"
+  },
+  "id": "874820776",
+  "name": "DIT 1B",
+  "departmentId": "449025685",
+  "programId": "103903043",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6793efcdfc7e7cb050b25e71"
+  },
+  "id": "359689731",
+  "name": "ITE 1K",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6793efe3fc7e7cb050b25e75"
+  },
+  "id": "887592356",
+  "name": "ITE 1L",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6793effbfc7e7cb050b25e79"
+  },
+  "id": "686383230",
+  "name": "ITE 1M",
+  "departmentId": "449025685",
+  "programId": "325626851",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6793f050fc7e7cb050b25e81"
+  },
+  "id": "845611353",
+  "name": "CDF 1C",
+  "departmentId": "449025685",
+  "programId": "352047437",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6794e5e8fc7e7cb050b26a9d"
+  },
+  "id": "929147868",
+  "name": "DP- ECONS 1",
+  "departmentId": "439364417",
+  "programId": "885244728",
+  "level": "100",
+  "classSize": 45,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6794e600fc7e7cb050b26aa1"
+  },
+  "id": "815389659",
+  "name": "DP- ECONS 2",
+  "departmentId": "439364417",
+  "programId": "885244728",
+  "level": "200",
+  "classSize": 30,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6794fd86f24909867be53cca"
+  },
+  "id": "291424071",
+  "name": "ADMIN-ACC 1",
+  "departmentId": "3070559",
+  "programId": "575726823",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6794fd9cf24909867be53cce"
+  },
+  "id": "70162965",
+  "name": "ADMIN- ACC 2",
+  "departmentId": "3070559",
+  "programId": "575726823",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6795145ef24909867be53f82"
+  },
+  "id": "159071253",
+  "name": "ADMIN- ACC 1W",
+  "departmentId": "3070559",
+  "programId": "575726823",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67951472f24909867be53f86"
+  },
+  "id": "929421395",
+  "name": "ADMIN- ACC 2W",
+  "departmentId": "3070559",
+  "programId": "575726823",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6795148ff24909867be53f8a"
+  },
+  "id": "220540687",
+  "name": "ADMIN- ACC 3W",
+  "departmentId": "3070559",
+  "programId": "575726823",
+  "level": "300",
+  "classSize": 45,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679514baf24909867be53f8e"
+  },
+  "id": "171793021",
+  "name": "ADMIN- ACC 4W",
+  "departmentId": "3070559",
+  "programId": "575726823",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679517f2f24909867be54012"
+  },
+  "id": "50245109",
+  "name": "ADMIN- BF 1W",
+  "departmentId": "3070559",
+  "programId": "328931560",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67951818f24909867be54018"
+  },
+  "id": "614377152",
+  "name": "ADMIN- BF 2W",
+  "departmentId": "3070559",
+  "programId": "328931560",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67951828f24909867be5401c"
+  },
+  "id": "777230771",
+  "name": "ADMIN- BF 3W",
+  "departmentId": "3070559",
+  "programId": "328931560",
+  "level": "300",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6795183bf24909867be54020"
+  },
+  "id": "791671601",
+  "name": "ADMIN- BF 4W",
+  "departmentId": "3070559",
+  "programId": "328931560",
+  "level": "400",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67951864f24909867be54024"
+  },
+  "id": "282460601",
+  "name": "PSCM 1W",
+  "departmentId": "3070559",
+  "programId": "397240728",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67951876f24909867be54028"
+  },
+  "id": "773915874",
+  "name": "PSCM 2W",
+  "departmentId": "3070559",
+  "programId": "397240728",
+  "level": "200",
+  "classSize": 45,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67951887f24909867be5402c"
+  },
+  "id": "985534830",
+  "name": "PSCM 3W",
+  "departmentId": "3070559",
+  "programId": "397240728",
+  "level": "300",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6795189cf24909867be54030"
+  },
+  "id": "551144704",
+  "name": "PSCM 4W",
+  "departmentId": "3070559",
+  "programId": "397240728",
+  "level": "400",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679518d4f24909867be54034"
+  },
+  "id": "863815923",
+  "name": "ADMIN- ACC 3E",
+  "departmentId": "3070559",
+  "programId": "575726823",
+  "level": "300",
+  "classSize": 45,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679518e8f24909867be54038"
+  },
+  "id": "386902917",
+  "name": "ADMIN- ACC 2E",
+  "departmentId": "3070559",
+  "programId": "575726823",
+  "level": "200",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679518fcf24909867be5403c"
+  },
+  "id": "452048652",
+  "name": "ADMIN- ACC 1E",
+  "departmentId": "3070559",
+  "programId": "575726823",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67951915f24909867be54040"
+  },
+  "id": "510059630",
+  "name": "ADMIN- ACC 4E",
+  "departmentId": "3070559",
+  "programId": "575726823",
+  "level": "400",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6795193bf24909867be54044"
+  },
+  "id": "671327595",
+  "name": "ADMIN- BF 2E",
+  "departmentId": "3070559",
+  "programId": "328931560",
+  "level": "200",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6795194ef24909867be54048"
+  },
+  "id": "209396546",
+  "name": "ADMIN- BF 1E",
+  "departmentId": "3070559",
+  "programId": "328931560",
+  "level": "100",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67951961f24909867be5404c"
+  },
+  "id": "232399056",
+  "name": "ADMIN- BF 3E",
+  "departmentId": "3070559",
+  "programId": "328931560",
+  "level": "300",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67951970f24909867be54050"
+  },
+  "id": "404772515",
+  "name": "ADMIN- BF 4E",
+  "departmentId": "3070559",
+  "programId": "328931560",
+  "level": "400",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679519b0f24909867be54054"
+  },
+  "id": "684129967",
+  "name": "PSCM 1E",
+  "departmentId": "3070559",
+  "programId": "397240728",
+  "level": "100",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679519d0f24909867be54058"
+  },
+  "id": "548501273",
+  "name": "PSCM 2E",
+  "departmentId": "3070559",
+  "programId": "397240728",
+  "level": "200",
+  "classSize": 52,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679519e1f24909867be5405c"
+  },
+  "id": "877897698",
+  "name": "PSCM 3E",
+  "departmentId": "3070559",
+  "programId": "397240728",
+  "level": "300",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679519eef24909867be54060"
+  },
+  "id": "556112829",
+  "name": "PSCM 4E",
+  "departmentId": "3070559",
+  "programId": "397240728",
+  "level": "400",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6796272d17e4fd98897c3312"
+  },
+  "id": "744485104",
+  "name": "DBM 2A",
+  "departmentId": "559538465",
+  "programId": "801074927",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6796274b17e4fd98897c3316"
+  },
+  "id": "108094906",
+  "name": "DBM 2B",
+  "departmentId": "559538465",
+  "programId": "801074927",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6797ed0d82f16581bc18adf3"
+  },
+  "id": "162580675",
+  "name": "CAT 1E",
+  "departmentId": "454298456",
+  "programId": "205357732",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6797ed4782f16581bc18adf9"
+  },
+  "id": "182129713",
+  "name": "DCAT 1B",
+  "departmentId": "454298456",
+  "programId": "774345127",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6797ed8582f16581bc18adfd"
+  },
+  "id": "674301565",
+  "name": "FASH 1C",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6797ed9b82f16581bc18ae01"
+  },
+  "id": "134893399",
+  "name": "FASH 1D",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6797edc982f16581bc18ae07"
+  },
+  "id": "553019318",
+  "name": "DFASH 1B",
+  "departmentId": "903354885",
+  "programId": "593584838",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6797f3d582f16581bc18ae49"
+  },
+  "id": "20292920",
+  "name": "SOC-ECON 1G",
+  "departmentId": "561106956",
+  "programId": "1031619158",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679e240107faca4c244a9fbc"
+  },
+  "id": "101791504",
+  "name": "BBA SEC 1",
+  "departmentId": "559538465",
+  "programId": "1003324722",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679ec79bb5be2d107d76a148"
+  },
+  "id": "58222722",
+  "name": "BIS 2",
+  "departmentId": "3070559",
+  "programId": "400427695",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679ed6d6b5be2d107d76a256"
+  },
+  "id": "815782366",
+  "name": "MP- ENG 7",
+  "departmentId": "534083713",
+  "programId": "370170229",
+  "level": "700",
+  "classSize": 30,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679f4c04b5be2d107d76a286"
+  },
+  "id": "33196415",
+  "name": "POST- DIP MEC",
+  "departmentId": "678904014",
+  "programId": "448455423",
+  "level": "400",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679f4d8ab5be2d107d76a29c"
+  },
+  "id": "477667332",
+  "name": "CAT 2E",
+  "departmentId": "454298456",
+  "programId": "205357732",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fa8e0bdbfc73f1a194de1"
+  },
+  "id": "1071015806",
+  "name": "BBA HRM 1C",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fa8f7bdbfc73f1a194de5"
+  },
+  "id": "666339865",
+  "name": "BBA HRM 1D",
+  "departmentId": "559538465",
+  "programId": "989154173",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fb564bdbfc73f1a194e50"
+  },
+  "id": "517291360",
+  "name": "ED- ELECT 1B",
+  "departmentId": "183851483",
+  "programId": "160284158",
+  "level": "100",
+  "classSize": 67,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fb577bdbfc73f1a194e54"
+  },
+  "id": "956648596",
+  "name": "ED- ELECT 1C",
+  "departmentId": "183851483",
+  "programId": "160284158",
+  "level": "100",
+  "classSize": 66,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679f9c23536e272d8a697dcf"
+  },
+  "id": "242036850",
+  "name": "FASH 2D",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fa047536e272d8a697e0f"
+  },
+  "id": "495349764",
+  "name": "ELECT -TP 4",
+  "departmentId": "183851483",
+  "programId": "575065940",
+  "level": "400",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a1162e86c7e76eaea1aa37"
+  },
+  "id": "22380562",
+  "name": "CDF 1D",
+  "departmentId": "449025685",
+  "programId": "352047437",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a124c186c7e76eaea1aabb"
+  },
+  "id": "896165444",
+  "name": "MP- IT -TOPUP",
+  "departmentId": "449025685",
+  "programId": "585598842",
+  "level": "800",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a1289086c7e76eaea1aae3"
+  },
+  "id": "903588914",
+  "name": "ECO 1B",
+  "departmentId": "3070559",
+  "programId": "770839335",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a4b65796a3d0b29c520c65"
+  },
+  "id": "137112672",
+  "name": "BBA MGT-W 2B",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a8b2129f12955bc2741ba9"
+  },
+  "id": "254184489",
+  "name": "ECO W1",
+  "departmentId": "3070559",
+  "programId": "770839335",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a95765e80235cc0ff1d9be"
+  },
+  "id": "534494732",
+  "name": "P-DIP ECO 3",
+  "departmentId": "439364417",
+  "programId": "664452072",
+  "level": "300",
+  "classSize": 55,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b8d4514d199a185b4dca7c"
+  },
+  "id": "133768241",
+  "name": "DIP ADMIN-ACC 1",
+  "departmentId": "3070559",
+  "programId": "189817788",
+  "level": "100",
+  "classSize": 30,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b8d4cd4d199a185b4dca80"
+  },
+  "id": "616783149",
+  "name": "DIP ADMIN-ACC 2",
+  "departmentId": "3070559",
+  "programId": "189817788",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+}]

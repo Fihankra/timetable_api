@@ -1,0 +1,1052 @@
+[{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb5c"
+  },
+  "id": "6J2Ft1rqicYXRNUlq8hf",
+  "name": "UBS GF 4",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb5f"
+  },
+  "id": "CrZbKp6Cua3X93xQoARq",
+  "name": "UBS SF 6",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb6b"
+  },
+  "id": "KsAGycvqp0EGBqdsmagk",
+  "name": "ROB ROOM 13",
+  "capacity": 80,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb6e"
+  },
+  "id": "LCaHEte7pgMx3tn4J22v",
+  "name": "ROB ROOM 23",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb71"
+  },
+  "id": "M5E8X1Ag8fZuUblLvhiq",
+  "name": "ROB ROOM R/W",
+  "capacity": 70,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb72"
+  },
+  "id": "MqHphebxvk8sv8F9fDtm",
+  "name": "ROB ROOM 11",
+  "capacity": 80,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb78"
+  },
+  "id": "TKln1IXkjcCxXh83DxI0",
+  "name": "ROB ROOM 6",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb7e"
+  },
+  "id": "WpR4oQpPC5vpszODnzuu",
+  "name": "UBS G5",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb8e"
+  },
+  "id": "e5ent9Gg0IyTrKr1EFCE",
+  "name": "ROB ROOM 25",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb8f"
+  },
+  "id": "eLwyP0bIrXNHCKhm6rXW",
+  "name": "ROB ROOM 21",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb90"
+  },
+  "id": "eQOiX1rY0uYCwMP0iJjU",
+  "name": "T L 3",
+  "capacity": 60,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb95"
+  },
+  "id": "fnTc8RP0ntMO9zpFcEIQ",
+  "name": "CBT MECHANICAL LAB",
+  "capacity": 30,
+  "type": "Mechanical Workshop",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb96"
+  },
+  "id": "g4iww6mOefzzcfeGuzxG",
+  "name": "AUTONOMY HALL 3",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fbab"
+  },
+  "id": "zHPklhQcqJ0RaBttm5mF",
+  "name": "CBT WOOD LAB",
+  "capacity": 50,
+  "type": "Drawing Studio",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb57"
+  },
+  "id": "0rCZtyH9KCzDmCx0T3XB",
+  "name": "UBS SF 2",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb5b"
+  },
+  "id": "6DyjQGiWvxJujbF0gJKr",
+  "name": "TL 2",
+  "capacity": 60,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb60"
+  },
+  "id": "D9PhAlTPApR2aI3Nd5PS",
+  "name": "UBS SF 3",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb63"
+  },
+  "id": "FE9MpIakyGXAJlzVozYa",
+  "name": "UBS FF 8",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb64"
+  },
+  "id": "GZ9PByqynQ8kCSXKOrP1",
+  "name": "UBS FF 7",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb67"
+  },
+  "id": "HmAzpkSQkOiwdDquMFe0",
+  "name": "NLB FF 1",
+  "capacity": 200,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb79"
+  },
+  "id": "TNfKjWSFsnFCZXPD5V9L",
+  "name": "ROB ROOM 7",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb7f"
+  },
+  "id": "WxAHHDIpz4SAiPhhbZDD",
+  "name": "ROB ROOM L/W",
+  "capacity": 70,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb81"
+  },
+  "id": "XqM2WuO2mF0dyiB0Lm8d",
+  "name": "GLRM 2",
+  "capacity": 60,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb8a"
+  },
+  "id": "cLvIA6H7E474LdStGMS1",
+  "name": "ROB ROOM 9",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb92"
+  },
+  "id": "eXf4s7qR4AyWXe57iEbc",
+  "name": "ROB ROOM 19",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb9d"
+  },
+  "id": "mVPnYcz7I528WeILmBnF",
+  "name": "NLB SF",
+  "capacity": 500,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fba1"
+  },
+  "id": "rHWdL6XzSCbNxMx4BclT",
+  "name": "NEW LIBRARY GF",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fba2"
+  },
+  "id": "slEYOVy0lXRRbJup5fZn",
+  "name": "UBS FF 3",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fba7"
+  },
+  "id": "wuzmU4G4ZltXDAqGhHqe",
+  "name": "ELECTRICAL LAB ",
+  "capacity": 40,
+  "type": "Electrical Lab",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fba8"
+  },
+  "id": "y5bA7Byph85Q3sJsEMUT",
+  "name": "UBS GF 8",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fba9"
+  },
+  "id": "yWrhruQw6GZjEbo9Nvoy",
+  "name": "ROB ROOM 18",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fbac"
+  },
+  "id": "zpmHsSpcfRldfWq0Xfov",
+  "name": "UBS SF 4",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb5a"
+  },
+  "id": "3Ok5Nusf31t0i9KX2fyF",
+  "name": "UBS GF 3",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb5e"
+  },
+  "id": "ChBUFG8JGsNgIig8WJkz",
+  "name": "T L 1",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb62"
+  },
+  "id": "E6DbvgGVfbKVJo7Wmdcc",
+  "name": "GLRM 1",
+  "capacity": 60,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb66"
+  },
+  "id": "HdRu6teGvNW6aV469Kl4",
+  "name": "ROB ROOM 2",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb68"
+  },
+  "id": "JOTG5QWGl51YXAhelGae",
+  "name": "UBS FF 10",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb6c"
+  },
+  "id": "KuFcOiYE1GKnwnXc4Dq8",
+  "name": "UBS SF 1",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb6f"
+  },
+  "id": "LhG1DggkLBSHEY9P8Cdk",
+  "name": "ROB ROOM 5",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb7a"
+  },
+  "id": "TfjW1Mr4dv5eZJvQSsmh",
+  "name": "NEW LIBRARY FF",
+  "capacity": 80,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb7b"
+  },
+  "id": "VZ3qT3lacrqtXnPvNGyj",
+  "name": "UBS FF 9",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb7c"
+  },
+  "id": "Vrf4CnZZz6UoRTTWoIDc",
+  "name": "NLB GF 1",
+  "capacity": 200,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb83"
+  },
+  "id": "YYeyHFBki0u3x7supj4h",
+  "name": "ROB ROOM 15",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb86"
+  },
+  "id": "aUHoclWavR1HtxTPny9A",
+  "name": "ROB ROOM 14",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb88"
+  },
+  "id": "bEyHhk9INfF16bLppKs9",
+  "name": "UBS FF 1",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb8b"
+  },
+  "id": "dmMcoz8rSj8rLKiQPMzl",
+  "name": "UBS GF 1",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb8c"
+  },
+  "id": "dvquHv946Tkb6F0P7brM",
+  "name": "ROB ROOM 17",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb91"
+  },
+  "id": "eW21ojNVJVbWu2bcgCO9",
+  "name": "ROB ROOM 3",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb93"
+  },
+  "id": "fHXSmElEbvkqZxVDZXBi",
+  "name": "FASHION LAB (TL)",
+  "capacity": 60,
+  "type": "Fashion Lab",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb97"
+  },
+  "id": "gHmU4f1kwUmn9RmRbAVl",
+  "name": "UBS GF 7",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb9a"
+  },
+  "id": "k7hZ1PrACxNLCqOD0BAU",
+  "name": "ROB ROOM 12",
+  "capacity": 80,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb9b"
+  },
+  "id": "kFjENBwwhWAzUMUHwSM2",
+  "name": "UBS GF 11",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb9c"
+  },
+  "id": "m3wCDIeLRpdI5UZP4XCZ",
+  "name": "UBS FF 4",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb9e"
+  },
+  "id": "n266GUplQVBZAR1Fg0IJ",
+  "name": "UBS GF",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fba3"
+  },
+  "id": "t8ZkStG4YAi04Cxgue8E",
+  "name": "UBS SF 7",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fba5"
+  },
+  "id": "uvLfHn5P3aUlS6IsRbi7",
+  "name": "NFB GF",
+  "capacity": 250,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb58"
+  },
+  "id": "1baUGAhSuwuJZT0Hlstr",
+  "name": "GLRM 3",
+  "capacity": 60,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb59"
+  },
+  "id": "3CK5JFqVrxVfmARcbFSG",
+  "name": "NLB GF 2",
+  "capacity": 200,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb61"
+  },
+  "id": "Dx9lpTpxH3LHHydFombq",
+  "name": "NEW BUILDING RM 1",
+  "capacity": 150,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb65"
+  },
+  "id": "HGwLbaWqO1j0Q7haHvtd",
+  "name": "CONSTRUCTION DRAWING STUDIO",
+  "capacity": 100,
+  "type": "Drawing Studio",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb69"
+  },
+  "id": "K0UIj98jJeB3WYr6AAvF",
+  "name": "UBS FF 2",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb6a"
+  },
+  "id": "KUE5jBfJcdmsz1SohTlb",
+  "name": "ROB ROOM 8",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb6d"
+  },
+  "id": "LBAWsm8ef1GgVnhiL3eT",
+  "name": "ROB ROOM 4",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb70"
+  },
+  "id": "Lhf7IdNGvJohneYY2Ve8",
+  "name": "SEMINAR ROOM ",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb73"
+  },
+  "id": "MzaoSCvcgTmXS3rWpwTa",
+  "name": "ROB ROOM 20",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb74"
+  },
+  "id": "P0ArlcM2crZvbQD17nSJ",
+  "name": "UBS GF 9",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb75"
+  },
+  "id": "PMGGBXsmlGNJJ9UAlY5z",
+  "name": "UBS SF 5",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb76"
+  },
+  "id": "QQoxbQCkxlDNr6nURibS",
+  "name": "ROB ROOM 10",
+  "capacity": 80,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb77"
+  },
+  "id": "SRbtNRlhuteSmsfssBGG",
+  "name": "ROB ROOM 1",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb7d"
+  },
+  "id": "WkcmWe16nJ2aQWi8onMx",
+  "name": "UBS FF 11",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb80"
+  },
+  "id": "XRq0B8dl2rhWjxdO5QNK",
+  "name": "UBS GF 6",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb82"
+  },
+  "id": "Y8f4hv7vHLI2cnd6NWhS",
+  "name": "NFB FF",
+  "capacity": 250,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb85"
+  },
+  "id": "ZgmHz6hpYrC8r4UEuGGg",
+  "name": "UBS SF 8",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb87"
+  },
+  "id": "acPDjBUCqJhv5SkNs1NP",
+  "name": "AUTONOMY HALL ROOM 2",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb89"
+  },
+  "id": "bmYqXjRFqBLCgGTFkGuG",
+  "name": "CBT AUTO LAB 1",
+  "capacity": 30,
+  "type": "Automotive Workshop",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb8d"
+  },
+  "id": "e0g4x2HdGunjiRZebb82",
+  "name": "AUTONOMY HALL ROOM 1",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb99"
+  },
+  "id": "gkSSkR2i4bofRRmEcFkW",
+  "name": "UBS GF 10",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fb9f"
+  },
+  "id": "pR490qRR8v6HVeh45hBW",
+  "name": "UBS FF 5",
+  "capacity": 30,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fba0"
+  },
+  "id": "r4KoVZ08FvjPPbGTL4uC",
+  "name": "CBT CAT MAIN LOUNG",
+  "capacity": 50,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fba4"
+  },
+  "id": "uq0BoQ8pwWHO8CNYgyBV",
+  "name": "ROB ROOM 24",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true
+},
+{
+  "_id": {
+    "$oid": "67766aadeb1d497ca2d1fbaa"
+  },
+  "id": "z7BisKhQE5hKWRCt9vKP",
+  "name": "ROB ROOM 22",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false
+},
+{
+  "_id": {
+    "$oid": "678676ad23093eeeed071b91"
+  },
+  "id": "764275889",
+  "name": " COMPUTER LAB 1",
+  "capacity": 100,
+  "type": "Computer Lab",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678676ce23093eeeed071b95"
+  },
+  "id": "465848606",
+  "name": "COMPUTER LAB 2",
+  "capacity": 100,
+  "type": "Computer Lab",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678676ee23093eeeed071b99"
+  },
+  "id": "81091329",
+  "name": "ROB COMPUTER LAB",
+  "capacity": 100,
+  "type": "Computer Lab",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678a4fbf5566be580c9b025c"
+  },
+  "id": "1050478416",
+  "name": "ESA FF2",
+  "capacity": 150,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678a4fde5566be580c9b0260"
+  },
+  "id": "553297913",
+  "name": "ESA SF1",
+  "capacity": 250,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678a50015566be580c9b0264"
+  },
+  "id": "792282227",
+  "name": "ESA SF3",
+  "capacity": 270,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678a50625566be580c9b0270"
+  },
+  "id": "412391212",
+  "name": "ESA SF6",
+  "capacity": 230,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678a508b5566be580c9b0274"
+  },
+  "id": "554136324",
+  "name": "ESA TF1",
+  "capacity": 270,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678a50a35566be580c9b0278"
+  },
+  "id": "231099521",
+  "name": "ESA TF3",
+  "capacity": 250,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678a50ba5566be580c9b027c"
+  },
+  "id": "463726652",
+  "name": "ESA TF4",
+  "capacity": 260,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678a50cd5566be580c9b0280"
+  },
+  "id": "709297542",
+  "name": "ESA TF5",
+  "capacity": 135,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678a50e55566be580c9b0284"
+  },
+  "id": "940155147",
+  "name": "ESA TF6",
+  "capacity": 250,
+  "type": "Lecture Hall",
+  "disabilityFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678e1bc8d8d42d4a3e7d53d2"
+  },
+  "id": "546353330",
+  "name": "CBT CONST LAB",
+  "capacity": 100,
+  "type": "Construction Lab",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67967e8f033e4ff0eeb63edb"
+  },
+  "id": "743472877",
+  "name": "CTB FASHION LAB",
+  "capacity": 100,
+  "type": "Fashion Lab",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67969306033e4ff0eeb63f01"
+  },
+  "id": "248753279",
+  "name": "CATERING LAB",
+  "capacity": 100,
+  "type": "Catering Lab",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a987f4e80235cc0ff1daf7"
+  },
+  "id": "1007840068",
+  "name": "TL 1 ( LAB )",
+  "capacity": 100,
+  "type": "Auditorium",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b49fc49e0c2760ce14a5c8"
+  },
+  "id": "545999662",
+  "name": "ESA FF 5",
+  "capacity": 200,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b49fd79e0c2760ce14a5cc"
+  },
+  "id": "808938116",
+  "name": "ESA FF 3",
+  "capacity": 50,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b49fec9e0c2760ce14a5d0"
+  },
+  "id": "572051015",
+  "name": "ESA FF 4",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4a2529e0c2760ce14a5d4"
+  },
+  "id": "315240361",
+  "name": "ESA FF 6",
+  "capacity": 150,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4a2669e0c2760ce14a5d8"
+  },
+  "id": "330534248",
+  "name": "ESA SF 5",
+  "capacity": 100,
+  "type": "Lecture Hall",
+  "disabilityFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4a28a9e0c2760ce14a5dc"
+  },
+  "id": "615287263",
+  "name": "ELECTRICAL SIMULATION LAB",
+  "capacity": 100,
+  "type": "Electrical Lab",
+  "disabilityFriendly": true,
+  "__v": 0
+}]

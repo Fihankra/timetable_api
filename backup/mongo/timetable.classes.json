@@ -1,0 +1,5936 @@
+[{
+  "_id": {
+    "$oid": "684bd3bdd3b5e4c0bef39c51"
+  },
+  "id": "1048754192",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ED- ELECT 1A",
+  "departmentId": "183851483",
+  "programId": "446973898",
+  "level": "100",
+  "classSize": 67,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bdd3b5e4c0bef39c54"
+  },
+  "id": "818175946",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ELECT 2ED",
+  "departmentId": "183851483",
+  "programId": "446973898",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c57"
+  },
+  "id": "401086182",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ELECT 3ED",
+  "departmentId": "183851483",
+  "programId": "446973898",
+  "level": "300",
+  "classSize": 65,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c5a"
+  },
+  "id": "722843130",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ELECT DIP 1",
+  "departmentId": "183851483",
+  "programId": "408080402",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c5d"
+  },
+  "id": "251666411",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ELECT DIP 2",
+  "departmentId": "183851483",
+  "programId": "408080402",
+  "level": "200",
+  "classSize": 65,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c60"
+  },
+  "id": "450361165",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ELECT 1",
+  "departmentId": "183851483",
+  "programId": "294744335",
+  "level": "100",
+  "classSize": 65,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c63"
+  },
+  "id": "236710374",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ELECT 2",
+  "departmentId": "183851483",
+  "programId": "294744335",
+  "level": "200",
+  "classSize": 55,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c66"
+  },
+  "id": "865173928",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ECO 1A",
+  "departmentId": "3070559",
+  "programId": "910749318",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c69"
+  },
+  "id": "1024537166",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ECO 2",
+  "departmentId": "3070559",
+  "programId": "910749318",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c6c"
+  },
+  "id": "230655116",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ECO 3",
+  "departmentId": "3070559",
+  "programId": "910749318",
+  "level": "300",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c6f"
+  },
+  "id": "780701737",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ECO-SOC 1A",
+  "departmentId": "3070559",
+  "programId": "321143363",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c72"
+  },
+  "id": "804399379",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ECO-SOC 1B",
+  "departmentId": "3070559",
+  "programId": "321143363",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c75"
+  },
+  "id": "1009079364",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ECO-SOC 2A",
+  "departmentId": "3070559",
+  "programId": "321143363",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c78"
+  },
+  "id": "816597483",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ECO-SOC 2B",
+  "departmentId": "3070559",
+  "programId": "321143363",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c7b"
+  },
+  "id": "471685919",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ECO-SOC 3A",
+  "departmentId": "3070559",
+  "programId": "321143363",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c7e"
+  },
+  "id": "411856496",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ECO-SOC 3B",
+  "departmentId": "3070559",
+  "programId": "321143363",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c81"
+  },
+  "id": "320581792",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CONST DIP 1",
+  "departmentId": "680270541",
+  "programId": "1025265329",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c84"
+  },
+  "id": "351253156",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CONST DIP 2",
+  "departmentId": "680270541",
+  "programId": "1025265329",
+  "level": "200",
+  "classSize": 28,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c87"
+  },
+  "id": "25743416",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CONST 1A",
+  "departmentId": "680270541",
+  "programId": "221887171",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c8a"
+  },
+  "id": "167881084",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CONST 1B",
+  "departmentId": "680270541",
+  "programId": "221887171",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c8d"
+  },
+  "id": "188475082",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CONST 2A",
+  "departmentId": "680270541",
+  "programId": "221887171",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c90"
+  },
+  "id": "302667252",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CONST 2B",
+  "departmentId": "680270541",
+  "programId": "221887171",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c93"
+  },
+  "id": "774350342",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CONST 3A",
+  "departmentId": "680270541",
+  "programId": "221887171",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c96"
+  },
+  "id": "559941850",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CONST 3B",
+  "departmentId": "680270541",
+  "programId": "221887171",
+  "level": "300",
+  "classSize": 70,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c99"
+  },
+  "id": "162168124",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP- CONST MGT",
+  "departmentId": "680270541",
+  "programId": "997199584",
+  "level": "800",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c9c"
+  },
+  "id": "1028985832",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CONST 8 TECH",
+  "departmentId": "680270541",
+  "programId": "85361477",
+  "level": "800",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39c9f"
+  },
+  "id": "16555066",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CONST 9",
+  "departmentId": "680270541",
+  "programId": "468243411",
+  "level": "900",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39ca2"
+  },
+  "id": "984072778",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "UPE 1",
+  "departmentId": "561106956",
+  "programId": "233468047",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39ca5"
+  },
+  "id": "43158721",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "UPE 2",
+  "departmentId": "561106956",
+  "programId": "233468047",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39ca8"
+  },
+  "id": "594382193",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "JHE 1",
+  "departmentId": "561106956",
+  "programId": "778381209",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cab"
+  },
+  "id": "667752715",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "JHE 2",
+  "departmentId": "561106956",
+  "programId": "778381209",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cae"
+  },
+  "id": "539016251",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MPTL 1",
+  "departmentId": "561106956",
+  "programId": "815580415",
+  "level": "800",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cb1"
+  },
+  "id": "891063451",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MPTL 2",
+  "departmentId": "561106956",
+  "programId": "815580415",
+  "level": "800",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cb4"
+  },
+  "id": "95071703",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 1A",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cb7"
+  },
+  "id": "393264698",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 1B",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cba"
+  },
+  "id": "470872983",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 1C",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cbd"
+  },
+  "id": "549511691",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 1D",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cc0"
+  },
+  "id": "748112961",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 1E",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cc3"
+  },
+  "id": "894581937",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 1F",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cc6"
+  },
+  "id": "52331065",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 2A",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cc9"
+  },
+  "id": "739129265",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 2B",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39ccc"
+  },
+  "id": "596524583",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 2C",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39ccf"
+  },
+  "id": "290635220",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 2D",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cd2"
+  },
+  "id": "573598957",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 2E",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cd5"
+  },
+  "id": "875469988",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 3A",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cd8"
+  },
+  "id": "1030708145",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 3B",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cdb"
+  },
+  "id": "593848294",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 3C",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cde"
+  },
+  "id": "542188455",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 3D",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39ce1"
+  },
+  "id": "348534961",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "EGE 1",
+  "departmentId": "561106956",
+  "programId": "155092716",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39ce4"
+  },
+  "id": "568557372",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "EGE 2",
+  "departmentId": "561106956",
+  "programId": "155092716",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39ce7"
+  },
+  "id": "873090298",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "EGE 3",
+  "departmentId": "561106956",
+  "programId": "155092716",
+  "level": "300",
+  "classSize": 30,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cea"
+  },
+  "id": "896870532",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CVE 1",
+  "departmentId": "307505219",
+  "programId": "262619306",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39ced"
+  },
+  "id": "378756561",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CVE 2",
+  "departmentId": "307505219",
+  "programId": "262619306",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cf0"
+  },
+  "id": "905783535",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CVE 3",
+  "departmentId": "307505219",
+  "programId": "262619306",
+  "level": "300",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cf3"
+  },
+  "id": "839688081",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "WTE 1",
+  "departmentId": "307505219",
+  "programId": "966679169",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cf6"
+  },
+  "id": "1032616629",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "WTE 3",
+  "departmentId": "307505219",
+  "programId": "966679169",
+  "level": "300",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cf9"
+  },
+  "id": "214074453",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "WTE 2",
+  "departmentId": "307505219",
+  "programId": "966679169",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cfc"
+  },
+  "id": "608720270",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DIP- WTE 1",
+  "departmentId": "307505219",
+  "programId": "926154853",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39cff"
+  },
+  "id": "24711990",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT 1A",
+  "departmentId": "765281128",
+  "programId": "554430989",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d02"
+  },
+  "id": "922841906",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT 1B",
+  "departmentId": "765281128",
+  "programId": "554430989",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d05"
+  },
+  "id": "10440722",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT 1C",
+  "departmentId": "765281128",
+  "programId": "554430989",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d08"
+  },
+  "id": "825371762",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT 2A",
+  "departmentId": "765281128",
+  "programId": "554430989",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d0b"
+  },
+  "id": "777266521",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT 2B",
+  "departmentId": "765281128",
+  "programId": "554430989",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d0e"
+  },
+  "id": "923296896",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT 2C",
+  "departmentId": "765281128",
+  "programId": "554430989",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d11"
+  },
+  "id": "346627869",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT 3A",
+  "departmentId": "765281128",
+  "programId": "554430989",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d14"
+  },
+  "id": "608070296",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT 3B",
+  "departmentId": "765281128",
+  "programId": "554430989",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d17"
+  },
+  "id": "45439059",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT 3C",
+  "departmentId": "765281128",
+  "programId": "554430989",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d1a"
+  },
+  "id": "874744718",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT PHD",
+  "departmentId": "765281128",
+  "programId": "749715843",
+  "level": "900",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d1d"
+  },
+  "id": "509775717",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT 1W",
+  "departmentId": "765281128",
+  "programId": "554430989",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d20"
+  },
+  "id": "638461888",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT 2W",
+  "departmentId": "765281128",
+  "programId": "554430989",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d23"
+  },
+  "id": "183426637",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT 3W",
+  "departmentId": "765281128",
+  "programId": "554430989",
+  "level": "300",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d26"
+  },
+  "id": "1018192694",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT 3T",
+  "departmentId": "765281128",
+  "programId": "484534676",
+  "level": "300",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d29"
+  },
+  "id": "761224403",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MAT 4T",
+  "departmentId": "765281128",
+  "programId": "484534676",
+  "level": "400",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d2c"
+  },
+  "id": "781303304",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP- MAT 8T",
+  "departmentId": "765281128",
+  "programId": "1001403798",
+  "level": "800",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d2f"
+  },
+  "id": "355673420",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP- MAT 8A-W",
+  "departmentId": "765281128",
+  "programId": "714128894",
+  "level": "800",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d32"
+  },
+  "id": "825959254",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "EGL 1A",
+  "departmentId": "534083713",
+  "programId": "189119528",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d35"
+  },
+  "id": "76729896",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "EGL 1B",
+  "departmentId": "534083713",
+  "programId": "189119528",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d38"
+  },
+  "id": "846256188",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "EGL 1C",
+  "departmentId": "534083713",
+  "programId": "189119528",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bed3b5e4c0bef39d3b"
+  },
+  "id": "73690340",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "EGL 2A",
+  "departmentId": "534083713",
+  "programId": "189119528",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d3e"
+  },
+  "id": "968055291",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "EGL 2B",
+  "departmentId": "534083713",
+  "programId": "189119528",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d41"
+  },
+  "id": "1068074675",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "EGL 2C",
+  "departmentId": "534083713",
+  "programId": "189119528",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d44"
+  },
+  "id": "685389167",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "EGL 3A",
+  "departmentId": "534083713",
+  "programId": "189119528",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d47"
+  },
+  "id": "1003830994",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "EGL 3B",
+  "departmentId": "534083713",
+  "programId": "189119528",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d4a"
+  },
+  "id": "228958725",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "EGL 3C",
+  "departmentId": "534083713",
+  "programId": "189119528",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d4d"
+  },
+  "id": "1033422059",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ARB 1",
+  "departmentId": "534083713",
+  "programId": "587451338",
+  "level": "100",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d50"
+  },
+  "id": "47160426",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ARB 2",
+  "departmentId": "534083713",
+  "programId": "587451338",
+  "level": "200",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d53"
+  },
+  "id": "704843591",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ARB 3",
+  "departmentId": "534083713",
+  "programId": "587451338",
+  "level": "300",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d56"
+  },
+  "id": "657272860",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "FRE 1",
+  "departmentId": "534083713",
+  "programId": "1069123002",
+  "level": "100",
+  "classSize": 70,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d59"
+  },
+  "id": "793521188",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "FRE 2",
+  "departmentId": "534083713",
+  "programId": "1069123002",
+  "level": "200",
+  "classSize": 68,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d5c"
+  },
+  "id": "490489016",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "FRE 3",
+  "departmentId": "534083713",
+  "programId": "1069123002",
+  "level": "300",
+  "classSize": 65,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d5f"
+  },
+  "id": "47222603",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DIT 1A ",
+  "departmentId": "449025685",
+  "programId": "103903043",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d62"
+  },
+  "id": "737388326",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DIT 2",
+  "departmentId": "449025685",
+  "programId": "103903043",
+  "level": "200",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d65"
+  },
+  "id": "796833632",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DCDF 1",
+  "departmentId": "449025685",
+  "programId": "437607707",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d68"
+  },
+  "id": "712147284",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DCDF 2",
+  "departmentId": "449025685",
+  "programId": "437607707",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d6b"
+  },
+  "id": "1048589874",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 1A",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d6e"
+  },
+  "id": "556430351",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 1B",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d71"
+  },
+  "id": "573195028",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 1C",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d74"
+  },
+  "id": "506620394",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 1D",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d77"
+  },
+  "id": "172906417",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 1E",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d7a"
+  },
+  "id": "541743259",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 1F",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d7d"
+  },
+  "id": "67307727",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 1G",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d80"
+  },
+  "id": "64326359",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 1H",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d83"
+  },
+  "id": "409876925",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 1I",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d86"
+  },
+  "id": "693049344",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 1J",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d89"
+  },
+  "id": "159239520",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 2A",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d8c"
+  },
+  "id": "477743078",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 2B",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d8f"
+  },
+  "id": "383718173",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 2C",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d92"
+  },
+  "id": "948640934",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 2D",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d95"
+  },
+  "id": "928511470",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 2E",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d98"
+  },
+  "id": "811549268",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 2F",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d9b"
+  },
+  "id": "488702864",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 2G",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39d9e"
+  },
+  "id": "995009257",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 2H",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39da1"
+  },
+  "id": "830004910",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 2I",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39da4"
+  },
+  "id": "43937189",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 2J",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39da7"
+  },
+  "id": "227368792",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 2K",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39daa"
+  },
+  "id": "740535523",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 2L",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dad"
+  },
+  "id": "693339965",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 3A",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39db0"
+  },
+  "id": "860478496",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 3B",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39db3"
+  },
+  "id": "617015067",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 3C",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39db6"
+  },
+  "id": "213026590",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 3D",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39db9"
+  },
+  "id": "880995616",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 3E",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dbc"
+  },
+  "id": "529727872",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 3F",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dbf"
+  },
+  "id": "1039365837",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 3G",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dc2"
+  },
+  "id": "786444255",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 3H",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dc5"
+  },
+  "id": "1044263882",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 3I",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dc8"
+  },
+  "id": "747273552",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CDF 1A",
+  "departmentId": "449025685",
+  "programId": "730772762",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dcb"
+  },
+  "id": "450166609",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CDF 1B",
+  "departmentId": "449025685",
+  "programId": "730772762",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dce"
+  },
+  "id": "498655697",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CDF 2A",
+  "departmentId": "449025685",
+  "programId": "730772762",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dd1"
+  },
+  "id": "92600416",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CDF 2B",
+  "departmentId": "449025685",
+  "programId": "730772762",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dd4"
+  },
+  "id": "1028511414",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP -IT",
+  "departmentId": "449025685",
+  "programId": "663519360",
+  "level": "800",
+  "classSize": 18,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dd7"
+  },
+  "id": "113129958",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "E-IT 1",
+  "departmentId": "449025685",
+  "programId": "437465513",
+  "level": "100",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dda"
+  },
+  "id": "51247957",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "E-IT 2",
+  "departmentId": "449025685",
+  "programId": "437465513",
+  "level": "200",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39ddd"
+  },
+  "id": "447554167",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "E-IT 3",
+  "departmentId": "449025685",
+  "programId": "437465513",
+  "level": "300",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39de0"
+  },
+  "id": "707001796",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "E-IT 4",
+  "departmentId": "449025685",
+  "programId": "437465513",
+  "level": "400",
+  "classSize": 30,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39de3"
+  },
+  "id": "15444834",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "W-ITE 1A",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39de6"
+  },
+  "id": "609639183",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "W-ITE 1B",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39de9"
+  },
+  "id": "143476284",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "W-ITE 2A",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dec"
+  },
+  "id": "103728140",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "W-ITE 2B",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39def"
+  },
+  "id": "382159803",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "W-ITE 3A",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39df2"
+  },
+  "id": "592711576",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "W-ITE 3B",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39df5"
+  },
+  "id": "160271593",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MSC-ITE",
+  "departmentId": "449025685",
+  "programId": "616103061",
+  "level": "700",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39df8"
+  },
+  "id": "146311850",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP-IT -W",
+  "departmentId": "449025685",
+  "programId": "663519360",
+  "level": "800",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dfb"
+  },
+  "id": "223423552",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CAT 1A",
+  "departmentId": "454298456",
+  "programId": "554717652",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39dfe"
+  },
+  "id": "370187253",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CAT 1B",
+  "departmentId": "454298456",
+  "programId": "554717652",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e01"
+  },
+  "id": "156593327",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CAT 3A",
+  "departmentId": "454298456",
+  "programId": "554717652",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e04"
+  },
+  "id": "257763572",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CAT 2A",
+  "departmentId": "454298456",
+  "programId": "554717652",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e07"
+  },
+  "id": "39780562",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CAT 2B",
+  "departmentId": "454298456",
+  "programId": "554717652",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e0a"
+  },
+  "id": "697806361",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CAT 2C",
+  "departmentId": "454298456",
+  "programId": "554717652",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e0d"
+  },
+  "id": "523533602",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CAT 2D",
+  "departmentId": "454298456",
+  "programId": "554717652",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e10"
+  },
+  "id": "117716917",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CAT 3B",
+  "departmentId": "454298456",
+  "programId": "554717652",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e13"
+  },
+  "id": "354324343",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CAT 3C",
+  "departmentId": "454298456",
+  "programId": "554717652",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e16"
+  },
+  "id": "477577916",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DCAT 1A",
+  "departmentId": "454298456",
+  "programId": "695797151",
+  "level": "100",
+  "classSize": 65,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e19"
+  },
+  "id": "273521762",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DCAT 2",
+  "departmentId": "454298456",
+  "programId": "695797151",
+  "level": "200",
+  "classSize": 65,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e1c"
+  },
+  "id": "234399613",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP-HOS-T",
+  "departmentId": "454298456",
+  "programId": "187939791",
+  "level": "800",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e1f"
+  },
+  "id": "449193658",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP- HOS",
+  "departmentId": "454298456",
+  "programId": "169237251",
+  "level": "800",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e22"
+  },
+  "id": "713167923",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "FASH 1A",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e25"
+  },
+  "id": "616164260",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "FASH 1B",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e28"
+  },
+  "id": "48598676",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "FASH 2A",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e2b"
+  },
+  "id": "841439372",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "FASH 2B",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e2e"
+  },
+  "id": "736306204",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "FASH 2C",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3bfd3b5e4c0bef39e31"
+  },
+  "id": "694250767",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "FASH 3A",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e34"
+  },
+  "id": "112175552",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "FASH 3B",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e37"
+  },
+  "id": "14381899",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP-FASH",
+  "departmentId": "903354885",
+  "programId": "383874694",
+  "level": "800",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e3a"
+  },
+  "id": "223593867",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP-FASH-T",
+  "departmentId": "903354885",
+  "programId": "436795716",
+  "level": "800",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e3d"
+  },
+  "id": "1006003591",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DFASH 1A",
+  "departmentId": "903354885",
+  "programId": "464516821",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e40"
+  },
+  "id": "805607098",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DFASH 2",
+  "departmentId": "903354885",
+  "programId": "464516821",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e43"
+  },
+  "id": "800400053",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PHD-EL",
+  "departmentId": "750159235",
+  "programId": "705303988",
+  "level": "900",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e46"
+  },
+  "id": "148397338",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP-EL",
+  "departmentId": "750159235",
+  "programId": "844827900",
+  "level": "800",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e49"
+  },
+  "id": "288349808",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MECH 1",
+  "departmentId": "678904014",
+  "programId": "151485669",
+  "level": "100",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e4c"
+  },
+  "id": "486742008",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MECH 2",
+  "departmentId": "678904014",
+  "programId": "151485669",
+  "level": "200",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e4f"
+  },
+  "id": "537536471",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MECH 3",
+  "departmentId": "678904014",
+  "programId": "151485669",
+  "level": "300",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e52"
+  },
+  "id": "589642894",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "AUTO 1",
+  "departmentId": "678904014",
+  "programId": "3491440",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e55"
+  },
+  "id": "644868269",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "AUTO 2",
+  "departmentId": "678904014",
+  "programId": "3491440",
+  "level": "200",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e58"
+  },
+  "id": "247153287",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "AUTO 3",
+  "departmentId": "678904014",
+  "programId": "3491440",
+  "level": "300",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e5b"
+  },
+  "id": "525767550",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "WET 1",
+  "departmentId": "678904014",
+  "programId": "1023331327",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e5e"
+  },
+  "id": "846758371",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "WET 2",
+  "departmentId": "678904014",
+  "programId": "1023331327",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e61"
+  },
+  "id": "262226374",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "WET 3",
+  "departmentId": "678904014",
+  "programId": "1023331327",
+  "level": "300",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e64"
+  },
+  "id": "312261009",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP-MECH",
+  "departmentId": "678904014",
+  "programId": "375157146",
+  "level": "800",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e67"
+  },
+  "id": "999400842",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP-AUTO",
+  "departmentId": "678904014",
+  "programId": "112514306",
+  "level": "800",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e6a"
+  },
+  "id": "924254761",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP-MECH-T",
+  "departmentId": "678904014",
+  "programId": "426565063",
+  "level": "800",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e6d"
+  },
+  "id": "391804334",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "D-MECH 1",
+  "departmentId": "678904014",
+  "programId": "702234179",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e70"
+  },
+  "id": "1001798226",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "D-AUTO 1",
+  "departmentId": "678904014",
+  "programId": "183598712",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e73"
+  },
+  "id": "66705096",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "D-WET 1",
+  "departmentId": "678904014",
+  "programId": "103593477",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e76"
+  },
+  "id": "962695792",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "D-MECH 2",
+  "departmentId": "678904014",
+  "programId": "702234179",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e79"
+  },
+  "id": "771036461",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "D-AUTO 2",
+  "departmentId": "678904014",
+  "programId": "183598712",
+  "level": "200",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e7c"
+  },
+  "id": "263645794",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "D-WET 2",
+  "departmentId": "678904014",
+  "programId": "103593477",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e7f"
+  },
+  "id": "157617743",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MGT 1A",
+  "departmentId": "559538465",
+  "programId": "861726173",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e82"
+  },
+  "id": "679733271",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MGT 1B",
+  "departmentId": "559538465",
+  "programId": "861726173",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e85"
+  },
+  "id": "990793362",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MGT 1C",
+  "departmentId": "559538465",
+  "programId": "861726173",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e88"
+  },
+  "id": "139078898",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MGT 1D",
+  "departmentId": "559538465",
+  "programId": "861726173",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e8b"
+  },
+  "id": "323961835",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MGT 2A",
+  "departmentId": "559538465",
+  "programId": "861726173",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e8e"
+  },
+  "id": "146086372",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MGT 2B",
+  "departmentId": "559538465",
+  "programId": "861726173",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e91"
+  },
+  "id": "921130653",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MGT 2C",
+  "departmentId": "559538465",
+  "programId": "861726173",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e94"
+  },
+  "id": "355224991",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MGT 2D",
+  "departmentId": "559538465",
+  "programId": "861726173",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e97"
+  },
+  "id": "192501791",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MGT 3A",
+  "departmentId": "559538465",
+  "programId": "861726173",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e9a"
+  },
+  "id": "326082867",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MGT 3B",
+  "departmentId": "559538465",
+  "programId": "861726173",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39e9d"
+  },
+  "id": "881862123",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MGT 3C",
+  "departmentId": "559538465",
+  "programId": "861726173",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ea0"
+  },
+  "id": "756051853",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MGT 3D",
+  "departmentId": "559538465",
+  "programId": "861726173",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ea3"
+  },
+  "id": "1055363033",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA SEC 2",
+  "departmentId": "559538465",
+  "programId": "833925787",
+  "level": "200",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ea6"
+  },
+  "id": "544597191",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA SEC 3",
+  "departmentId": "559538465",
+  "programId": "833925787",
+  "level": "300",
+  "classSize": 45,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ea9"
+  },
+  "id": "326678873",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT 1",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "100",
+  "classSize": 70,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39eac"
+  },
+  "id": "280897896",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT 2",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "200",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39eaf"
+  },
+  "id": "131933217",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT 3",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "300",
+  "classSize": 82,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39eb2"
+  },
+  "id": "511740542",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT 4",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "400",
+  "classSize": 91,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39eb5"
+  },
+  "id": "462721883",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MKTE 1",
+  "departmentId": "559538465",
+  "programId": "560214028",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39eb8"
+  },
+  "id": "745372938",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MKTE 2",
+  "departmentId": "559538465",
+  "programId": "560214028",
+  "level": "200",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ebb"
+  },
+  "id": "179688544",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MKTE 3",
+  "departmentId": "559538465",
+  "programId": "560214028",
+  "level": "300",
+  "classSize": 12,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ebe"
+  },
+  "id": "929487264",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MKTE 4",
+  "departmentId": "559538465",
+  "programId": "560214028",
+  "level": "400",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ec1"
+  },
+  "id": "630354334",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MKT 1",
+  "departmentId": "559538465",
+  "programId": "12936326",
+  "level": "100",
+  "classSize": 30,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ec4"
+  },
+  "id": "666467359",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MKT 2",
+  "departmentId": "559538465",
+  "programId": "12936326",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ec7"
+  },
+  "id": "444733054",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MKT 3",
+  "departmentId": "559538465",
+  "programId": "12936326",
+  "level": "300",
+  "classSize": 12,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39eca"
+  },
+  "id": "477727202",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DBM 1A",
+  "departmentId": "559538465",
+  "programId": "801074927",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ecd"
+  },
+  "id": "669773317",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DBM 1B",
+  "departmentId": "559538465",
+  "programId": "801074927",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ed0"
+  },
+  "id": "51746039",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DBM 1C",
+  "departmentId": "559538465",
+  "programId": "801074927",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ed3"
+  },
+  "id": "629828741",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "D- SCA 1",
+  "departmentId": "559538465",
+  "programId": "533299021",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ed6"
+  },
+  "id": "575637761",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "D- SCA 2",
+  "departmentId": "559538465",
+  "programId": "533299021",
+  "level": "200",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ed9"
+  },
+  "id": "235754402",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP-BMGT 1",
+  "departmentId": "559538465",
+  "programId": "638486699",
+  "level": "800",
+  "classSize": 17,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39edc"
+  },
+  "id": "135103711",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP-BMGT 2",
+  "departmentId": "559538465",
+  "programId": "515574121",
+  "level": "800",
+  "classSize": 12,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39edf"
+  },
+  "id": "1034405629",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT-E 1",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "100",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ee2"
+  },
+  "id": "406719770",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT-E 2",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "200",
+  "classSize": 36,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ee5"
+  },
+  "id": "736911141",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT-E 3",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "300",
+  "classSize": 42,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ee8"
+  },
+  "id": "873275568",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT-E 4A",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39eeb"
+  },
+  "id": "242676096",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT-E 4B",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39eee"
+  },
+  "id": "684701294",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA EOA 2",
+  "departmentId": "559538465",
+  "programId": "63599228",
+  "level": "200",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ef1"
+  },
+  "id": "472046928",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA EOA 3",
+  "departmentId": "559538465",
+  "programId": "63599228",
+  "level": "300",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ef4"
+  },
+  "id": "170340074",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA EOA 4",
+  "departmentId": "559538465",
+  "programId": "63599228",
+  "level": "400",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39ef7"
+  },
+  "id": "374890221",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT-W 1A",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39efa"
+  },
+  "id": "537140827",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT-W 1B",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "100",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39efd"
+  },
+  "id": "961785044",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT-W 2A",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f00"
+  },
+  "id": "42193203",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT-W 3A",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f03"
+  },
+  "id": "500443201",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT-W 4A",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f06"
+  },
+  "id": "1003716259",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT-W 4B",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "400",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f09"
+  },
+  "id": "315488744",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MKTE-W1",
+  "departmentId": "559538465",
+  "programId": "560214028",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f0c"
+  },
+  "id": "336495800",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MKTE-W2",
+  "departmentId": "559538465",
+  "programId": "560214028",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f0f"
+  },
+  "id": "608843709",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MKT-W1",
+  "departmentId": "559538465",
+  "programId": "12936326",
+  "level": "100",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f12"
+  },
+  "id": "241093095",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MKT-W2",
+  "departmentId": "559538465",
+  "programId": "12936326",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f15"
+  },
+  "id": "965743694",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MKT-W3",
+  "departmentId": "559538465",
+  "programId": "12936326",
+  "level": "300",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f18"
+  },
+  "id": "1030866457",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DP- BAM- 1W",
+  "departmentId": "559538465",
+  "programId": "577548102",
+  "level": "100",
+  "classSize": 21,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f1b"
+  },
+  "id": "400048992",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DP- BAM- 2W",
+  "departmentId": "559538465",
+  "programId": "577548102",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f1e"
+  },
+  "id": "889355939",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MBA-MKT- W1",
+  "departmentId": "559538465",
+  "programId": "984206250",
+  "level": "700",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f21"
+  },
+  "id": "542939719",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MBA-MKT- W2",
+  "departmentId": "559538465",
+  "programId": "1052210349",
+  "level": "700",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f24"
+  },
+  "id": "345288976",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP- BMGT-W1",
+  "departmentId": "559538465",
+  "programId": "638486699",
+  "level": "800",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f27"
+  },
+  "id": "98341704",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP- BMGT-W2",
+  "departmentId": "559538465",
+  "programId": "515574121",
+  "level": "800",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f2a"
+  },
+  "id": "180399001",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP- BMGT-WTOP",
+  "departmentId": "559538465",
+  "programId": "978995276",
+  "level": "800",
+  "classSize": 15,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f2d"
+  },
+  "id": "1027465578",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM 1A",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f30"
+  },
+  "id": "248134127",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM 1B",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f33"
+  },
+  "id": "4351136",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM 2A",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f36"
+  },
+  "id": "845926343",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM 2B",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f39"
+  },
+  "id": "43879622",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM 3A",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f3c"
+  },
+  "id": "377709729",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM 3B",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "300",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f3f"
+  },
+  "id": "141227708",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM 4A",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "400",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f42"
+  },
+  "id": "1006293634",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DHRM 1A",
+  "departmentId": "559538465",
+  "programId": "311982227",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f45"
+  },
+  "id": "993623740",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DHRM 1A",
+  "departmentId": "559538465",
+  "programId": "311982227",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f48"
+  },
+  "id": "1060362695",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM-E 1",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "100",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c0d3b5e4c0bef39f4b"
+  },
+  "id": "880477156",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM-E 2",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f4e"
+  },
+  "id": "291988215",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM-E 3",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "300",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f51"
+  },
+  "id": "577409660",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM-E 4",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "400",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f54"
+  },
+  "id": "699779732",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM-W 1A",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f57"
+  },
+  "id": "933434189",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM-W 1B",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "100",
+  "classSize": 80,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f5a"
+  },
+  "id": "982658722",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MBA HROB-W",
+  "departmentId": "930513539",
+  "programId": "466969373",
+  "level": "700",
+  "classSize": 56,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f5d"
+  },
+  "id": "606217429",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM-W 2A",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "200",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f60"
+  },
+  "id": "777324485",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM-W 3A",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f63"
+  },
+  "id": "619954222",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM-W 4A",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f66"
+  },
+  "id": "438615271",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ENT 1",
+  "departmentId": "559538465",
+  "programId": "619076062",
+  "level": "100",
+  "classSize": 30,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f69"
+  },
+  "id": "502377007",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MKTE W3",
+  "departmentId": "559538465",
+  "programId": "560214028",
+  "level": "300",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f6c"
+  },
+  "id": "228847971",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MKTE W4",
+  "departmentId": "559538465",
+  "programId": "560214028",
+  "level": "400",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f6f"
+  },
+  "id": "567965696",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DHRM 2",
+  "departmentId": "559538465",
+  "programId": "311982227",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f72"
+  },
+  "id": "957952775",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ACC 1A",
+  "departmentId": "3070559",
+  "programId": "159613970",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f75"
+  },
+  "id": "1045414470",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ACC 1B",
+  "departmentId": "3070559",
+  "programId": "159613970",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f78"
+  },
+  "id": "466726510",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ACC 2A",
+  "departmentId": "3070559",
+  "programId": "159613970",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f7b"
+  },
+  "id": "701660058",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ACC 2B",
+  "departmentId": "3070559",
+  "programId": "159613970",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f7e"
+  },
+  "id": "346438003",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ACC 3A",
+  "departmentId": "3070559",
+  "programId": "159613970",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f81"
+  },
+  "id": "198119910",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ACC 3B",
+  "departmentId": "3070559",
+  "programId": "159613970",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f84"
+  },
+  "id": "100974527",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- ACC 3",
+  "departmentId": "3070559",
+  "programId": "870718978",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f87"
+  },
+  "id": "386444494",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- ACC 4",
+  "departmentId": "3070559",
+  "programId": "870718978",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f8a"
+  },
+  "id": "906058674",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- BF 1",
+  "departmentId": "3070559",
+  "programId": "2304670",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f8d"
+  },
+  "id": "553457061",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- BF 2",
+  "departmentId": "3070559",
+  "programId": "2304670",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f90"
+  },
+  "id": "100139523",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- BF 3",
+  "departmentId": "3070559",
+  "programId": "2304670",
+  "level": "300",
+  "classSize": 40,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f93"
+  },
+  "id": "628556707",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- BF 4",
+  "departmentId": "3070559",
+  "programId": "2304670",
+  "level": "400",
+  "classSize": 30,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f96"
+  },
+  "id": "507499306",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PSCM 1",
+  "departmentId": "3070559",
+  "programId": "615291206",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f99"
+  },
+  "id": "766109768",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PSCM 2",
+  "departmentId": "3070559",
+  "programId": "615291206",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f9c"
+  },
+  "id": "870157990",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PSCM 3",
+  "departmentId": "3070559",
+  "programId": "615291206",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39f9f"
+  },
+  "id": "31068296",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PSCM 4",
+  "departmentId": "3070559",
+  "programId": "615291206",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fa2"
+  },
+  "id": "747661332",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BIS 3",
+  "departmentId": "3070559",
+  "programId": "330454875",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fa5"
+  },
+  "id": "772505268",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BIS 4",
+  "departmentId": "3070559",
+  "programId": "330454875",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": true,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fa8"
+  },
+  "id": "89760705",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MPHIL ACC 1",
+  "departmentId": "3070559",
+  "programId": "241144275",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fab"
+  },
+  "id": "166311299",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MPHIL ACC 2",
+  "departmentId": "3070559",
+  "programId": "972635779",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fae"
+  },
+  "id": "1051971171",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MPHIL ACC 1 ",
+  "departmentId": "3070559",
+  "programId": "1043475647",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fb1"
+  },
+  "id": "447731409",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MPHIL ACC 1",
+  "departmentId": "3070559",
+  "programId": "1043475647",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fb4"
+  },
+  "id": "583792014",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MBA ACC 1",
+  "departmentId": "3070559",
+  "programId": "799385472",
+  "level": "700",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fb7"
+  },
+  "id": "909476352",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MBA ACC 2",
+  "departmentId": "3070559",
+  "programId": "618042040",
+  "level": "700",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fba"
+  },
+  "id": "155161494",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MBA FIN 1",
+  "departmentId": "3070559",
+  "programId": "243627653",
+  "level": "700",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fbd"
+  },
+  "id": "875848899",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MBA FIN 2",
+  "departmentId": "3070559",
+  "programId": "965633897",
+  "level": "700",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fc0"
+  },
+  "id": "348878312",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MHIL ACC 1 W",
+  "departmentId": "3070559",
+  "programId": "241144275",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fc3"
+  },
+  "id": "856539202",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MPHIL ACC 2 W",
+  "departmentId": "3070559",
+  "programId": "972635779",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fc6"
+  },
+  "id": "19892937",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP- MAT 8",
+  "departmentId": "765281128",
+  "programId": "714128894",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fc9"
+  },
+  "id": "364298181",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP- MAT 8B-W",
+  "departmentId": "765281128",
+  "programId": "714128894",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fcc"
+  },
+  "id": "993302688",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PGS 1",
+  "departmentId": "680270541",
+  "programId": "647938381",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fcf"
+  },
+  "id": "177885869",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PGS 2",
+  "departmentId": "680270541",
+  "programId": "647938381",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fd2"
+  },
+  "id": "597421134",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PGS 3",
+  "departmentId": "680270541",
+  "programId": "647938381",
+  "level": "300",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fd5"
+  },
+  "id": "439669804",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ARC 1",
+  "departmentId": "680270541",
+  "programId": "973522849",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fd8"
+  },
+  "id": "944189969",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ARC 2",
+  "departmentId": "680270541",
+  "programId": "973522849",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fdb"
+  },
+  "id": "676352892",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DIP- WTE 2",
+  "departmentId": "307505219",
+  "programId": "926154853",
+  "level": "200",
+  "classSize": 45,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fde"
+  },
+  "id": "775342595",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP- WTE",
+  "departmentId": "307505219",
+  "programId": "210614828",
+  "level": "800",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fe1"
+  },
+  "id": "896288207",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MPHIL EL 1",
+  "departmentId": "750159235",
+  "programId": "844827900",
+  "level": "700",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fe4"
+  },
+  "id": "43775506",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CAT 1C",
+  "departmentId": "454298456",
+  "programId": "554717652",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fe7"
+  },
+  "id": "885997645",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CAT 1D",
+  "departmentId": "454298456",
+  "programId": "554717652",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fea"
+  },
+  "id": "1042934694",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MPHIL FASH 1(TP)",
+  "departmentId": "903354885",
+  "programId": "436795716",
+  "level": "800",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fed"
+  },
+  "id": "909006573",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DP- ECONS W1",
+  "departmentId": "439364417",
+  "programId": "859681996",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39ff0"
+  },
+  "id": "556725369",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DP- ECONS W2",
+  "departmentId": "439364417",
+  "programId": "859681996",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39ff3"
+  },
+  "id": "292701938",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP- AUTO- T",
+  "departmentId": "678904014",
+  "programId": "662513766",
+  "level": "800",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39ff6"
+  },
+  "id": "874820776",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DIT 1B",
+  "departmentId": "449025685",
+  "programId": "103903043",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39ff9"
+  },
+  "id": "786897857",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 1K",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39ffc"
+  },
+  "id": "21636621",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 1L",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef39fff"
+  },
+  "id": "601905600",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ITE 1M",
+  "departmentId": "449025685",
+  "programId": "644848051",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a002"
+  },
+  "id": "358999845",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CDF 1C",
+  "departmentId": "449025685",
+  "programId": "730772762",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a005"
+  },
+  "id": "867790771",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DP- ECONS 1",
+  "departmentId": "439364417",
+  "programId": "859681996",
+  "level": "100",
+  "classSize": 45,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a008"
+  },
+  "id": "351610213",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DP- ECONS 2",
+  "departmentId": "439364417",
+  "programId": "859681996",
+  "level": "200",
+  "classSize": 30,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a00b"
+  },
+  "id": "598161398",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN-ACC 1",
+  "departmentId": "3070559",
+  "programId": "870718978",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a00e"
+  },
+  "id": "890659220",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- ACC 2",
+  "departmentId": "3070559",
+  "programId": "870718978",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a011"
+  },
+  "id": "680972672",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- ACC 1W",
+  "departmentId": "3070559",
+  "programId": "870718978",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a014"
+  },
+  "id": "666866756",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- ACC 2W",
+  "departmentId": "3070559",
+  "programId": "870718978",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a017"
+  },
+  "id": "1069236519",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- ACC 3W",
+  "departmentId": "3070559",
+  "programId": "870718978",
+  "level": "300",
+  "classSize": 45,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a01a"
+  },
+  "id": "357775673",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- ACC 4W",
+  "departmentId": "3070559",
+  "programId": "870718978",
+  "level": "400",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a01d"
+  },
+  "id": "968685075",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- BF 1W",
+  "departmentId": "3070559",
+  "programId": "2304670",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a020"
+  },
+  "id": "527248621",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- BF 2W",
+  "departmentId": "3070559",
+  "programId": "2304670",
+  "level": "200",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a023"
+  },
+  "id": "275801018",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- BF 3W",
+  "departmentId": "3070559",
+  "programId": "2304670",
+  "level": "300",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a026"
+  },
+  "id": "860527365",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- BF 4W",
+  "departmentId": "3070559",
+  "programId": "2304670",
+  "level": "400",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a029"
+  },
+  "id": "1048823505",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PSCM 1W",
+  "departmentId": "3070559",
+  "programId": "615291206",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a02c"
+  },
+  "id": "343592200",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PSCM 2W",
+  "departmentId": "3070559",
+  "programId": "615291206",
+  "level": "200",
+  "classSize": 45,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a02f"
+  },
+  "id": "174730891",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PSCM 3W",
+  "departmentId": "3070559",
+  "programId": "615291206",
+  "level": "300",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a032"
+  },
+  "id": "756016999",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PSCM 4W",
+  "departmentId": "3070559",
+  "programId": "615291206",
+  "level": "400",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a035"
+  },
+  "id": "885440755",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- ACC 3E",
+  "departmentId": "3070559",
+  "programId": "870718978",
+  "level": "300",
+  "classSize": 45,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a038"
+  },
+  "id": "412362058",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- ACC 2E",
+  "departmentId": "3070559",
+  "programId": "870718978",
+  "level": "200",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a03b"
+  },
+  "id": "791226699",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- ACC 1E",
+  "departmentId": "3070559",
+  "programId": "870718978",
+  "level": "100",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a03e"
+  },
+  "id": "203409180",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- ACC 4E",
+  "departmentId": "3070559",
+  "programId": "870718978",
+  "level": "400",
+  "classSize": 25,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a041"
+  },
+  "id": "990912057",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- BF 2E",
+  "departmentId": "3070559",
+  "programId": "2304670",
+  "level": "200",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a044"
+  },
+  "id": "130699340",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- BF 1E",
+  "departmentId": "3070559",
+  "programId": "2304670",
+  "level": "100",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a047"
+  },
+  "id": "330792360",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- BF 3E",
+  "departmentId": "3070559",
+  "programId": "2304670",
+  "level": "300",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a04a"
+  },
+  "id": "785173244",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ADMIN- BF 4E",
+  "departmentId": "3070559",
+  "programId": "2304670",
+  "level": "400",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a04d"
+  },
+  "id": "132666498",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PSCM 1E",
+  "departmentId": "3070559",
+  "programId": "615291206",
+  "level": "100",
+  "classSize": 35,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a050"
+  },
+  "id": "400094033",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PSCM 2E",
+  "departmentId": "3070559",
+  "programId": "615291206",
+  "level": "200",
+  "classSize": 52,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a053"
+  },
+  "id": "467680873",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PSCM 3E",
+  "departmentId": "3070559",
+  "programId": "615291206",
+  "level": "300",
+  "classSize": 50,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a056"
+  },
+  "id": "525044020",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "PSCM 4E",
+  "departmentId": "3070559",
+  "programId": "615291206",
+  "level": "400",
+  "classSize": 40,
+  "hasDisability": false,
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a059"
+  },
+  "id": "744485104",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DBM 2A",
+  "departmentId": "559538465",
+  "programId": "801074927",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a05c"
+  },
+  "id": "108094906",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DBM 2B",
+  "departmentId": "559538465",
+  "programId": "801074927",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a05f"
+  },
+  "id": "15826778",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CAT 1E",
+  "departmentId": "454298456",
+  "programId": "554717652",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a062"
+  },
+  "id": "39284000",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DCAT 1B",
+  "departmentId": "454298456",
+  "programId": "695797151",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c1d3b5e4c0bef3a065"
+  },
+  "id": "674301565",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "FASH 1C",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a068"
+  },
+  "id": "134893399",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "FASH 1D",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a06b"
+  },
+  "id": "172895667",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DFASH 1B",
+  "departmentId": "903354885",
+  "programId": "464516821",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a06e"
+  },
+  "id": "353362266",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "SOC-ECON 1G",
+  "departmentId": "561106956",
+  "programId": "973048169",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a071"
+  },
+  "id": "281544192",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA SEC 1",
+  "departmentId": "559538465",
+  "programId": "833925787",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a074"
+  },
+  "id": "366711428",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BIS 2",
+  "departmentId": "3070559",
+  "programId": "330454875",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a077"
+  },
+  "id": "815782366",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP- ENG 7",
+  "departmentId": "534083713",
+  "programId": "370170229",
+  "level": "700",
+  "classSize": 30,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a07a"
+  },
+  "id": "33196415",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "POST- DIP MEC",
+  "departmentId": "678904014",
+  "programId": "448455423",
+  "level": "400",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a07d"
+  },
+  "id": "72604743",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CAT 2E",
+  "departmentId": "454298456",
+  "programId": "554717652",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a080"
+  },
+  "id": "445440908",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM 1C",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a083"
+  },
+  "id": "411808591",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA HRM 1D",
+  "departmentId": "559538465",
+  "programId": "991683801",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a086"
+  },
+  "id": "522175511",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ED- ELECT 1B",
+  "departmentId": "183851483",
+  "programId": "446973898",
+  "level": "100",
+  "classSize": 67,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a089"
+  },
+  "id": "632432444",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ED- ELECT 1C",
+  "departmentId": "183851483",
+  "programId": "446973898",
+  "level": "100",
+  "classSize": 66,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a08c"
+  },
+  "id": "242036850",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "FASH 2D",
+  "departmentId": "903354885",
+  "programId": "313914130",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a08f"
+  },
+  "id": "362386402",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ELECT -TP 4",
+  "departmentId": "183851483",
+  "programId": "903247920",
+  "level": "400",
+  "classSize": 10,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a092"
+  },
+  "id": "340340083",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "CDF 1D",
+  "departmentId": "449025685",
+  "programId": "730772762",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a095"
+  },
+  "id": "896165444",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "MP- IT -TOPUP",
+  "departmentId": "449025685",
+  "programId": "585598842",
+  "level": "800",
+  "classSize": 20,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a098"
+  },
+  "id": "84095185",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ECO 1B",
+  "departmentId": "3070559",
+  "programId": "910749318",
+  "level": "100",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a09b"
+  },
+  "id": "137112672",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "BBA MGT-W 2B",
+  "departmentId": "559538465",
+  "programId": "720695874",
+  "level": "200",
+  "classSize": 100,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a09e"
+  },
+  "id": "752491452",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "ECO W1",
+  "departmentId": "3070559",
+  "programId": "910749318",
+  "level": "100",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a0a1"
+  },
+  "id": "534494732",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "P-DIP ECO 3",
+  "departmentId": "439364417",
+  "programId": "664452072",
+  "level": "300",
+  "classSize": 55,
+  "hasDisability": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a0a4"
+  },
+  "id": "601977057",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DIP ADMIN-ACC 1",
+  "departmentId": "3070559",
+  "programId": "348368526",
+  "level": "100",
+  "classSize": 30,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bd3c2d3b5e4c0bef3a0a7"
+  },
+  "id": "382609876",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "name": "DIP ADMIN-ACC 2",
+  "departmentId": "3070559",
+  "programId": "348368526",
+  "level": "200",
+  "classSize": 60,
+  "hasDisability": false,
+  "studyMode": "Regular",
+  "__v": 0
+}]

@@ -1,0 +1,1500 @@
+[{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca81e4"
+  },
+  "id": "233468047",
+  "name": "B. Ed. Upper Primary Education",
+  "departmentId": "561106956",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca81e8"
+  },
+  "id": "587451338",
+  "name": "B. A. Arabic Education/ B. Ed. Arabic Education",
+  "departmentId": "534083713",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca81ec"
+  },
+  "id": "189119528",
+  "name": "B. A. English Education/ B. Ed. English Edu",
+  "departmentId": "534083713",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca81f0"
+  },
+  "id": "1069123002",
+  "name": "B. A. French Education/ B. Edu. French Education",
+  "departmentId": "534083713",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca81f4"
+  },
+  "id": "973048169",
+  "name": "B. A. Social Studies With Economics Education ",
+  "departmentId": "561106956",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca81f8"
+  },
+  "id": "833925787",
+  "name": "B. B. A. Secretarial Education",
+  "departmentId": "559538465",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca81fc"
+  },
+  "id": "861726173",
+  "name": "B. Sc. Management Education/e.ed. Business Studies Management",
+  "departmentId": "559538465",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8200"
+  },
+  "id": "305563471",
+  "name": "B. Sc. Management Education/e.ed. Business Studies Management",
+  "departmentId": "559538465",
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8204"
+  },
+  "id": "813987663",
+  "name": "B. Sc. Management Education/e.ed. Business Studies Management",
+  "departmentId": "559538465",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8208"
+  },
+  "id": "12936326",
+  "name": "B. Sc. Marketing",
+  "departmentId": "559538465",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca820c"
+  },
+  "id": "201137216",
+  "name": "B. Sc. Marketing",
+  "departmentId": "559538465",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8210"
+  },
+  "id": "63599228",
+  "name": "B. B. A. Executive Office Administration",
+  "departmentId": "559538465",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8214"
+  },
+  "id": "426440717",
+  "name": "B. B. A. Executive Office Administration",
+  "departmentId": "559538465",
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8218"
+  },
+  "id": "560214028",
+  "name": "B. Sc. Marketing And Entrepreneurship",
+  "departmentId": "559538465",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca821c"
+  },
+  "id": "425239272",
+  "name": "B. Sc. Marketing And Entrepreneurship",
+  "departmentId": "559538465",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8220"
+  },
+  "id": "321143363",
+  "name": "B. Sc. Economics With Social Stuudies Education",
+  "departmentId": "3070559",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8224"
+  },
+  "id": "910749318",
+  "name": "B. Sc. Economics Education",
+  "departmentId": "3070559",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8228"
+  },
+  "id": "269766964",
+  "name": "B. Sc. Economics Education",
+  "departmentId": "3070559",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca822c"
+  },
+  "id": "159613970",
+  "name": "B. Sc. Accounting Education",
+  "departmentId": "3070559",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8230"
+  },
+  "id": "730772762",
+  "name": "B. Sc. Cybersecurity And Digital Forensics",
+  "departmentId": "449025685",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8234"
+  },
+  "id": "1023331327",
+  "name": "B. Sc. Welding And Fabrication Engineering Technology Edu.",
+  "departmentId": "678904014",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8238"
+  },
+  "id": "647938381",
+  "name": "B. Sc. Plumbing, Gas And Sanitary Technology",
+  "departmentId": "680270541",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca823c"
+  },
+  "id": "262619306",
+  "name": "B. Sc. Civil Engineering",
+  "departmentId": "307505219",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8240"
+  },
+  "id": "155092716",
+  "name": "B. Ed. Early Grade (early Childhood)",
+  "departmentId": "561106956",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8244"
+  },
+  "id": "857643972",
+  "name": "B. Ed. Early Grade (early Childhood)",
+  "departmentId": "561106956",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8248"
+  },
+  "id": "313914130",
+  "name": "B. Sc. Fashion Design And Testiles Education",
+  "departmentId": "903354885",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca824c"
+  },
+  "id": "22983278",
+  "name": "B. Sc. Fashion Design And Testiles Education",
+  "departmentId": "903354885",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8250"
+  },
+  "id": "554717652",
+  "name": "B. Sc. Catering And Hospitality Education",
+  "departmentId": "454298456",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8254"
+  },
+  "id": "509412542",
+  "name": "B. Sc. Catering And Hospitality Education",
+  "departmentId": "454298456",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8258"
+  },
+  "id": "3491440",
+  "name": "B. Sc. Automotive Engineering Technology Edu.",
+  "departmentId": "678904014",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca825c"
+  },
+  "id": "200538968",
+  "name": "B. Sc. Automotive Engineering Technology Edu.",
+  "departmentId": "678904014",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8260"
+  },
+  "id": "151485669",
+  "name": "B. Sc. Mechanical Engineering Technology Edu.",
+  "departmentId": "678904014",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8264"
+  },
+  "id": "712819715",
+  "name": "B. Sc. Mechanical Engineering Technology Edu.",
+  "departmentId": "678904014",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8268"
+  },
+  "id": "221887171",
+  "name": "B. Sc. Construction Tech. And Management With Education",
+  "departmentId": "680270541",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca826c"
+  },
+  "id": "406721071",
+  "name": "B. Sc. Construction Tech. And Management With Education",
+  "departmentId": "680270541",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8270"
+  },
+  "id": "966679169",
+  "name": "B. Sc. Wood Technology With Education",
+  "departmentId": "307505219",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8274"
+  },
+  "id": "1047845651",
+  "name": "B. Sc. Wood Technology With Education",
+  "departmentId": "307505219",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8278"
+  },
+  "id": "446973898",
+  "name": "B. Sc. Electrical And Electronics Engineering Tech Education",
+  "departmentId": "183851483",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca827c"
+  },
+  "id": "303308189",
+  "name": "B. Sc. Electrical And Electronics Engineering Tech Education",
+  "departmentId": "183851483",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8280"
+  },
+  "id": "1025265329",
+  "name": "2-year Post Dip. In Construction Technology",
+  "departmentId": "680270541",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8284"
+  },
+  "id": "131581983",
+  "name": "2-year Post Dip. In Construction Technology",
+  "departmentId": "680270541",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8288"
+  },
+  "id": "694433114",
+  "name": "2-year Post Dip. In Automotive Engineering Technology",
+  "departmentId": "678904014",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca828c"
+  },
+  "id": "634562915",
+  "name": "2-year Post Dip. In Automotive Engineering Technology",
+  "departmentId": "678904014",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8290"
+  },
+  "id": "903247920",
+  "name": "2-year Post Dip. In Electrical And Electronics Engineering",
+  "departmentId": "183851483",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8294"
+  },
+  "id": "813948504",
+  "name": "2-year Post Dip. In Electrical And Electronics Engineering",
+  "departmentId": "183851483",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8298"
+  },
+  "id": "926154853",
+  "name": "2-year Dip. In Wood Technology",
+  "departmentId": "307505219",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca829c"
+  },
+  "id": "161462059",
+  "name": "2-year Dip. In Wood Technology",
+  "departmentId": "307505219",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82a0"
+  },
+  "id": "183598712",
+  "name": "2-year Dip In Automotive Engineering",
+  "departmentId": "678904014",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82a4"
+  },
+  "id": "189342809",
+  "name": "2-year Dip In Automotive Engineering",
+  "departmentId": "678904014",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82a8"
+  },
+  "id": "702234179",
+  "name": "2-year Dip In Mechanical Engineering",
+  "departmentId": "678904014",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82ac"
+  },
+  "id": "669694306",
+  "name": "2-year Dip In Mechanical Engineering",
+  "departmentId": "678904014",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82b0"
+  },
+  "id": "973522849",
+  "name": "2-year Dip. In Architecture And Digital Construction",
+  "departmentId": "680270541",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82b4"
+  },
+  "id": "412216005",
+  "name": "2-year Dip. In Architecture And Digital Construction",
+  "departmentId": "680270541",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82b8"
+  },
+  "id": "408080402",
+  "name": "2-year Dip. In Electrical/electronics Technology",
+  "departmentId": "183851483",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82bc"
+  },
+  "id": "294888669",
+  "name": "2-year Dip. In Electrical/electronics Technology",
+  "departmentId": "183851483",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82c0"
+  },
+  "id": "464516821",
+  "name": "2-year Dip. In Fashion Design And Textiles",
+  "departmentId": "903354885",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82c4"
+  },
+  "id": "205290557",
+  "name": "2-year Dip. In Fashion Design And Textiles",
+  "departmentId": "903354885",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82c8"
+  },
+  "id": "695797151",
+  "name": "2-year Dip In Catering And Hospitality Education",
+  "departmentId": "454298456",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82cc"
+  },
+  "id": "819517522",
+  "name": "2-year Dip In Catering And Hospitality Education",
+  "departmentId": "454298456",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82d0"
+  },
+  "id": "644848051",
+  "name": "B. Sc. Information Technology Education",
+  "departmentId": "449025685",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82d4"
+  },
+  "id": "298588981",
+  "name": "B. Sc. Information Technology Education",
+  "departmentId": "449025685",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82d8"
+  },
+  "id": "437465513",
+  "name": "B. Sc. Information Technology",
+  "departmentId": "449025685",
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82dc"
+  },
+  "id": "554430989",
+  "name": "B. Sc. Mathematics Education",
+  "departmentId": "765281128",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82e0"
+  },
+  "id": "659075158",
+  "name": "B. Sc. Mathematics Education",
+  "departmentId": "765281128",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82e4"
+  },
+  "id": "335505804",
+  "name": "B. Sc. Mathematics Education",
+  "departmentId": "765281128",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82e8"
+  },
+  "id": "294744335",
+  "name": "B. Sc. Electrical And Electronics Engineering",
+  "departmentId": "183851483",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82ec"
+  },
+  "id": "241681058",
+  "name": "B. Sc. Electrical And Electronics Engineering",
+  "departmentId": "183851483",
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82f0"
+  },
+  "id": "991683801",
+  "name": "B. B. A. Human Resource Management",
+  "departmentId": "559538465",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82f4"
+  },
+  "id": "104804843",
+  "name": "B. B. A. Human Resource Management",
+  "departmentId": "559538465",
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82f8"
+  },
+  "id": "85397547",
+  "name": "B. B. A. Human Resource Management",
+  "departmentId": "559538465",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca82fc"
+  },
+  "id": "311982227",
+  "name": "Diploma In Human Resorce Management",
+  "departmentId": "559538465",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8300"
+  },
+  "id": "494703283",
+  "name": "Diploma In Human Resorce Management",
+  "departmentId": "559538465",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8304"
+  },
+  "id": "533299021",
+  "name": "Dip. In Secretariat And Computer Applications",
+  "departmentId": "559538465",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8308"
+  },
+  "id": "664634927",
+  "name": "Dip. In Secretariat And Computer Applications",
+  "departmentId": "559538465",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca830c"
+  },
+  "id": "577548102",
+  "name": "2-year Dip In Business Admin Management",
+  "departmentId": "559538465",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8310"
+  },
+  "id": "370943998",
+  "name": "2-year Dip In Business Admin Management",
+  "departmentId": "559538465",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8314"
+  },
+  "id": "778381209",
+  "name": "B. Ed. Junior High Education",
+  "departmentId": "561106956",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8318"
+  },
+  "id": "720695874",
+  "name": "B. B. A. Management",
+  "departmentId": "559538465",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca831c"
+  },
+  "id": "907481596",
+  "name": "B. B. A. Management",
+  "departmentId": "559538465",
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8320"
+  },
+  "id": "841813561",
+  "name": "B. B. A. Management",
+  "departmentId": "559538465",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8324"
+  },
+  "id": "801074927",
+  "name": "Dip In Business Management",
+  "departmentId": "559538465",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8328"
+  },
+  "id": "638486699",
+  "name": "Mphil Business Management- Year One",
+  "departmentId": "559538465",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca832c"
+  },
+  "id": "689288308",
+  "name": "Mphil Business Management- Year One",
+  "departmentId": "559538465",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8330"
+  },
+  "id": "984206250",
+  "name": "M. B. A. Marketing- Year One",
+  "departmentId": "559538465",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8334"
+  },
+  "id": "515574121",
+  "name": "Mphil Business Management- Year Two",
+  "departmentId": "559538465",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8338"
+  },
+  "id": "365909585",
+  "name": "Mphil Business Management- Year Two",
+  "departmentId": "559538465",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca833c"
+  },
+  "id": "1052210349",
+  "name": "M. B. A. Marketing- Year Two",
+  "departmentId": "559538465",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8340"
+  },
+  "id": "978995276",
+  "name": "Mphil Business Management- Top-up",
+  "departmentId": "559538465",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8344"
+  },
+  "id": "375157146",
+  "name": "Mphil Mechanical Engineering Technology",
+  "departmentId": "678904014",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8348"
+  },
+  "id": "112514306",
+  "name": "Mphil Automotive Engineering Technology",
+  "departmentId": "678904014",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca834c"
+  },
+  "id": "426565063",
+  "name": "Mphil Mechanical Engineering Tech - Top-up",
+  "departmentId": "678904014",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8350"
+  },
+  "id": "103593477",
+  "name": "Dip In Welding And Frabrication Technology",
+  "departmentId": "678904014",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8354"
+  },
+  "id": "705303988",
+  "name": "Doctor Of Philosophy In Educational Leadership",
+  "departmentId": "750159235",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8358"
+  },
+  "id": "844827900",
+  "name": "Mphil In Educational Leadership",
+  "departmentId": "750159235",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca835c"
+  },
+  "id": "383874694",
+  "name": "Mphil In Fashion Design And Texttiles",
+  "departmentId": "903354885",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8360"
+  },
+  "id": "436795716",
+  "name": "Mphil In Fashion Design And Texttiles- Top-up",
+  "departmentId": "903354885",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8364"
+  },
+  "id": "187939791",
+  "name": "Mphil Catering And Hospitality- Top-up",
+  "departmentId": "454298456",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8368"
+  },
+  "id": "169237251",
+  "name": "Mphil Catering And Hospitality",
+  "departmentId": "454298456",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca836c"
+  },
+  "id": "103903043",
+  "name": "Diploma Information Technology",
+  "departmentId": "449025685",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8370"
+  },
+  "id": "437607707",
+  "name": "Diploma Cybersecurity And Digital Forensics",
+  "departmentId": "449025685",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8374"
+  },
+  "id": "663519360",
+  "name": "Mphil Information Technology",
+  "departmentId": "449025685",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8378"
+  },
+  "id": "863334441",
+  "name": "Mphil Information Technology",
+  "departmentId": "449025685",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca837c"
+  },
+  "id": "616103061",
+  "name": "Msc Information Technology",
+  "departmentId": "449025685",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8380"
+  },
+  "id": "749715843",
+  "name": "Ph. D. Mathematics Education",
+  "departmentId": "765281128",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8384"
+  },
+  "id": "484534676",
+  "name": "B. Sc. Mathematics Education- Top-up",
+  "departmentId": "765281128",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8388"
+  },
+  "id": "714128894",
+  "name": "Mphil Mathematics Education",
+  "departmentId": "765281128",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca838c"
+  },
+  "id": "7721978",
+  "name": "Mphil Mathematics Education",
+  "departmentId": "765281128",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8390"
+  },
+  "id": "1001403798",
+  "name": "Mphil Mathematics Education- Top-up",
+  "departmentId": "765281128",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8394"
+  },
+  "id": "758242721",
+  "name": "Mphil Mathematics Education- Top-up",
+  "departmentId": "765281128",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8398"
+  },
+  "id": "815580415",
+  "name": "Mphil Teaching And Learning",
+  "departmentId": "561106956",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca839c"
+  },
+  "id": "997199584",
+  "name": "Mphil Construction Management",
+  "departmentId": "680270541",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83a0"
+  },
+  "id": "85361477",
+  "name": "Mphil Construction Technology",
+  "departmentId": "680270541",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83a4"
+  },
+  "id": "468243411",
+  "name": "Ph. D. Construction Technology And Management",
+  "departmentId": "680270541",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83a8"
+  },
+  "id": "859681996",
+  "name": "Diploma In Economics",
+  "departmentId": "439364417",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83ac"
+  },
+  "id": "1053049401",
+  "name": "Diploma In Economics",
+  "departmentId": "439364417",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83b0"
+  },
+  "id": "213947530",
+  "name": "Mphil Electrical Power Systems- Top-up",
+  "departmentId": "183851483",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83b4"
+  },
+  "id": "466969373",
+  "name": "M .b. A. Human Resource And Organizational Behaviour",
+  "departmentId": "930513539",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83b8"
+  },
+  "id": "668280270",
+  "name": "M .b. A. Human Resource And Organizational Behaviour",
+  "departmentId": "930513539",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83bc"
+  },
+  "id": "619076062",
+  "name": "Bsc. Entrpreneurship",
+  "departmentId": "559538465",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83c0"
+  },
+  "id": "870718978",
+  "name": "Bsc. Administration (accounting)",
+  "departmentId": "3070559",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83c4"
+  },
+  "id": "320536980",
+  "name": "Bsc. Administration (accounting)",
+  "departmentId": "3070559",
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83c8"
+  },
+  "id": "481072702",
+  "name": "Bsc. Administration (accounting)",
+  "departmentId": "3070559",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83cc"
+  },
+  "id": "2304670",
+  "name": "Bsc Administration(banking And Finance)",
+  "departmentId": "3070559",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83d0"
+  },
+  "id": "183091076",
+  "name": "Bsc Administration(banking And Finance)",
+  "departmentId": "3070559",
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83d4"
+  },
+  "id": "85401433",
+  "name": "Bsc Administration(banking And Finance)",
+  "departmentId": "3070559",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83d8"
+  },
+  "id": "615291206",
+  "name": "Bsc. Administration(procurement And Supply Chain Mgt)",
+  "departmentId": "3070559",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83dc"
+  },
+  "id": "152078525",
+  "name": "Bsc. Administration(procurement And Supply Chain Mgt)",
+  "departmentId": "3070559",
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83e0"
+  },
+  "id": "706602241",
+  "name": "Bsc. Administration(procurement And Supply Chain Mgt)",
+  "departmentId": "3070559",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83e4"
+  },
+  "id": "241144275",
+  "name": "Mphil Accounting",
+  "departmentId": "3070559",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83e8"
+  },
+  "id": "244992469",
+  "name": "Mphil Accounting",
+  "departmentId": "3070559",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83ec"
+  },
+  "id": "1043475647",
+  "name": "Mphil Accounting 1 (top Up)",
+  "departmentId": "3070559",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83f0"
+  },
+  "id": "40081070",
+  "name": "Mphil Accounting 1 (top Up)",
+  "departmentId": "3070559",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83f4"
+  },
+  "id": "972635779",
+  "name": "Mphil Accounting 2",
+  "departmentId": "3070559",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83f8"
+  },
+  "id": "108756563",
+  "name": "Mphil Accounting 2",
+  "departmentId": "3070559",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca83fc"
+  },
+  "id": "799385472",
+  "name": "Mba Accounting 1",
+  "departmentId": "3070559",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8400"
+  },
+  "id": "618042040",
+  "name": "Mba Accounting 2",
+  "departmentId": "3070559",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8404"
+  },
+  "id": "243627653",
+  "name": "Mba Finance 1",
+  "departmentId": "3070559",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8408"
+  },
+  "id": "965633897",
+  "name": "Mba Finance 2",
+  "departmentId": "3070559",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca840c"
+  },
+  "id": "330454875",
+  "name": "Bsc. Administration ( B. I. S.)",
+  "departmentId": "3070559",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8410"
+  },
+  "id": "865076833",
+  "name": "Bsc. Administration ( B. I. S.)",
+  "departmentId": "3070559",
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8414"
+  },
+  "id": "210614828",
+  "name": "Mphil. Wood Science And Technology",
+  "departmentId": "307505219",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8418"
+  },
+  "id": "662513766",
+  "name": "Mphil Automotive Enngineering Technology- Top Up",
+  "departmentId": "678904014",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca841c"
+  },
+  "id": "370170229",
+  "name": "Mphil English( Lit Option, Two Year And One Year Topup)",
+  "departmentId": "534083713",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8420"
+  },
+  "id": "448455423",
+  "name": "Bsc. Post Diploma Mechanical EEnngineering",
+  "departmentId": "678904014",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8424"
+  },
+  "id": "585598842",
+  "name": "Mphil Information Technology- 1 Year Topup",
+  "departmentId": "449025685",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8428"
+  },
+  "id": "664452072",
+  "name": "Post Diploma In Economics",
+  "departmentId": "439364417",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca842c"
+  },
+  "id": "348368526",
+  "name": "Diploma In Business Administration- Accounting",
+  "departmentId": "3070559",
+  "studyMode": "Regular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8430"
+  },
+  "id": "1069065461",
+  "name": "Diploma In Business Administration- Accounting",
+  "departmentId": "3070559",
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bab62013f3378e9ca8434"
+  },
+  "id": "445347515",
+  "name": "Diploma In Business Administration- Accounting",
+  "departmentId": "3070559",
+  "studyMode": "Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bb6f809829da44c628699"
+  },
+  "id": "639250047",
+  "name": "New Program 232",
+  "departmentId": "586727943",
+  "studyMode": "Regular",
+  "__v": 0
+}]

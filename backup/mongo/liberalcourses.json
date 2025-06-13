@@ -1,0 +1,372 @@
+[{
+  "_id": {
+    "$oid": "679fd95986c7e76eaea19d03"
+  },
+  "id": "135106232",
+  "courseTitle": "Human Right in Ghana",
+  "courseCode": "GPDR 231AH",
+  "studyMode": "Regular ",
+  "message": "Bsc. Accounting A&B",
+  "lecturer": "742017276",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fd99c86c7e76eaea19d07"
+  },
+  "id": "390829249",
+  "courseTitle": "Effective Parenting",
+  "courseCode": "GPDR 231BC",
+  "studyMode": "Regular ",
+  "message": "B.A English A. B & C",
+  "lecturer": "958727482",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fd9e486c7e76eaea19d0b"
+  },
+  "id": "120156247",
+  "courseTitle": "Effective Parenting",
+  "courseCode": "GPDR 231BC",
+  "studyMode": "Regular ",
+  "message": "Bsc. Management A,B&C",
+  "lecturer": "258546848",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fda1786c7e76eaea19d0f"
+  },
+  "id": "71629417",
+  "courseTitle": "Consumer Education and Economics",
+  "courseCode": "GPD 231DC",
+  "studyMode": "Regular ",
+  "message": "Bsc Mathematics Education A&B",
+  "lecturer": "740673462",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fda6b86c7e76eaea19d13"
+  },
+  "id": "347100071",
+  "courseTitle": "Consumer Education and Economics",
+  "courseCode": "GPD 231DC",
+  "studyMode": "Regular ",
+  "message": "Bsc. Mathematics Education C",
+  "lecturer": "220423979",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdaa686c7e76eaea19d17"
+  },
+  "id": "646199584",
+  "courseTitle": "Introduction to Creative Art Therapy",
+  "courseCode": "GPD 231CC",
+  "studyMode": "Regular ",
+  "message": "All French Students",
+  "lecturer": "403258782",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdade86c7e76eaea19d1b"
+  },
+  "id": "896620191",
+  "courseTitle": "Colonialism and Nationalism in Ghana",
+  "courseCode": "GPD 231AB",
+  "studyMode": "Regular ",
+  "message": "Bsc. Fashion A&B",
+  "lecturer": "273450472",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdb1386c7e76eaea19d1f"
+  },
+  "id": "222612747",
+  "courseTitle": "Courtship and Marraige",
+  "courseCode": "GPDR 231CA",
+  "studyMode": "Regular ",
+  "message": "Bsc ITE A,B & I",
+  "lecturer": "198383083",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdb4486c7e76eaea19d23"
+  },
+  "id": "342363968",
+  "courseTitle": "Courtship and Marraige",
+  "courseCode": "GPDR 231CA",
+  "studyMode": "Regular ",
+  "message": "Bsc. ITE C & D",
+  "lecturer": "707695392",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdb6d86c7e76eaea19d27"
+  },
+  "id": "545372958",
+  "courseTitle": "Courtship and Marraige",
+  "courseCode": "GPD 231BJ",
+  "studyMode": "Regular ",
+  "message": "Bsc ITE E & F",
+  "lecturer": "46857220",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdb9486c7e76eaea19d2b"
+  },
+  "id": "781860922",
+  "courseTitle": "Courtship and Marraige",
+  "courseCode": "GPD 231BJ",
+  "studyMode": "Regular ",
+  "message": "Bsc ITE G & H",
+  "lecturer": "993093336",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdbc586c7e76eaea19d2f"
+  },
+  "id": "76363551",
+  "courseTitle": "Career Skills",
+  "courseCode": "GPDR 231DB",
+  "studyMode": "Regular ",
+  "message": "Bsc Economics",
+  "lecturer": "250211994",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdbf586c7e76eaea19d33"
+  },
+  "id": "102927324",
+  "courseTitle": "Public Speaking",
+  "courseCode": "GPD 231BB",
+  "studyMode": "Regular ",
+  "message": "BBA, HRM Classes",
+  "lecturer": "906503547",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdc2386c7e76eaea19d37"
+  },
+  "id": "627576348",
+  "courseTitle": "Early Childhood care and Education",
+  "courseCode": "GPD 231BI",
+  "studyMode": "Regular ",
+  "message": "BSc. Catering A&B",
+  "lecturer": "489926895",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdc6486c7e76eaea19d3b"
+  },
+  "id": "542160167",
+  "courseTitle": "Early Childhood Care and Education",
+  "courseCode": "GPD 231BI",
+  "studyMode": "Regular ",
+  "message": "Bsc. Catering C & D",
+  "lecturer": "314629260",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdc9f86c7e76eaea19d41"
+  },
+  "id": "519688715",
+  "courseTitle": "Leadership Development",
+  "courseCode": "GPDR 231BG",
+  "studyMode": "Regular ",
+  "message": "BA Social with Economics A,B & C",
+  "lecturer": "1013694778",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdce486c7e76eaea19d45"
+  },
+  "id": "280904448",
+  "courseTitle": "Leadership Development",
+  "courseCode": "GPDR 231BG",
+  "studyMode": "Regular ",
+  "message": "BA Social with Economics D,E & F",
+  "lecturer": "243898577",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdd0c86c7e76eaea19d49"
+  },
+  "id": "433487115",
+  "courseTitle": "Man and the Environment",
+  "courseCode": "GPD 231EC",
+  "studyMode": "Regular ",
+  "message": "Bsc Construction ",
+  "lecturer": "261225128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdd5086c7e76eaea19d4d"
+  },
+  "id": "738609766",
+  "courseTitle": "The Middle- East Question and the Growth of Islamic Fundamentalism",
+  "courseCode": "GPD 231AF",
+  "studyMode": "Regular ",
+  "message": "BA Arabic",
+  "lecturer": "720321248",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdd8a86c7e76eaea19d51"
+  },
+  "id": "203327779",
+  "courseTitle": "Stress and Stress Management",
+  "courseCode": "GPDR 231B",
+  "studyMode": "Regular ",
+  "message": "BSc Cybersecurity",
+  "lecturer": "274244713",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fddbb86c7e76eaea19d55"
+  },
+  "id": "334080628",
+  "courseTitle": "The People and Cultures of Ghana",
+  "courseCode": "CPD 231CB",
+  "studyMode": "Regular ",
+  "message": "B.A Economics with Social Studies",
+  "lecturer": "491905612",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fddea86c7e76eaea19d59"
+  },
+  "id": "787529503",
+  "courseTitle": "Corperate Governance",
+  "courseCode": "GPD 231DC",
+  "studyMode": "Regular ",
+  "message": "Bsc. Procurement",
+  "lecturer": "149054179",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fde4786c7e76eaea19d5d"
+  },
+  "id": "592241149",
+  "courseTitle": "Technology and Society",
+  "courseCode": "GPD 231EB",
+  "studyMode": "Regular ",
+  "message": "Bsc. Mechanical, Civil Eng, Wood Class ",
+  "lecturer": "161499142",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdea386c7e76eaea19d61"
+  },
+  "id": "686432775",
+  "courseTitle": "Basic Health & Fitness Education",
+  "courseCode": "GPD 231 EE",
+  "studyMode": "Regular ",
+  "message": "Bsc. WEAM, Diploma Students",
+  "lecturer": "348667387",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdee386c7e76eaea19d65"
+  },
+  "id": "573615805",
+  "courseTitle": "Energy Technology",
+  "courseCode": "GPD 231ED",
+  "studyMode": "Regular ",
+  "message": "BSc. Eletricals, Plumbing, Gas and Auto",
+  "lecturer": "415731287",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdf2586c7e76eaea19d69"
+  },
+  "id": "220657550",
+  "courseTitle": "HIV/AIDS and other STIs",
+  "courseCode": "GPDR 231EA",
+  "studyMode": "Regular ",
+  "message": "Diploma Program in Business and Economics",
+  "lecturer": "1046684583",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdf5186c7e76eaea19d6d"
+  },
+  "id": "103553474",
+  "courseTitle": "Social Problems",
+  "courseCode": "GPD 231AC",
+  "studyMode": "Regular ",
+  "message": "Diploma in Fashion and Catering Classes",
+  "lecturer": "1011542295",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdf7b86c7e76eaea19d71"
+  },
+  "id": "676101850",
+  "courseTitle": "Colonialism and Nationalism in Ghana",
+  "courseCode": "GPD 231AB",
+  "studyMode": "Evening",
+  "message": "All Business Students",
+  "lecturer": "273450472",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdfa686c7e76eaea19d75"
+  },
+  "id": "144370234",
+  "courseTitle": "Social Probleams",
+  "courseCode": "GPDR 231EA",
+  "studyMode": "Evening",
+  "message": "All IT and Mathematics Students",
+  "lecturer": "1011542295",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fdfdc86c7e76eaea19d79"
+  },
+  "id": "60274188",
+  "courseTitle": "HIV/AIDS and other STIs",
+  "courseCode": "GPDR 231BD",
+  "studyMode": "Weekend",
+  "message": "ITE and Mathematics Students",
+  "lecturer": "1046684583",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679fe00886c7e76eaea19d7d"
+  },
+  "id": "892869382",
+  "courseTitle": "Colonialism and Nationalism in Ghana",
+  "courseCode": "GPDR 231EA",
+  "studyMode": "Weekend",
+  "message": "All Business Students",
+  "lecturer": "273450472",
+  "__v": 0
+}]

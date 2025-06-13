@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "684bfae0ff8db602c425e284"
+  },
+  "id": "619879250",
+  "programId": "233468047",
+  "level": "200",
+  "studyMode": "Regular",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courses": [
+    {
+      "id": "94bcfdb1-760e-4899-9248-ee9bfba1e190",
+      "courseTitle": "testing",
+      "courseCode": "ITEXC 123",
+      "creditHours": 3,
+      "departmentId": "",
+      "studyMode": "",
+      "programId": "",
+      "level": "",
+      "lecturers": [
+        "404512385"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Computer Lab",
+      "year": "",
+      "semester": ""
+    }
+  ],
+  "departmentId": "561106956",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfd80ff8db602c425e2ac"
+  },
+  "id": "143116693",
+  "programId": "647938381",
+  "level": "200",
+  "studyMode": "Regular",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courses": [
+    {
+      "id": "336f0af7-f9df-4cc1-9996-706d74d54e2b",
+      "courseTitle": "testint",
+      "courseCode": "TRES 123",
+      "creditHours": 3,
+      "departmentId": "680270541",
+      "studyMode": "Regular",
+      "programId": "647938381",
+      "level": "200",
+      "lecturers": [
+        "154087212"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Lecture Hall",
+      "year": "2024/2025",
+      "semester": "1st Semester"
+    }
+  ],
+  "departmentId": "680270541",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684bfdd3ff8db602c425e2b8"
+  },
+  "id": "996994373",
+  "programId": "639250047",
+  "level": "200",
+  "studyMode": "Regular",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "courses": [
+    {
+      "id": "f980d1ae-f205-44f9-98ce-1a8062a0ca6d",
+      "courseTitle": "Testing Creattion",
+      "courseCode": "TUY23",
+      "creditHours": 3,
+      "departmentId": "586727943",
+      "studyMode": "Regular",
+      "programId": "639250047",
+      "level": "200",
+      "lecturers": [
+        "488978196"
+      ],
+      "courseType": "Elective Course",
+      "venueType": "Lecture Hall",
+      "year": "2024/2025",
+      "semester": "1st Semester"
+    }
+  ],
+  "departmentId": "586727943",
+  "__v": 0
+}]

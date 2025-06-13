@@ -1,0 +1,284 @@
+[{
+  "_id": {
+    "$oid": "6776848c0e7b46c7b61343bd"
+  },
+  "id": "505170900",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "periods": [
+    {
+      "name": "Period 1",
+      "startTime": "7:00am",
+      "endTime": "10:00am",
+      "position": 1,
+      "isBreak": false
+    },
+    {
+      "name": "Period 2",
+      "startTime": "10:00am",
+      "endTime": "1:00pm",
+      "position": 2,
+      "isBreak": false
+    },
+    {
+      "name": "Period 3",
+      "startTime": "1:00pm",
+      "endTime": "2:00pm",
+      "position": 3,
+      "isBreak": true
+    },
+    {
+      "name": "Period 4",
+      "startTime": "2:00pm",
+      "endTime": "5:00pm",
+      "position": 4,
+      "isBreak": false
+    },
+    {
+      "name": "Period 5",
+      "startTime": "5:00pm",
+      "endTime": "8:00pm",
+      "position": 5,
+      "isBreak": false
+    }
+  ],
+  "libDay": "Thursday",
+  "libLevel": "200",
+  "preInternshipDay": null,
+  "postInternshipDay": null,
+  "preInternshipLevel": null,
+  "postInternshipLevel": null,
+  "preInternshipPeriod": null,
+  "postInternshipPeriod": null,
+  "regLibPeriod": {
+    "name": "Period 1",
+    "startTime": "7:00am",
+    "endTime": "10:00am",
+    "position": 1,
+    "isBreak": false
+  },
+  "isCurrent": false,
+  "studyMode": "Regular & Evening",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67917d8cf9fceb45e8e6f0f9"
+  },
+  "id": "225807293",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "days": [
+    "Saturday",
+    "Sunday"
+  ],
+  "periods": [
+    {
+      "name": "Period 1",
+      "startTime": "7:00am",
+      "endTime": "10:00am",
+      "position": 1,
+      "isBreak": false
+    },
+    {
+      "name": "Period 2",
+      "startTime": "10:00am",
+      "endTime": "1:00pm",
+      "position": 2,
+      "isBreak": false
+    },
+    {
+      "name": "Period 3",
+      "startTime": "1:00pm",
+      "endTime": "4:00pm",
+      "position": 3,
+      "isBreak": false
+    },
+    {
+      "name": "Period 4",
+      "startTime": "4:00pm",
+      "endTime": "7:00pm",
+      "position": 4,
+      "isBreak": false
+    }
+  ],
+  "libDay": "Sunday",
+  "libLevel": "200",
+  "preInternshipDay": null,
+  "postInternshipDay": null,
+  "preInternshipLevel": null,
+  "postInternshipLevel": null,
+  "preInternshipPeriod": null,
+  "postInternshipPeriod": null,
+  "regLibPeriod": {
+    "name": "Period 1",
+    "startTime": "7:00am",
+    "endTime": "10:00am",
+    "position": 1,
+    "isBreak": false
+  },
+  "isCurrent": false,
+  "studyMode": "Weekend",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68271d42a3041fdac8ec5e27"
+  },
+  "id": "806356760",
+  "year": "2024/2025",
+  "semester": "1st Semester",
+  "days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "periods": [
+    {
+      "name": "Period 1",
+      "startTime": "7:00am",
+      "endTime": "10:00am",
+      "position": 1,
+      "isBreak": false
+    },
+    {
+      "name": "Period 2",
+      "startTime": "10:00am",
+      "endTime": "1:00pm",
+      "position": 2,
+      "isBreak": false
+    },
+    {
+      "name": "Period 3",
+      "startTime": "1:00pm",
+      "endTime": "4:00pm",
+      "position": 3,
+      "isBreak": false
+    },
+    {
+      "name": "Period 4",
+      "startTime": "4:00pm",
+      "endTime": "7:00pm",
+      "position": 4,
+      "isBreak": false
+    },
+    {
+      "name": "Period 5",
+      "startTime": "7:00pm",
+      "endTime": "10:00pm",
+      "position": 5,
+      "isBreak": false
+    }
+  ],
+  "libDay": "Thursday",
+  "libLevel": "200",
+  "preInternshipDay": null,
+  "postInternshipDay": null,
+  "preInternshipLevel": null,
+  "postInternshipLevel": null,
+  "preInternshipPeriod": null,
+  "postInternshipPeriod": null,
+  "regLibPeriod": {
+    "name": "Period 1",
+    "startTime": "7:00am",
+    "endTime": "10:00am",
+    "position": 1,
+    "isBreak": false
+  },
+  "isCurrent": false,
+  "studyMode": "Sandwich",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684c0b14daf5bfc82bc19627"
+  },
+  "id": "1008828786",
+  "year": "2024/2025",
+  "semester": "2nd Semester",
+  "days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "periods": [
+    {
+      "name": "Period 1",
+      "startTime": "7:00am",
+      "endTime": "10:00am",
+      "position": 1,
+      "isBreak": false
+    },
+    {
+      "name": "Period 2",
+      "startTime": "10:00am",
+      "endTime": "1:00pm",
+      "position": 2,
+      "isBreak": false
+    },
+    {
+      "name": "Period 3",
+      "startTime": "1:00pm",
+      "endTime": "2:00pm",
+      "position": 3,
+      "isBreak": true
+    },
+    {
+      "name": "Period 4",
+      "startTime": "2:00pm",
+      "endTime": "5:00pm",
+      "position": 4,
+      "isBreak": false
+    },
+    {
+      "name": "Period 5",
+      "startTime": "5:00pm",
+      "endTime": "8:00pm",
+      "position": 5,
+      "isBreak": false
+    }
+  ],
+  "libDay": "Thursday",
+  "libLevel": "100",
+  "preInternshipDay": "Friday",
+  "postInternshipDay": "Friday",
+  "preInternshipLevel": "300",
+  "postInternshipLevel": "300",
+  "preInternshipPeriod": {
+    "name": "Period 1",
+    "startTime": "7:00am",
+    "endTime": "10:00am",
+    "position": 1,
+    "isBreak": false
+  },
+  "postInternshipPeriod": {
+    "name": "Period 1",
+    "startTime": "7:00am",
+    "endTime": "10:00am",
+    "position": 1,
+    "isBreak": false
+  },
+  "regLibPeriod": {
+    "name": "Period 1",
+    "startTime": "7:00am",
+    "endTime": "10:00am",
+    "position": 1,
+    "isBreak": false
+  },
+  "isCurrent": true,
+  "studyMode": "Regular & Evening",
+  "__v": 0
+}]
