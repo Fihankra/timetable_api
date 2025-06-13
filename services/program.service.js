@@ -16,8 +16,8 @@ exports.updateProgram = async (id, program) => {
     return await Program.findOneAndUpdate({ id: id }, program);
 }
 
-exports.deletePrograms = async (ids) => {
-    return await Program.deleteMany({ id: { $in: ids } });
+exports.deleteProgram = async (deleteProgram) => {
+    return await Program.deleteOne({ id: deleteProgram.id });
 }
 
 

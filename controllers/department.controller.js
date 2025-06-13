@@ -88,36 +88,44 @@ exports.delete = async (req, res) => {
             return;
         }
         //delete all programs associated with the departments
-       await programSchema.deleteMany({ departmentId: { $in: ids } }, (err) => {
-            if (err) {
-                console.error('Error deleting programs:', err);
-            } else {
-                console.log('Programs deleted successfully');
-            }
+       await programSchema.deleteMany({ departmentId:  department.id  }).then((result) => {
+        if (result.deletedCount > 0) {
+          console.log("Programs deleted successfully");
+        } else {
+          console.log("No programs found for the given department");
+        }
+        }).catch((err) => {
+            console.error('Error deleting programs:', err);
         });
         //delete all classes associated with the departments
-        await classSchema.deleteMany({ departmentId: { $in: ids } }, (err) => {
-            if (err) {
-                console.error('Error deleting classes:', err);
+        await classSchema.deleteMany({ departmentId: department.id }).then((result) => {
+            if (result.deletedCount > 0) {
+                console.log("Classes deleted successfully");
             } else {
-                console.log('Classes deleted successfully');
+                console.log("No classes found for the given department");
             }
+        }).catch((err) => {
+            console.error('Error deleting classes:', err);
         });
         //delete all courses associated with the departments
-        await courseSchema.deleteMany({ departmentId: { $in: ids } }, (err) => {
-            if (err) {
-                console.error('Error deleting courses:', err);
+        await courseSchema.deleteMany({ departmentId: department.id }).then((result) => {
+            if (result.deletedCount > 0) {
+                console.log("Courses deleted successfully");
             } else {
-                console.log('Courses deleted successfully');
+                console.log("No courses found for the given department");
             }
+        }).catch((err) => {
+            console.error('Error deleting courses:', err);
         });
         //delete all elective courses associated with the departments
-        await electivesSchema.deleteMany({ departmentId: { $in: ids } }, (err) => {
-            if (err) {
-                console.error('Error deleting elective courses:', err);
+        await electivesSchema.deleteMany({ departmentId: department.id }).then((result) => {
+            if (result.deletedCount > 0) {
+                console.log("Elective courses deleted successfully");
             } else {
-                console.log('Elective courses deleted successfully');
+                console.log("No elective courses found for the given department");
             }
+        }).catch((err) => {
+            console.error('Error deleting elective courses:', err);
         });
         //const departments = await DepartmentService.getDepartments();
         res.json({ status: true, message: 'Department deleted successfully', data: department });

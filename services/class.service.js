@@ -4,8 +4,11 @@ exports.createClass = async (classData) => {
     return await Class.create(classData);
 }
 
-exports.getClasses = async () => {
-    return await Class.find();
+exports.getClasses = async (classData) => {
+    return await Class.find({
+        year: classData.year,
+        semester: classData.semester
+    });
 }
 
 exports.getClassById = async (id) => {

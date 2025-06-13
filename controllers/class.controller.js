@@ -22,8 +22,7 @@ exports.create = async (req, res) => {
             res.json({ status: false, message: 'Failed to create class' });
             return;
         }
-        const classesList = await ClassService.getClasses();
-        res.json({ status: true, message: 'Class created successfully', data: classesList });
+        res.json({ status: true, message: 'Class created successfully', data: newClass });
     } catch (err) {
         res.json({ status: false, message: err.message });
     }
@@ -33,7 +32,14 @@ exports.create = async (req, res) => {
 // Retrieve and return all classes from the database.
 exports.findAll = async (req, res) => {
     try {
-        const classes = await ClassService.getClasses();
+        //get query parameters
+        const { year, semester } = req.query;
+        //check if year and semester are provided
+        if (!year || !semester) {
+            res.json({ status: false, message: 'Year and semester are required' });
+            return;
+        }
+        const classes = await ClassService.getClasses({ year, semester });
         res.json({ status: true, message: "Data found", data: classes });
     }
     catch (err) {
@@ -60,8 +66,7 @@ exports.update = async (req, res) => {
             res.json({ status: false, message: `Cannot update Class with id=${id}. Class not found` });
             return;
         }
-        const classesList = await ClassService.getClasses();
-        res.json({ status: true, message: 'Class updated successfully', data: classesList });
+        res.json({ status: true, message: 'Class updated successfully', data: data });
     }
     catch (err) {
         res.json({ status: false, message: err.message });

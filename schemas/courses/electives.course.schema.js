@@ -5,6 +5,8 @@ const ElectivesSchema = new mongoose.Schema({
     programId: { type: String, required: true },
     level: { type: String, required: true },
     studyMode: { type: String, required: true },
+    year: { type: String, required: true },
+    semester: { type: String, required: true },
     courses: { type: [Map], required: true },
     departmentId: { type: String, required: true },
 });

@@ -2,6 +2,8 @@ const mongoose = require('mongoose');
 
 const ProgramCourseSchema = new mongoose.Schema({
     id: { type: String, required: true },
+    year: { type: String, required: true },
+    semester: { type: String, required: true },
     courseTitle: { type: String, required: true },
     courseCode: { type: String, required: true },
     creditHours: { type: Number, required: true },
