@@ -115,4 +115,5 @@ exports.delete = async (req, res) => {
   } catch (err) {
     res.json({ status: false, message: err.message });
   }
+  
 };
