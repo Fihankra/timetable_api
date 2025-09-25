@@ -67,6 +67,7 @@ exports.findMessageAndTable = async (req, res) => {
       res.json({ status: false, message: `Message not found` });
       return;
     }
+    console.log("Year and Sem===",data.year,"==============",data.semester)
     const tables = await PublishService.getTables(data.year, data.semester);
 
     if (!tables) {
@@ -74,9 +75,8 @@ exports.findMessageAndTable = async (req, res) => {
       return;
     }
 
-    //llop through the tables get program id and get the program name
+    // through the tables get program id and get the program name
       if (data.query == "Lecturer") {
-        console.log("Data============================", data);
       const year = data.year;
       const semester = data.semester;
 
@@ -106,7 +106,8 @@ exports.findMessageAndTable = async (req, res) => {
       if (!bestLecturer) {
         res.json({ status: false, message: `Lecturer not found` });
         return;
-      }
+        }
+        console.log("Lecturer ====================", bestLecturer)
 
       const lectTables = tables.filter(
         (table) =>
@@ -209,7 +210,6 @@ exports.findMessageAndTable = async (req, res) => {
         res.json({ status: false, message: `Department not found` });
         return;
       }
-      console.log("Department", department);
       const dipId = department[0].id;
       const depTables = tables.filter(
         (table) =>
