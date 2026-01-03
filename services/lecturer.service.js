@@ -5,10 +5,11 @@ exports.createLecturer = async (lecturer) => {
 }
 
 exports.getLecturers = async (lecturerData) => {
-    return await Lecturer.find({
-        year: lecturerData.year,
-        semester: lecturerData.semester
-    });
+    // return await Lecturer.find({
+    //     year: lecturerData.year,
+    //     semester: lecturerData.semester
+    // });
+    return await Lecturer.find({});
 }
 
 exports.getLecturerById = async (id) => {
